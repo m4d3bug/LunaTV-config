@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-16 21:37 CST）
+## API 状态（最近更新：2025-10-16 22:26 CST）
 
 - 总 API 数量：78
 - 成功 API 数量：78
 - 失败 API 数量：0
-- 平均可用率：98.6%
+- 平均可用率：98.7%
 - 完美可用率（100%）：62 个
 - 高可用率（80%-99%）：14 个
 - 中等可用率（50%-79%）：2 个
@@ -238,8 +238,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 60 | 39 | 60.6% | 0 |
-| ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 60 | 39 | 60.6% | 0 |
+| ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 61 | 38 | 61.6% | 0 |
+| ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 61 | 38 | 61.6% | 0 |
 <!-- API_TABLE_END -->
 
 
