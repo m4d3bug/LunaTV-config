@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-17 16:33 CST）
+## API 状态（最近更新：2025-10-17 17:27 CST）
 
 - 总 API 数量：78
 - 成功 API 数量：78
@@ -238,8 +238,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 77 | 23 | 77.0% | 0 |
-| ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 77 | 23 | 77.0% | 0 |
+| ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 78 | 22 | 78.0% | 0 |
+| ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 78 | 22 | 78.0% | 0 |
 <!-- API_TABLE_END -->
 
 
