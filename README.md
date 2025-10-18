@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-19 05:20 CST）
+## API 状态（最近更新：2025-10-19 06:22 CST）
 
 - 总 API 数量：78
-- 成功 API 数量：76
-- 失败 API 数量：2
+- 成功 API 数量：77
+- 失败 API 数量：1
 - 平均可用率：99.3%
 - 完美可用率（100%）：58 个
 - 高可用率（80%-99%）：20 个
@@ -238,8 +238,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ❌ | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 2 |
-| 🚨 | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 84 | 16 | 84.0% | 16 |
+| ✅ | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
+| 🚨 | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 83 | 17 | 83.0% | 17 |
 <!-- API_TABLE_END -->
 
 
