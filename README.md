@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-26 00:29 CST）
+## API 状态（最近更新：2025-10-26 01:20 CST）
 
 - 总 API 数量：78
-- 成功 API 数量：77
-- 失败 API 数量：1
-- 平均可用率：98.4%
+- 成功 API 数量：76
+- 失败 API 数量：2
+- 平均可用率：98.3%
 - 完美可用率（100%）：51 个
 - 高可用率（80%-99%）：26 个
 - 中等可用率（50%-79%）：0 个
@@ -237,9 +237,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 96 | 4 | 96.0% | 0 |
-| ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| 🚨 | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 28 | 72 | 28.0% | 72 |
+| ❌ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 1 |
+| 🚨 | 🎬小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 27 | 73 | 27.0% | 73 |
 <!-- API_TABLE_END -->
 
 
