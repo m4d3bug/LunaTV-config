@@ -590,19 +590,19 @@
       "is_adult": false
     },
     "ruyi": {
-      "api": "https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "🎬如意资源",
       "detail": "https://www.ryzyw.com",
       "is_adult": false
     },
     "uku": {
-      "api": "https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod",
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
       "name": "🎬U酷资源",
       "detail": "https://api.ukuapi.com",
       "is_adult": false
     },
     "ukuapi88_proxy": {
-      "api": "https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "name": "🎬U酷88",
       "detail": "https://api.ukuapi88.com",
       "is_adult": false
