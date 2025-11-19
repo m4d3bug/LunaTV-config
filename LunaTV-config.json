@@ -535,12 +535,6 @@
       "detail": "",
       "is_adult": false
     },
-    "apilj_provide": {
-      "api": "https://apilj.com/api.php/provide",
-      "name": "🎬辣椒资源黄黄",
-      "detail": "",
-      "is_adult": false
-    },
     "yzzy_api": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "🎬优质资源库1080zyk6.com高清",
