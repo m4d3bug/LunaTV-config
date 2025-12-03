@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-03 14:42 CST）
+## API 状态（最近更新：2025-12-03 15:29 CST）
 
 - 总 API 数量：108
 - 成功 API 数量：81
 - 失败 API 数量：27
-- 平均可用率：81.8%
+- 平均可用率：81.9%
 - 完美可用率（100%）：71 个
 - 高可用率（80%-99%）：17 个
 - 中等可用率（50%-79%）：1 个
@@ -246,12 +246,12 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ❌ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 68 | 32 | 68.0% | 2 |
-| ✅ | 🎬金鹰资源采集网 | https://jyzyapi.com/provide/vod | 17 | 83 | 17.0% | 0 |
+| 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
+| 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
+| 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
+| 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
+| 🚨 | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 68 | 32 | 68.0% | 3 |
+| ✅ | 🎬金鹰资源采集网 | https://jyzyapi.com/provide/vod | 18 | 82 | 18.0% | 0 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-卧龙资源 | https://collect.wolongzy.cc/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
