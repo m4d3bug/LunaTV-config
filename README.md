@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-16 15:31 CST）
+## API 状态（最近更新：2025-12-16 16:41 CST）
 
 - 总 API 数量：108
-- 成功 API 数量：78
-- 失败 API 数量：30
+- 成功 API 数量：79
+- 失败 API 数量：29
 - 平均可用率：82.7%
 - 完美可用率（100%）：58 个
 - 高可用率（80%-99%）：31 个
@@ -246,13 +246,13 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞AV-森林资源 | https://slapibf.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| 🚨 | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
-| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
-| 🚨 | 🔞AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
-| 🚨 | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
+| ✅ | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
+| ✅ | 🔞AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
+| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 89 | 11 | 89.0% | 11 |
+| 🚨 | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 89 | 11 | 89.0% | 11 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
-| 🚨 | 🔞AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 74 | 26 | 74.0% | 26 |
-| ✅ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 65 | 35 | 65.0% | 0 |
+| 🚨 | 🔞AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 73 | 27 | 73.0% | 27 |
+| ❌ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 64 | 36 | 64.0% | 1 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
