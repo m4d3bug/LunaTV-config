@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-16 13:32 CST）
+## API 状态（最近更新：2025-12-16 14:45 CST）
 
 - 总 API 数量：108
-- 成功 API 数量：76
-- 失败 API 数量：32
+- 成功 API 数量：78
+- 失败 API 数量：30
 - 平均可用率：82.8%
 - 完美可用率（100%）：58 个
 - 高可用率（80%-99%）：31 个
@@ -245,14 +245,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-豆瓣资源 | https://caiji.dbzy.tv/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
-| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
-| 🚨 | 🔞AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
-| 🚨 | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 92 | 8 | 92.0% | 8 |
+| 🚨 | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 91 | 9 | 91.0% | 9 |
 | ✅ | 🔞AV-森林资源 | https://slapibf.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 1 |
-| 🚨 | 🔞AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 76 | 24 | 76.0% | 24 |
-| ❌ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 64 | 36 | 64.0% | 1 |
+| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 91 | 9 | 91.0% | 9 |
+| 🚨 | 🔞AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 91 | 9 | 91.0% | 9 |
+| 🚨 | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 91 | 9 | 91.0% | 9 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
+| 🚨 | 🔞AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 75 | 25 | 75.0% | 25 |
+| ✅ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 65 | 35 | 65.0% | 0 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
