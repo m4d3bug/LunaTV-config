@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-17 18:34 CST）
+## API 状态（最近更新：2025-12-17 19:28 CST）
 
 - 总 API 数量：108
 - 成功 API 数量：79
@@ -248,11 +248,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AV-森林资源 | https://slapibf.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| 🚨 | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 3 |
+| 🚨 | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 84 | 16 | 84.0% | 4 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
-| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 65 | 35 | 65.0% | 35 |
-| 🚨 | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 61 | 39 | 61.0% | 3 |
-| 🚨 | 🔞AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 49 | 51 | 49.0% | 51 |
+| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 64 | 36 | 64.0% | 36 |
+| 🚨 | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 61 | 39 | 61.0% | 4 |
+| 🚨 | 🔞AV-souav资源 | https://api.souavzy.vip/api.php/provide/vod | 48 | 52 | 48.0% | 52 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
