@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-28 12:13 CST）
+## API 状态（最近更新：2025-12-28 13:33 CST）
 
 - 总 API 数量：108
 - 成功 API 数量：82
 - 失败 API 数量：26
-- 平均可用率：81.9%
+- 平均可用率：82.0%
 - 完美可用率（100%）：72 个
 - 高可用率（80%-99%）：15 个
 - 中等可用率（50%-79%）：2 个
@@ -249,10 +249,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AV-玉兔资源 | https://apiyutu.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
-| ✅ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 63 | 37 | 63.0% | 0 |
-| ✅ | 🔞AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 56 | 44 | 56.0% | 0 |
-| 🚨 | 🔞AV-老色逼资源 | https://apilsbzy1.com/api.php/provide/vod | 49 | 51 | 49.0% | 43 |
-| ✅ | 🎬TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 36 | 64 | 36.0% | 0 |
+| ✅ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 64 | 36 | 64.0% | 0 |
+| ✅ | 🔞AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 57 | 43 | 57.0% | 0 |
+| 🚨 | 🔞AV-老色逼资源 | https://apilsbzy1.com/api.php/provide/vod | 48 | 52 | 48.0% | 44 |
+| ✅ | 🎬TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 37 | 63 | 37.0% | 0 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
