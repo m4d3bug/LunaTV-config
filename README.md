@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-03 12:40 CST）
+## API 状态（最近更新：2026-01-03 13:30 CST）
 
 - 总 API 数量：108
 - 成功 API 数量：83
 - 失败 API 数量：25
-- 平均可用率：82.3%
+- 平均可用率：82.4%
 - 完美可用率（100%）：53 个
 - 高可用率（80%-99%）：37 个
 - 中等可用率（50%-79%）：1 个
@@ -232,17 +232,17 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ✅ | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬优质资源库1080zyk6.com高清 | https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | 🔁 | 🎬新浪资源阿 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | 🔁 | 🎬新浪资源阿 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🎬金鹰资源采集网 | https://jyzyapi.com/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ✅ | 🎬金鹰资源采集网 | https://jyzyapi.com/provide/vod | 98 | 2 | 98.0% | 0 |
+| ✅ | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ✅ | 🎬TV-360资源 | https://360zy.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
+| ✅ | 🎬TV-360资源 | https://360zy.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞AV-JKUN资源 | https://jkunzyapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
