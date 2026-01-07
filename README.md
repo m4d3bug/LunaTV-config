@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-08 04:35 CST）
+## API 状态（最近更新：2026-01-08 05:29 CST）
 
 - 总 API 数量：108
 - 成功 API 数量：81
@@ -250,8 +250,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AV-番号资源 | http://fhapi9.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AV-91麻豆 | https://91md.me/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| 🚨 | 🎬TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 84 | 16 | 84.0% | 15 |
-| 🚨 | 🎬TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 84 | 16 | 84.0% | 15 |
+| 🚨 | 🎬TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 83 | 17 | 83.0% | 16 |
+| 🚨 | 🎬TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 83 | 17 | 83.0% | 16 |
 | ✅ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 63 | 37 | 63.0% | 0 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
