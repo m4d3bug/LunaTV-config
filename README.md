@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-20 07:39 CST）
+## API 状态（最近更新：2026-02-20 10:44 CST）
 
 - 总 API 数量：108
 - 成功 API 数量：83
@@ -246,14 +246,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 93 | 7 | 93.0% | 6 |
-| 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 93 | 7 | 93.0% | 6 |
-| 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 6 |
-| 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 6 |
+| 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
+| 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
+| 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
+| 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 🔞AV-91麻豆 | https://91md.me/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 70 | 30 | 70.0% | 0 |
-| 🚨 | 🔞最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 40 | 60 | 40.0% | 60 |
+| 🚨 | 🔞最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 39 | 61 | 39.0% | 61 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
