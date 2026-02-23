@@ -146,15 +146,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-23 19:45 CST）
+## API 状态（最近更新：2026-02-23 21:23 CST）
 
 - 总 API 数量：108
-- 成功 API 数量：82
-- 失败 API 数量：26
+- 成功 API 数量：83
+- 失败 API 数量：25
 - 平均可用率：83.0%
 - 完美可用率（100%）：51 个
-- 高可用率（80%-99%）：39 个
-- 中等可用率（50%-79%）：2 个
+- 高可用率（80%-99%）：38 个
+- 中等可用率（50%-79%）：3 个
 - 低可用率（<50%）：16 个
 
 <div style="font-size: 11px;">
@@ -251,9 +251,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AV-91麻豆 | https://91md.me/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
 | ✅ | 🔞幸资源 | https://xzybb2.com/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
-| 🚨 | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 80 | 20 | 80.0% | 18 |
+| 🚨 | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 79 | 21 | 79.0% | 19 |
 | ✅ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 71 | 29 | 71.0% | 0 |
-| ❌ | 🎬爱短剧.cc | https://www.aiduanju.cc/ | 53 | 47 | 53.0% | 1 |
+| ✅ | 🎬爱短剧.cc | https://www.aiduanju.cc/ | 54 | 46 | 54.0% | 0 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
