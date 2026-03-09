@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-09 15:55 CST）
+## API 状态（最近更新：2026-03-09 16:56 CST）
 
 - 总 API 数量：108
 - 成功 API 数量：79
 - 失败 API 数量：29
-- 平均可用率：81.8%
+- 平均可用率：81.7%
 - 完美可用率（100%）：65 个
 - 高可用率（80%-99%）：24 个
 - 中等可用率（50%-79%）：1 个
@@ -244,15 +244,15 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| 🚨 | 🎬TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 89 | 11 | 89.0% | 11 |
-| 🚨 | 🎬TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 89 | 11 | 89.0% | 11 |
 | ✅ | 🎬TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 🎬TV-卧龙资源 | https://collect.wolongzy.cc/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 🎬TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
-| ✅ | 🔞优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
+| 🚨 | 🎬TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 88 | 12 | 88.0% | 12 |
+| 🚨 | 🎬TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 88 | 12 | 88.0% | 12 |
+| ✅ | 🔞优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
-| ❌ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 65 | 35 | 65.0% | 1 |
-| 🚨 | 🎬爱短剧.cc | https://www.aiduanju.cc/ | 21 | 79 | 21.0% | 79 |
+| ❌ | 🎬七七影视 | https://www.qiqidys.com/api.php/provide/vod/ | 64 | 36 | 64.0% | 2 |
+| 🚨 | 🎬爱短剧.cc | https://www.aiduanju.cc/ | 20 | 80 | 20.0% | 80 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
