@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-23 06:35 CST）
+## API 状态（最近更新：2026-03-23 07:36 CST）
 
 - 总 API 数量：108
-- 成功 API 数量：79
-- 失败 API 数量：29
+- 成功 API 数量：81
+- 失败 API 数量：27
 - 平均可用率：81.1%
 - 完美可用率（100%）：47 个
 - 高可用率（80%-99%）：41 个
@@ -219,7 +219,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬大地资源网络 | https://dadiapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AV-AIvin | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ❌ | 🔞AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
+| ✅ | 🔞AV-奥斯卡资源 | https://aosikazy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AV-森林资源 | https://slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AV-玉兔资源 | https://apiyutu.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -240,10 +240,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AV-老色逼资源 | https://apilsbzy1.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬TV-豆瓣资源 | https://caiji.dbzy.tv/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 95 | 5 | 95.0% | 1 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
