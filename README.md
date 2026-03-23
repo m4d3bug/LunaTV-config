@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-23 17:08 CST）
+## API 状态（最近更新：2026-03-23 19:01 CST）
 
 - 总 API 数量：108
 - 成功 API 数量：81
@@ -232,6 +232,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬TV-量子资源 | https://cj.lziapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AV-91麻豆 | https://91md.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AV-淫水机资源 | https://www.xrbsp.com/api/json.php | 98 | 2 | 98.0% | 0 |
@@ -240,7 +241,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AV-老色逼资源 | https://apilsbzy1.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬TV-豆瓣资源 | https://caiji.dbzy.tv/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
@@ -250,7 +250,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ✅ | 🎬TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 76 | 24 | 76.0% | 0 |
+| ✅ | 🎬TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 77 | 23 | 77.0% | 0 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
