@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-03 01:05 CST）
+## API 状态（最近更新：2026-04-03 03:07 CST）
 
 - 总 API 数量：108
 - 成功 API 数量：80
@@ -249,9 +249,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
-| ✅ | 🔞豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 74 | 26 | 74.0% | 0 |
-| 🚨 | 🎬TV-豆瓣资源 | https://caiji.dbzy.tv/api.php/provide/vod | 72 | 28 | 72.0% | 28 |
-| 🚨 | 🔞优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 72 | 28 | 72.0% | 28 |
+| ✅ | 🔞豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 75 | 25 | 75.0% | 0 |
+| 🚨 | 🎬TV-豆瓣资源 | https://caiji.dbzy.tv/api.php/provide/vod | 71 | 29 | 71.0% | 29 |
+| 🚨 | 🔞优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 71 | 29 | 71.0% | 29 |
 | 🚨 | 🎬iqiyi资源 | https://www.iqiyizyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-小猫咪资源 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
