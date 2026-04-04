@@ -85,12 +85,6 @@
       "detail": "",
       "is_adult": false
     },
-    "xiaomaomi": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "🎬TV-小猫咪资源",
-      "detail": "https://zy.xmm.hk",
-      "is_adult": false
-    },
     "xinlangapi": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "name": "🎬TV-新浪点播",
@@ -205,12 +199,6 @@
       "detail": "https://www.huyaapi.com",
       "is_adult": false
     },
-    "dbzy_caiji": {
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
-      "name": "🎬TV-豆瓣资源",
-      "detail": "https://caiji.dbzy.tv",
-      "is_adult": false
-    },
     "dbzy": {
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "🎬TV-豆瓣资源",
@@ -265,34 +253,10 @@
       "detail": "https://p2100.net",
       "is_adult": false
     },
-    "mozhuazy": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
-      "name": "🎬TV-魔爪资源",
-      "detail": "https://mozhuazy.com",
-      "is_adult": false
-    },
-    "moduapi": {
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "name": "🎬TV-魔都动漫",
-      "detail": "https://caiji.moduapi.cc",
-      "is_adult": false
-    },
     "mdzyapi": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "🎬TV-魔都资源",
       "detail": "https://www.mdzyapi.com",
-      "is_adult": false
-    },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "🎬TV-黑木耳",
-      "detail": "https://json.heimuer.xyz",
-      "is_adult": false
-    },
-    "heimuer02": {
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
-      "name": "🎬TV-黑木耳点播",
-      "detail": "https://json02.heimuer.xyz",
       "is_adult": false
     },
     "ffzynew": {
@@ -305,30 +269,6 @@
       "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "🎬极速资源",
       "detail": "https://jszyapi.com",
-      "is_adult": false
-    },
-    "gayapi": {
-      "api": "https://gayapi.com/api.php/provide/vod",
-      "name": "🎬快播资源网站",
-      "detail": "",
-      "is_adult": false
-    },
-    "aiduanju": {
-      "api": "https://www.aiduanju.cc/",
-      "name": "🎬爱短剧.cc",
-      "detail": "",
-      "is_adult": false
-    },
-    "huawei8": {
-      "api": "https://huawei8.live/api.php/provide/vod",
-      "name": "🎬华为吧资源",
-      "detail": "",
-      "is_adult": false
-    },
-    "taopianapi": {
-      "api": "https://taopianapi.com/cjapi/sda/vod",
-      "name": "🎬淘片资源",
-      "detail": "",
       "is_adult": false
     },
     "hongniuzy3": {
@@ -349,51 +289,9 @@
       "detail": "",
       "is_adult": false
     },
-    "fczy888": {
-      "api": "https://api.fczy888.me/api.php/provide/vod",
-      "name": "🎬蜂巢片库",
-      "detail": "",
-      "is_adult": false
-    },
-    "jmzy": {
-      "api": "https://api.jmzy.com/api.php/provide/vod",
-      "name": "🎬金马资源网",
-      "detail": "",
-      "is_adult": false
-    },
-    "dadiapi": {
-      "api": "https://dadiapi.com/api.php/provide/vod",
-      "name": "🎬大地资源网络",
-      "detail": "",
-      "is_adult": false
-    },
-    "kuaichezy": {
-      "api": "https://caiji.kuaichezy.org/api.php/provide",
-      "name": "🎬快车资源阿",
-      "detail": "",
-      "is_adult": false
-    },
     "xinlangapi_provide": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "name": "🎬新浪资源阿",
-      "detail": "",
-      "is_adult": false
-    },
-    "yzzy_api": {
-      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
-      "name": "🎬优质资源库1080zyk6.com高清",
-      "detail": "",
-      "is_adult": false
-    },
-    "iqiyizyapi": {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "🎬iqiyi资源",
-      "detail": "",
-      "is_adult": false
-    },
-    "qiqidys": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "🎬七七影视",
       "detail": "",
       "is_adult": false
     },
@@ -437,6 +335,12 @@
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "name": "🎬U酷88",
       "detail": "https://api.ukuapi88.com",
+      "is_adult": false
+    },
+    "jinchancaiji": {
+      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+      "name": "🎬TV-金蝉影视",
+      "detail": "https://zy.jinchancaiji.com",
       "is_adult": false
     }
   }
