@@ -556,7 +556,7 @@
   },
   "lives": {
     "aesq-live": {
-      "name": "直播频道(4790频道)",
+      "name": "直播频道",
       "url": "https://raw.githubusercontent.com/m4d3bug/LunaTV-config/main/aesq_live.m3u"
     }
   }
