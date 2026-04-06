@@ -553,21 +553,5 @@
       "detail": "https://xingba222.com",
       "is_adult": true
     }
-  },
-  "lives": {
-    "vbskycn-ipv4": {
-      "name": "IPTV直播(每日更新)",
-      "url": "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
-      "epg": "http://epg.51zmt.top:8000/e.xml"
-    },
-    "suxuang-ipv4": {
-      "name": "典藏版高清(含4K)",
-      "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
-      "epg": "http://epg.51zmt.top:8000/e.xml"
-    },
-    "best-fan": {
-      "name": "央视+卫视(精选)",
-      "url": "https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8"
-    }
   }
 }
