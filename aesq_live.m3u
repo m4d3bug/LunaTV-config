@@ -232,10 +232,6 @@ https://vd2.bdstatic.com/mda-nmj6k2bc3adyg21b/576p/h264/1671511395304150666/mda-
 https://vd4.bdstatic.com/mda-pb34i0fpkj0m4cps/hd/cae_h264/1675494022570178771/mda-pb34i0fpkj0m4cps.mp4
 #EXTINF:-1 group-title="港澳台",王杰2001香港红馆万岁演唱会
 https://vd2.bdstatic.com/mda-nmmhsiv6i89s0r06/360p/h264/1671712584454221071/mda-nmmhsiv6i89s0r06.mp4
-#EXTINF:-1 group-title="宝岛",美亚电影
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="宝岛",美亚电影
-http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="只关于篮球的只老师" tvg-logo="https://tb.zbds.top/logo/只关于篮球的只老师.png" group-title="体育",只关于篮球的只老师
 https://goodiptv.club/douyu/9367541
 #EXTINF:-1 tvg-id="屿风体育" tvg-logo="https://tb.zbds.top/logo/屿风体育.png" group-title="体育",屿风体育
@@ -4166,3 +4162,27 @@ http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
 #EXTINF:-1 group-title="影视",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="宝岛",中天新闻台
+http://play-a.quklive.com/live/738bbb16de5cc99bab3f3f14d371a816.flv
+#EXTINF:-1 group-title="宝岛",TVBS
+http://play-a.quklive.com/live/dc5020bcb2f575a9efae9a2a3de6d88a.flv
+#EXTINF:-1 group-title="宝岛",寰宇新闻台
+http://play-a.quklive.com/live/0b6663340222b565752713aafe9c9371.flv
+#EXTINF:-1 group-title="宝岛",中视
+http://play-a.quklive.com/live/b16353dbb7fe4380e641289f2db89cd2.flv
+#EXTINF:-1 group-title="宝岛",中视新闻
+http://play-a.quklive.com/live/16c28f54fa9d2d199ce4ff9e15d105d4.flv
+#EXTINF:-1 group-title="宝岛",华视
+http://play-a.quklive.com/live/937a25b7046d681964769e0be6de2f2b.flv
+#EXTINF:-1 group-title="宝岛",华视新闻
+http://play-a.quklive.com/live/43462fd5144c8453e376fa711fee497c.flv
+#EXTINF:-1 group-title="宝岛",龙华电影台
+http://play-a.quklive.com/live/55ad6fd5da6fa3d12d83f678df156e7b.flv
+#EXTINF:-1 group-title="宝岛",龙华戏剧台
+http://play-a.quklive.com/live/39c50640562ad0bd4943cc8e28a7d8e2.flv
+#EXTINF:-1 group-title="宝岛",龙华偶像台
+http://play-a.quklive.com/live/f2519f0af779b0132666ba913d3bbb8e.flv
+#EXTINF:-1 group-title="宝岛",龙华日韩台
+http://play-a.quklive.com/live/ee58e1418d5cb6d5308ccbf1e0b410bc.flv
+#EXTINF:-1 group-title="宝岛",龙华卡通台
+http://play-a.quklive.com/live/b19b0dcc2ea3ff1bd3ab2ac0fa28698d.flv
