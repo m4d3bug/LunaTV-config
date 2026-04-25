@@ -146,15 +146,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-25 11:19 CST）
+## API 状态（最近更新：2026-04-25 13:53 CST）
 
 - 总 API 数量：92
-- 成功 API 数量：76
-- 失败 API 数量：16
-- 平均可用率：96.2%
+- 成功 API 数量：75
+- 失败 API 数量：17
+- 平均可用率：96.1%
 - 完美可用率（100%）：56 个
-- 高可用率（80%-99%）：33 个
-- 中等可用率（50%-79%）：1 个
+- 高可用率（80%-99%）：31 个
+- 中等可用率（50%-79%）：3 个
 - 低可用率（<50%）：2 个
 
 <div style="font-size: 11px;">
@@ -243,15 +243,15 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬金鹰资源采集网 | https://jyzyapi.com/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 96 | 4 | 96.0% | 4 |
 | ✅ | 🎬TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🔞AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 96 | 4 | 96.0% | 4 |
-| 🚨 | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 96 | 4 | 96.0% | 4 |
-| ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
-| 🚨 | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 80 | 20 | 80.0% | 19 |
-| 🚨 | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 80 | 20 | 80.0% | 19 |
-| 🚨 | 🎬TV-金蝉影视 | https://zy.jinchancaiji.com/api.php/provide/vod | 79 | 21 | 79.0% | 7 |
+| 🚨 | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 95 | 5 | 95.0% | 5 |
+| 🚨 | 🔞AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 95 | 5 | 95.0% | 5 |
+| 🚨 | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 95 | 5 | 95.0% | 5 |
+| ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 82 | 18 | 82.0% | 1 |
+| 🚨 | 🎬TV-金蝉影视 | https://zy.jinchancaiji.com/api.php/provide/vod | 79 | 21 | 79.0% | 8 |
+| 🚨 | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 79 | 21 | 79.0% | 20 |
+| 🚨 | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 79 | 21 | 79.0% | 20 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-百度云资源 | https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 <!-- API_TABLE_END -->
