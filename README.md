@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-30 18:13 CST）
+## API 状态（最近更新：2026-04-30 20:18 CST）
 
 - 总 API 数量：92
-- 成功 API 数量：78
-- 失败 API 数量：14
-- 平均可用率：93.9%
+- 成功 API 数量：79
+- 失败 API 数量：13
+- 平均可用率：93.8%
 - 完美可用率（100%）：54 个
 - 高可用率（80%-99%）：32 个
 - 中等可用率（50%-79%）：1 个
@@ -240,18 +240,18 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🎬TV-光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🔞AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ❌ | 🔞AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 2 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🎬TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬金鹰资源采集网 | https://jyzyapi.com/provide/vod | 94 | 6 | 94.0% | 0 |
+| 🚨 | 🔞AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 3 |
 | ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 🎬TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 88 | 12 | 88.0% | 0 |
 | ✅ | 🎬TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 88 | 12 | 88.0% | 0 |
 | ✅ | 🔞AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 75 | 25 | 75.0% | 1 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 76 | 24 | 76.0% | 0 |
 | ✅ | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 37 | 63 | 37.0% | 0 |
-| 🚨 | 🎬TV-金蝉影视 | https://zy.jinchancaiji.com/api.php/provide/vod | 28 | 72 | 28.0% | 70 |
-| 🚨 | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 17 | 83 | 17.0% | 82 |
+| 🚨 | 🎬TV-金蝉影视 | https://zy.jinchancaiji.com/api.php/provide/vod | 27 | 73 | 27.0% | 71 |
+| 🚨 | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 16 | 84 | 16.0% | 83 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-百度云资源 | https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 <!-- API_TABLE_END -->
