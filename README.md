@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-05-01 19:14 CST）
+## API 状态（最近更新：2026-05-01 21:43 CST）
 
 - 总 API 数量：92
 - 成功 API 数量：79
@@ -248,10 +248,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 88 | 12 | 88.0% | 0 |
 | ✅ | 🎬TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 88 | 12 | 88.0% | 0 |
 | ✅ | 🔞AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 78 | 22 | 78.0% | 1 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 77 | 23 | 77.0% | 2 |
 | ✅ | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 37 | 63 | 37.0% | 0 |
-| 🚨 | 🎬TV-金蝉影视 | https://zy.jinchancaiji.com/api.php/provide/vod | 17 | 83 | 17.0% | 81 |
-| 🚨 | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 6 | 94 | 6.0% | 93 |
+| 🚨 | 🎬TV-金蝉影视 | https://zy.jinchancaiji.com/api.php/provide/vod | 16 | 84 | 16.0% | 82 |
+| 🚨 | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 5 | 95 | 5.0% | 94 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-百度云资源 | https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 <!-- API_TABLE_END -->
