@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-05-10 03:14 CST）
+## API 状态（最近更新：2026-05-10 04:54 CST）
 
 - 总 API 数量：92
 - 成功 API 数量：78
@@ -243,13 +243,13 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🔁 | 🎬新浪资源阿 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬金鹰资源采集网 | https://jyzyapi.com/provide/vod | 94 | 6 | 94.0% | 0 |
-| 🚨 | 🔞AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
 | ✅ | 🎬红牛资源 | https://www.hongniuzy3.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
+| 🚨 | 🔞AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
 | ✅ | 🎬TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
 | ✅ | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
 | ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
-| 🚨 | 🎬TV-卧龙资源 | https://collect.wolongzy.cc/api.php/provide/vod | 21 | 79 | 21.0% | 79 |
+| 🚨 | 🎬TV-卧龙资源 | https://collect.wolongzy.cc/api.php/provide/vod | 20 | 80 | 20.0% | 80 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-百度云资源 | https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-金蝉影视 | https://zy.jinchancaiji.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
