@@ -552,6 +552,20 @@
       "name": "🔞AV-杏吧资源",
       "detail": "https://xingba222.com",
       "is_adult": true
+    },
+    "ffzyapi_1": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "🎬TV-ffzyapi_1",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "aosikazy": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "🔞AV-aosikazy",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
     }
   },
   "lives": {
