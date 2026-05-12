@@ -1,0 +1,33 @@
+name: API Discovery
+
+on:
+  schedule:
+    - cron: "30 2 * * *"  # 每天 UTC 02:30 (北京时间 10:30)
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: 安装 Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: "20"
+
+    - name: 安装依赖
+      run: npm install
+
+    - name: 运行 API 发现脚本
+      run: node discover_apis.js
+
+    - name: 提交新发现的源
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add LunaTV-config.json discovery_cache.json
+        git diff --cached --quiet && echo "No new APIs found" && exit 0
+        git commit -m "🔍 自动发现新源 ($(date -d '+8 hour' +'%Y-%m-%d %H:%M CST'))"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
