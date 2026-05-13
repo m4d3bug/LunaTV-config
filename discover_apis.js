@@ -181,7 +181,85 @@ async function discoverFromYszzq() {
   return [...urls];
 }
 
-// PLACEHOLDER_DISCOVER_MORE
+// 从 Shodan 搜索引擎发现
+async function discoverFromShodan() {
+  const urls = new Set();
+  const SHODAN_KEY = process.env.SHODAN_API_KEY;
+
+  if (!SHODAN_KEY) {
+    console.log('📡 Shodan: 未配置 SHODAN_API_KEY，跳过');
+    return [];
+  }
+
+  console.log('📡 正在从 Shodan 发现新源...');
+
+  // Shodan 搜索查询 - 搜索包含 MacCMS API 特征的主机
+  const queries = [
+    'http.html:"provide/vod" http.html:"list" http.html:"code"',
+    'http.html:"api.php/provide/vod" http.html:"vod_name"',
+    'http.title:"苹果CMS" http.status:200',
+    'http.html:"apijson" http.html:"vod_id" http.html:"vod_name"',
+  ];
+
+  for (const query of queries) {
+    try {
+      const encodedQuery = encodeURIComponent(query);
+      const apiUrl = `https://api.shodan.io/shodan/host/search?key=${SHODAN_KEY}&query=${encodedQuery}&page=1`;
+
+      const controller = new AbortController();
+      const t = setTimeout(() => controller.abort(), 20000);
+      const res = await fetch(apiUrl, { signal: controller.signal });
+      clearTimeout(t);
+
+      if (!res.ok) {
+        const errText = await res.text().catch(() => '');
+        console.warn(`  ⚠️ Shodan 查询失败 (${res.status}): ${errText.slice(0, 100)}`);
+        continue;
+      }
+
+      const data = await res.json();
+      if (!data.matches || !Array.isArray(data.matches)) continue;
+
+      console.log(`  📊 Shodan 查询 "${query.slice(0, 40)}..." 返回 ${data.matches.length} 条结果`);
+
+      for (const match of data.matches) {
+        const ip = match.ip_str;
+        const port = match.port;
+        const hostnames = match.hostnames || [];
+        const http = match.http || {};
+        const html = http.html || match.data || '';
+
+        // 从响应体中提取 API URL
+        const foundUrls = extractApiUrls(html);
+        foundUrls.forEach(u => urls.add(u));
+
+        // 从域名构造可能的 API URL
+        for (const hostname of hostnames) {
+          const candidates = [
+            `https://${hostname}/api.php/provide/vod`,
+            `http://${hostname}/api.php/provide/vod`,
+            `https://${hostname}/inc/apijson.php`,
+          ];
+          candidates.forEach(u => urls.add(normalizeUrl(u)));
+        }
+
+        // 如果没有域名，用 IP:Port 构造
+        if (hostnames.length === 0 && port) {
+          const proto = port === 443 ? 'https' : 'http';
+          const portSuffix = (port === 80 || port === 443) ? '' : `:${port}`;
+          urls.add(normalizeUrl(`${proto}://${ip}${portSuffix}/api.php/provide/vod`));
+        }
+      }
+
+      await sleep(1500); // Shodan API 限流：1 请求/秒
+    } catch (e) {
+      console.warn(`  ⚠️ Shodan 查询异常:`, e.message);
+    }
+  }
+
+  console.log(`  ✅ Shodan 发现 ${urls.size} 个候选 URL`);
+  return [...urls].filter(Boolean);
+}
 
 // 从 waifu-project 的 JSON 获取
 async function discoverFromWaifuProject() {
@@ -309,14 +387,15 @@ async function discoverFromPublicLists() {
   // 3. 从多个来源发现候选 URL
   const allCandidates = new Set();
 
-  const [yszzqUrls, waifuUrls, helpUrls, publicUrls] = await Promise.all([
+  const [yszzqUrls, waifuUrls, helpUrls, publicUrls, shodanUrls] = await Promise.all([
     discoverFromYszzq(),
     discoverFromWaifuProject(),
     discoverFromHelpPages(),
     discoverFromPublicLists(),
+    discoverFromShodan(),
   ]);
 
-  [...yszzqUrls, ...waifuUrls, ...helpUrls, ...publicUrls].forEach(u => {
+  [...yszzqUrls, ...waifuUrls, ...helpUrls, ...publicUrls, ...shodanUrls].forEach(u => {
     if (u) allCandidates.add(u);
   });
 

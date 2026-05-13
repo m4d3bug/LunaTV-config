@@ -22,6 +22,8 @@ jobs:
 
     - name: 运行 API 发现脚本
       run: node discover_apis.js
+      env:
+        SHODAN_API_KEY: ${{ secrets.SHODAN_API_KEY }}
 
     - name: 提交新发现的源
       run: |
