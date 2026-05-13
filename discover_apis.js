@@ -185,6 +185,7 @@ async function discoverFromYszzq() {
 async function discoverFromShodan() {
   const urls = new Set();
   const SHODAN_KEY = process.env.SHODAN_API_KEY;
+  const MAX_SHODAN_URLS = 50; // 限制 Shodan 最多返回50个候选，避免验证时间过长
 
   if (!SHODAN_KEY) {
     console.log('📡 Shodan: 未配置 SHODAN_API_KEY，跳过');
@@ -197,11 +198,11 @@ async function discoverFromShodan() {
   const queries = [
     'http.html:"provide/vod" http.html:"list" http.html:"code"',
     'http.html:"api.php/provide/vod" http.html:"vod_name"',
-    'http.title:"苹果CMS" http.status:200',
-    'http.html:"apijson" http.html:"vod_id" http.html:"vod_name"',
   ];
 
   for (const query of queries) {
+    if (urls.size >= MAX_SHODAN_URLS) break;
+
     try {
       const encodedQuery = encodeURIComponent(query);
       const apiUrl = `https://api.shodan.io/shodan/host/search?key=${SHODAN_KEY}&query=${encodedQuery}&page=1`;
@@ -223,6 +224,8 @@ async function discoverFromShodan() {
       console.log(`  📊 Shodan 查询 "${query.slice(0, 40)}..." 返回 ${data.matches.length} 条结果`);
 
       for (const match of data.matches) {
+        if (urls.size >= MAX_SHODAN_URLS) break;
+
         const ip = match.ip_str;
         const port = match.port;
         const hostnames = match.hostnames || [];
@@ -414,11 +417,17 @@ async function discoverFromPublicLists() {
 
   console.log(`🆕 去重后需要验证的新 URL: ${newCandidates.length}\n`);
 
-  // 5. 验证每个候选 API
+  // 5. 验证每个候选 API（限制最多验证50个，避免超时）
+  const MAX_VALIDATE = 50;
+  const toValidate = newCandidates.slice(0, MAX_VALIDATE);
+  if (newCandidates.length > MAX_VALIDATE) {
+    console.log(`  ⚠️ 候选过多，本次只验证前 ${MAX_VALIDATE} 个\n`);
+  }
+
   let addedCount = 0;
   const newApis = [];
 
-  for (const url of newCandidates) {
+  for (const url of toValidate) {
     await sleep(DELAY_MS);
     process.stdout.write(`  验证: ${url} ... `);
 
