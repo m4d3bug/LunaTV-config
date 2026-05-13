@@ -24,6 +24,8 @@ jobs:
       run: node discover_apis.js
       env:
         SHODAN_API_KEY: ${{ secrets.SHODAN_API_KEY }}
+        FOFA_EMAIL: ${{ secrets.FOFA_EMAIL }}
+        FOFA_KEY: ${{ secrets.FOFA_KEY }}
 
     - name: 提交新发现的源
       run: |

@@ -261,6 +261,94 @@ async function discoverFromShodan() {
   return [...urls].filter(Boolean);
 }
 
+// 从 FOFA 搜索引擎发现
+async function discoverFromFofa() {
+  const urls = new Set();
+  const FOFA_EMAIL = process.env.FOFA_EMAIL;
+  const FOFA_KEY = process.env.FOFA_KEY;
+  const MAX_FOFA_URLS = 50;
+
+  if (!FOFA_EMAIL || !FOFA_KEY) {
+    console.log('📡 FOFA: 未配置 FOFA_EMAIL/FOFA_KEY，跳过');
+    return [];
+  }
+
+  console.log('📡 正在从 FOFA 发现新源...');
+
+  // FOFA 搜索查询 - 精准命中 MacCMS 采集站
+  const queries = [
+    'body="provide/vod" && body="vod_name" && status_code=200',
+    'body="api.php/provide/vod" && body="list" && body="code" && status_code=200',
+  ];
+
+  for (const query of queries) {
+    if (urls.size >= MAX_FOFA_URLS) break;
+
+    try {
+      const qbase64 = Buffer.from(query).toString('base64');
+      const apiUrl = `https://fofa.so/api/v1/search/all?email=${encodeURIComponent(FOFA_EMAIL)}&key=${FOFA_KEY}&qbase64=${qbase64}&size=50&fields=host,ip,port,protocol,domain`;
+
+      const controller = new AbortController();
+      const t = setTimeout(() => controller.abort(), 20000);
+      const res = await fetch(apiUrl, { signal: controller.signal });
+      clearTimeout(t);
+
+      if (!res.ok) {
+        const errText = await res.text().catch(() => '');
+        console.warn(`  ⚠️ FOFA 查询失败 (${res.status}): ${errText.slice(0, 100)}`);
+        continue;
+      }
+
+      const data = await res.json();
+
+      if (data.error) {
+        console.warn(`  ⚠️ FOFA 错误: ${data.errmsg || data.error}`);
+        continue;
+      }
+
+      if (!data.results || !Array.isArray(data.results)) continue;
+
+      console.log(`  📊 FOFA 查询 "${query.slice(0, 50)}..." 返回 ${data.results.length} 条结果 (总计 ${data.size})`);
+
+      for (const result of data.results) {
+        if (urls.size >= MAX_FOFA_URLS) break;
+
+        // result 格式: [host, ip, port, protocol, domain]
+        const [host, ip, port, protocol, domain] = result;
+
+        // 优先用 host（可能包含完整 URL）
+        if (host && host.includes('/')) {
+          // host 已经是完整 URL 形式
+          const candidate = normalizeUrl(host.replace(/\/$/, '') + '/api.php/provide/vod');
+          if (candidate) urls.add(candidate);
+        } else if (domain) {
+          // 用域名构造
+          const candidates = [
+            `https://${domain}/api.php/provide/vod`,
+            `https://${domain}/inc/apijson.php`,
+          ];
+          candidates.forEach(u => urls.add(normalizeUrl(u)));
+          // 也试试 api. 子域名
+          if (!domain.startsWith('api.')) {
+            urls.add(normalizeUrl(`https://api.${domain}/api.php/provide/vod`));
+          }
+        } else if (host && !host.match(/^\d+\.\d+\.\d+\.\d+/)) {
+          // host 是域名形式
+          urls.add(normalizeUrl(`https://${host}/api.php/provide/vod`));
+        }
+        // 跳过裸 IP
+      }
+
+      await sleep(1000); // FOFA 限流
+    } catch (e) {
+      console.warn(`  ⚠️ FOFA 查询异常:`, e.message);
+    }
+  }
+
+  console.log(`  ✅ FOFA 发现 ${urls.size} 个候选 URL`);
+  return [...urls].filter(Boolean);
+}
+
 // 从 waifu-project 的 JSON 获取
 async function discoverFromWaifuProject() {
   const urls = new Set();
@@ -387,15 +475,16 @@ async function discoverFromPublicLists() {
   // 3. 从多个来源发现候选 URL
   const allCandidates = new Set();
 
-  const [yszzqUrls, waifuUrls, helpUrls, publicUrls, shodanUrls] = await Promise.all([
+  const [yszzqUrls, waifuUrls, helpUrls, publicUrls, shodanUrls, fofaUrls] = await Promise.all([
     discoverFromYszzq(),
     discoverFromWaifuProject(),
     discoverFromHelpPages(),
     discoverFromPublicLists(),
     discoverFromShodan(),
+    discoverFromFofa(),
   ]);
 
-  [...yszzqUrls, ...waifuUrls, ...helpUrls, ...publicUrls, ...shodanUrls].forEach(u => {
+  [...yszzqUrls, ...waifuUrls, ...helpUrls, ...publicUrls, ...shodanUrls, ...fofaUrls].forEach(u => {
     if (u) allCandidates.add(u);
   });
 
