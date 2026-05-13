@@ -566,6 +566,41 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true
+    },
+    "l_hhhj": {
+      "api": "https://l.hhhj.top/api.php/provide/vod",
+      "name": "🎬TV-l_hhhj",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "l_hhhj_1": {
+      "api": "http://l.hhhj.top/api.php/provide/vod",
+      "name": "🎬TV-l_hhhj_1",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "cai_8810vip": {
+      "api": "https://cai.8810vip.com/api.php/provide/vod",
+      "name": "🎬TV-cai_8810vip",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "cai_8810vip_1": {
+      "api": "http://cai.8810vip.com/api.php/provide/vod",
+      "name": "🎬TV-cai_8810vip_1",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "45_150_227_216": {
+      "api": "http://45.150.227.216:6543/api.php/provide/vod",
+      "name": "🎬TV-45_150_227_216",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
     }
   },
   "lives": {
