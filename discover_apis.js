@@ -22,6 +22,8 @@ function normalizeUrl(url) {
   try {
     let u = url.trim().replace(/\/+$/, '');
     if (!u.startsWith('http')) u = 'https://' + u;
+    // 统一用 https，去重时忽略协议差异
+    u = u.replace(/^http:\/\//, 'https://');
     return u;
   } catch {
     return null;
@@ -246,12 +248,7 @@ async function discoverFromShodan() {
           candidates.forEach(u => urls.add(normalizeUrl(u)));
         }
 
-        // 如果没有域名，用 IP:Port 构造
-        if (hostnames.length === 0 && port) {
-          const proto = port === 443 ? 'https' : 'http';
-          const portSuffix = (port === 80 || port === 443) ? '' : `:${port}`;
-          urls.add(normalizeUrl(`${proto}://${ip}${portSuffix}/api.php/provide/vod`));
-        }
+        // 跳过裸 IP（不稳定，通常是临时部署）
       }
 
       await sleep(1500); // Shodan API 限流：1 请求/秒
