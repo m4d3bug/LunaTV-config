@@ -601,6 +601,48 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
+    },
+    "v_hwedding_cn": {
+      "api": "https://v.hwedding.cn/api.php/provide/vod",
+      "name": "🎬TV-v_hwedding_cn",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "aosikazyw1": {
+      "api": "https://aosikazyw1.com/api.php/provide/vod",
+      "name": "🔞AV-aosikazyw1",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "bwzy": {
+      "api": "https://www.bwzy.tv/api.php/provide/vod",
+      "name": "🔞AV-bwzy",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "bwzy_1": {
+      "api": "https://bwzy.tv/api.php/provide/vod",
+      "name": "🔞AV-bwzy_1",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "bhziyuan": {
+      "api": "https://bhziyuan.com/api.php/provide/vod",
+      "name": "🔞AV-bhziyuan",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "aosikazy6": {
+      "api": "https://aosikazy6.com/api.php/provide/vod",
+      "name": "🔞AV-aosikazy6",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
     }
   },
   "lives": {
