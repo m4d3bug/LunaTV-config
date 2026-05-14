@@ -643,6 +643,20 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true
+    },
+    "ckzy_1": {
+      "api": "https://www.ckzy.me/api.php/provide/vod",
+      "name": "🔞AV-ckzy_1",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "aosikazy2": {
+      "api": "https://aosikazy2.com/api.php/provide/vod",
+      "name": "🔞AV-aosikazy2",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
     }
   },
   "lives": {
