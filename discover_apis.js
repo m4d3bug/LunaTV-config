@@ -198,8 +198,8 @@ async function discoverFromShodan() {
 
   // Shodan 搜索查询 - 搜索包含 MacCMS API 特征的主机
   const queries = [
-    'http.html:"provide/vod" http.html:"list" http.html:"code"',
-    'http.html:"api.php/provide/vod" http.html:"vod_name"',
+    'http.html:"api.php/provide/vod"',
+    'http.html:"inc/apijson" http.html:"vod_id"',
   ];
 
   for (const query of queries) {
