@@ -657,6 +657,13 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true
+    },
+    "m766": {
+      "api": "https://m766.com/api.php/provide/vod",
+      "name": "🔞AV-m766",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
     }
   },
   "lives": {

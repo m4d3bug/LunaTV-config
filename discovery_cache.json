@@ -1703,7 +1703,19 @@
     },
     "https://aosikazy2.com/inc/apijson.php": {
       "time": 1778738505983
+    },
+    "https://help.m766.com/api.php/provide/vod": {
+      "time": 1778825321963
+    },
+    "https://help.m766.com/inc/apijson.php": {
+      "time": 1778825321963
+    },
+    "https://37.33.213.139.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
+      "time": 1778825321963
+    },
+    "https://37.33.213.139.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
+      "time": 1778825321963
     }
   },
-  "lastRun": "2026-05-14T06:02:05.807Z"
+  "lastRun": "2026-05-15T06:08:56.340Z"
 }
