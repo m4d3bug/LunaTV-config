@@ -664,6 +664,20 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true
+    },
+    "98zy": {
+      "api": "https://98zy.vip/api.php/provide/vod",
+      "name": "🎬TV-98zy",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "16_yun89": {
+      "api": "https://16.yun89.top/api.php/provide/vod",
+      "name": "🎬TV-16_yun89",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
     }
   },
   "lives": {
