@@ -678,6 +678,55 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
+    },
+    "aosikazy1": {
+      "api": "https://aosikazy1.com/api.php/provide/vod",
+      "name": "🔞AV-aosikazy1",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "360zyzz": {
+      "api": "https://360zyzz.com/api.php/provide/vod",
+      "name": "🎬TV-360zyzz",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "moduapi": {
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "name": "🎬TV-moduapi",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "ffzy5": {
+      "api": "https://ffzy5.tv/api.php/provide/vod",
+      "name": "🎬TV-ffzy5",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "beiyong_slapibf": {
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "name": "🔞AV-beiyong_slapibf",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "yzzy-api": {
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "name": "🎬TV-yzzy-api",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "semaozy_1": {
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "name": "🎬TV-semaozy_1",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
     }
   },
   "lives": {
