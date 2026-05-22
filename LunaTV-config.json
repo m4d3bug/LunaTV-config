@@ -727,6 +727,13 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
+    },
+    "wwzy_1": {
+      "api": "https://www.wwzy.tv/api.php/provide/vod",
+      "name": "🎬TV-wwzy_1",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
     }
   },
   "lives": {
