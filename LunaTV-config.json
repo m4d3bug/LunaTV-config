@@ -734,6 +734,20 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
+    },
+    "ckzy1": {
+      "api": "https://ckzy1.com/api.php/provide/vod",
+      "name": "🔞AV-ckzy1",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "ckzy1_1": {
+      "api": "https://www.ckzy1.com/api.php/provide/vod",
+      "name": "🔞AV-ckzy1_1",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
     }
   },
   "lives": {
