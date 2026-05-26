@@ -119,7 +119,13 @@
     },
     "https://bhziyuan.com/inc/apijson.php": {
       "time": 1779691927233
+    },
+    "https://help.m766.com/api.php/provide/vod": {
+      "time": 1779777045778
+    },
+    "https://help.m766.com/inc/apijson.php": {
+      "time": 1779777045778
     }
   },
-  "lastRun": "2026-05-25T06:52:21.692Z"
+  "lastRun": "2026-05-26T06:31:01.551Z"
 }
