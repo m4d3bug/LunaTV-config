@@ -16,52 +16,19 @@
       "time": 1779864330853
     },
     "https://1.2.3.4:800/api.php/provide/vod": {
-      "time": 1779345242570
+      "time": 1779950208841
     },
     "https://unknown.ip-xfer.net/api.php/provide/vod": {
-      "time": 1779345242570
+      "time": 1779950208841
     },
     "https://unknown.ip-xfer.net/inc/apijson.php": {
-      "time": 1779345242570
+      "time": 1779950208841
     },
     "https://129.33.213.139.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
-      "time": 1779345242570
+      "time": 1779950208841
     },
     "https://129.33.213.139.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
-      "time": 1779345242570
-    },
-    "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod": {
-      "time": 1779345242570
-    },
-    "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod": {
-      "time": 1779345242570
-    },
-    "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod": {
-      "time": 1779345242570
-    },
-    "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod": {
-      "time": 1779345242570
-    },
-    "https://caiji.kuaichezy.org/api.php/provide/vod": {
-      "time": 1779345242570
-    },
-    "https://mozhuazy.com/api.php/provide/vod": {
-      "time": 1779345242570
-    },
-    "https://zy.xmm.hk/api.php/provide/vod": {
-      "time": 1779345242570
-    },
-    "https://www.yyzywcj.com/api.php/provide/vod": {
-      "time": 1779345242570
-    },
-    "https://bfkjnwevjvnxx.com/api.php/provide/vod": {
-      "time": 1779345242570
-    },
-    "https://pz.168188.dpdns.org/?url=https://apilj.com/api.php/provide/vod": {
-      "time": 1779345242570
-    },
-    "https://xzybb2.com/api.php/provide/vod": {
-      "time": 1779345242570
+      "time": 1779950208841
     },
     "https://mzzy.me/api.php/provide/vod": {
       "time": 1779431472963
@@ -166,5 +133,5 @@
       "time": 1779864330853
     }
   },
-  "lastRun": "2026-05-27T06:45:55.094Z"
+  "lastRun": "2026-05-28T06:37:08.497Z"
 }
