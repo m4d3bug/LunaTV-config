@@ -748,6 +748,13 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true
+    },
+    "heiapi": {
+      "api": "https://api.heiapi.cc/api.php/provide/vod",
+      "name": "🎬TV-heiapi",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
     }
   },
   "lives": {

@@ -36,9 +36,6 @@
     "https://tyys2.vip/api.php/provide/vod": {
       "time": 1780036673734
     },
-    "https://example.com/api.php/provide/vod": {
-      "time": 1779515521837
-    },
     "https://107.181.245.18.static.gorillaservers.com/api.php/provide/vod": {
       "time": 1779603692094
     },
@@ -143,7 +140,31 @@
     },
     "https://mujiziyuan.com/inc/apijson.php": {
       "time": 1780036673734
+    },
+    "https://99.27.195.113.adsl-pool.jx.chinaunicom.com/api.php/provide/vod": {
+      "time": 1780120833783
+    },
+    "https://99.27.195.113.adsl-pool.jx.chinaunicom.com/inc/apijson.php": {
+      "time": 1780120833783
+    },
+    "https://heihei.help/api.php/provide/vod": {
+      "time": 1780120833783
+    },
+    "https://heihei.help/inc/apijson.php": {
+      "time": 1780120833783
+    },
+    "https://189-180-106-216.clients.gthost.com/api.php/provide/vod": {
+      "time": 1780120833783
+    },
+    "https://189-180-106-216.clients.gthost.com/inc/apijson.php": {
+      "time": 1780120833783
+    },
+    "https://www.heihei.help/api.php/provide/vod": {
+      "time": 1780120833783
+    },
+    "https://www.heihei.help/inc/apijson.php": {
+      "time": 1780120833783
     }
   },
-  "lastRun": "2026-05-29T06:38:06.642Z"
+  "lastRun": "2026-05-30T06:00:44.772Z"
 }
