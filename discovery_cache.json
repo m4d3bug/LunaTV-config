@@ -37,28 +37,22 @@
       "time": 1780036673734
     },
     "https://107.181.245.18.static.gorillaservers.com/api.php/provide/vod": {
-      "time": 1779603692094
+      "time": 1780209589445
     },
     "https://107.181.245.18.static.gorillaservers.com/inc/apijson.php": {
-      "time": 1779603692094
+      "time": 1780209589445
     },
     "https://ckzy.me/inc/apijson.php": {
-      "time": 1779603692094
-    },
-    "https://mta12.aeonmail.com/api.php/provide/vod": {
-      "time": 1779603692094
-    },
-    "https://mta12.aeonmail.com/inc/apijson.php": {
-      "time": 1779603692094
+      "time": 1780209589445
     },
     "https://www.ckzy.me/inc/apijson.php": {
-      "time": 1779603692094
+      "time": 1780209589445
     },
     "https://ckzy1.com/inc/apijson.php": {
-      "time": 1779603692094
+      "time": 1780209589445
     },
     "https://www.ckzy1.com/inc/apijson.php": {
-      "time": 1779603692094
+      "time": 1780209589445
     },
     "https://4kcj.utoclub.top/api.php/provide/vod": {
       "time": 1779691927233
@@ -166,5 +160,5 @@
       "time": 1780120833783
     }
   },
-  "lastRun": "2026-05-30T06:00:44.772Z"
+  "lastRun": "2026-05-31T06:39:59.943Z"
 }
