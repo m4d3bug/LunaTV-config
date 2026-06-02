@@ -60,12 +60,6 @@
     "https://bhziyuan.com/inc/apijson.php": {
       "time": 1780298955441
     },
-    "https://help.m766.com/api.php/provide/vod": {
-      "time": 1779777045778
-    },
-    "https://help.m766.com/inc/apijson.php": {
-      "time": 1779777045778
-    },
     "https://aosikazy11.com/api.php/provide/vod": {
       "time": 1779864330853
     },
@@ -152,7 +146,22 @@
     },
     "https://example.com/api.php/provide/vod": {
       "time": 1780298955441
+    },
+    "https://176.113.70.198.static.xtom.com/api.php/provide/vod": {
+      "time": 1780384065740
+    },
+    "https://176.113.70.198.static.xtom.com/inc/apijson.php": {
+      "time": 1780384065740
+    },
+    "https://域名/api.php/provide/vod": {
+      "time": 1780384065740
+    },
+    "https://yydsfivemjs.top/api.php/provide/vod": {
+      "time": 1780384065740
+    },
+    "https://yydsfivemjs.top/inc/apijson.php": {
+      "time": 1780384065740
     }
   },
-  "lastRun": "2026-06-01T07:29:27.756Z"
+  "lastRun": "2026-06-02T07:07:54.003Z"
 }
