@@ -16,19 +16,13 @@
       "time": 1780471329551
     },
     "https://1.2.3.4:800/api.php/provide/vod": {
-      "time": 1779950208841
+      "time": 1780556715427
     },
     "https://unknown.ip-xfer.net/api.php/provide/vod": {
-      "time": 1779950208841
+      "time": 1780556715427
     },
     "https://unknown.ip-xfer.net/inc/apijson.php": {
-      "time": 1779950208841
-    },
-    "https://129.33.213.139.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
-      "time": 1779950208841
-    },
-    "https://129.33.213.139.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
-      "time": 1779950208841
+      "time": 1780556715427
     },
     "https://mzzy.me/api.php/provide/vod": {
       "time": 1780036673734
@@ -163,5 +157,5 @@
       "time": 1780384065740
     }
   },
-  "lastRun": "2026-06-03T07:22:29.964Z"
+  "lastRun": "2026-06-04T07:05:34.680Z"
 }
