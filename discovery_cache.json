@@ -24,12 +24,6 @@
     "https://unknown.ip-xfer.net/inc/apijson.php": {
       "time": 1780556715427
     },
-    "https://mzzy.me/api.php/provide/vod": {
-      "time": 1780036673734
-    },
-    "https://tyys2.vip/api.php/provide/vod": {
-      "time": 1780036673734
-    },
     "https://107.181.245.18.static.gorillaservers.com/api.php/provide/vod": {
       "time": 1780209589445
     },
@@ -97,16 +91,16 @@
       "time": 1780471329551
     },
     "https://mta13.aeonmail.com/api.php/provide/vod": {
-      "time": 1780036673734
+      "time": 1780642133464
     },
     "https://mta13.aeonmail.com/inc/apijson.php": {
-      "time": 1780036673734
+      "time": 1780642133464
     },
     "https://mujiziyuan.com/api.php/provide/vod": {
-      "time": 1780036673734
+      "time": 1780642133464
     },
     "https://mujiziyuan.com/inc/apijson.php": {
-      "time": 1780036673734
+      "time": 1780642133464
     },
     "https://99.27.195.113.adsl-pool.jx.chinaunicom.com/api.php/provide/vod": {
       "time": 1780120833783
@@ -157,5 +151,5 @@
       "time": 1780384065740
     }
   },
-  "lastRun": "2026-06-04T07:05:34.680Z"
+  "lastRun": "2026-06-05T06:49:03.445Z"
 }
