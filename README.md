@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-15 03:47 CST）
+## API 状态（最近更新：2026-06-15 05:21 CST）
 
 - 总 API 数量：121
-- 成功 API 数量：105
-- 失败 API 数量：16
+- 成功 API 数量：104
+- 失败 API 数量：17
 - 平均可用率：91.9%
 - 完美可用率（100%）：59 个
 - 高可用率（80%-99%）：52 个
@@ -272,10 +272,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
-| ✅ | 🔞细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 76 | 24 | 76.0% | 0 |
-| ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 72 | 28 | 72.0% | 0 |
-| 🚨 | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 20 | 80 | 20.0% | 80 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
+| ✅ | 🔞细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 77 | 23 | 77.0% | 0 |
+| ❌ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 72 | 28 | 72.0% | 1 |
+| 🚨 | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 19 | 81 | 19.0% | 81 |
 | 🚨 | 🎬TV-l_hhhj | https://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj_1 | http://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
