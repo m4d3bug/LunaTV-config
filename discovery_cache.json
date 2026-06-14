@@ -24,23 +24,17 @@
     "https://unknown.ip-xfer.net/inc/apijson.php": {
       "time": 1781162028823
     },
-    "https://107.181.245.18.static.gorillaservers.com/api.php/provide/vod": {
-      "time": 1780814858199
-    },
-    "https://107.181.245.18.static.gorillaservers.com/inc/apijson.php": {
-      "time": 1780814858199
-    },
     "https://ckzy.me/inc/apijson.php": {
-      "time": 1780814858199
+      "time": 1781420755956
     },
     "https://www.ckzy.me/inc/apijson.php": {
-      "time": 1780814858199
+      "time": 1781420755956
     },
     "https://ckzy1.com/inc/apijson.php": {
-      "time": 1780814858199
+      "time": 1781420755956
     },
     "https://www.ckzy1.com/inc/apijson.php": {
-      "time": 1780814858199
+      "time": 1781420755956
     },
     "https://www.bhziyuan.com/api.php/provide/vod": {
       "time": 1780986708038
@@ -151,22 +145,22 @@
       "time": 1781074116090
     },
     "https://tv.hwedding.cn/api.php/provide/vod": {
-      "time": 1780814858199
+      "time": 1781420755956
     },
     "https://tv.hwedding.cn/inc/apijson.php": {
-      "time": 1780814858199
+      "time": 1781420755956
     },
     "https://help.m766.com/api.php/provide/vod": {
-      "time": 1780814858199
+      "time": 1781420755956
     },
     "https://help.m766.com/inc/apijson.php": {
-      "time": 1780814858199
+      "time": 1781420755956
     },
     "https://www.57play.cn/api.php/provide/vod": {
-      "time": 1780814858199
+      "time": 1781420755956
     },
     "https://www.57play.cn/inc/apijson.php": {
-      "time": 1780814858199
+      "time": 1781420755956
     },
     "https://360fl.360cjfl.com/api.php/provide/vod": {
       "time": 1781332638645
@@ -181,5 +175,5 @@
       "time": 1781332638645
     }
   },
-  "lastRun": "2026-06-13T06:37:35.254Z"
+  "lastRun": "2026-06-14T07:06:11.037Z"
 }
