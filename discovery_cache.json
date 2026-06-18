@@ -1,28 +1,28 @@
 {
   "failed": {
     "https://tyyszyapi.com/api.php/provide/vod": {
-      "time": 1781162028823
+      "time": 1781766955362
     },
     "https://api.wuxianzy.net/api.php/provide/vod": {
-      "time": 1781162028823
+      "time": 1781766955362
     },
     "https://api.fczy888.me/api.php/provide/vod": {
-      "time": 1781162028823
+      "time": 1781766955362
     },
     "https://api.1080zyku.com/inc/api.php/provide/vod": {
-      "time": 1781162028823
+      "time": 1781766955362
     },
     "https://lovedan.net/api.php/provide/vod": {
-      "time": 1781162028823
+      "time": 1781766955362
     },
     "https://1.2.3.4:800/api.php/provide/vod": {
-      "time": 1781162028823
+      "time": 1781766955362
     },
     "https://unknown.ip-xfer.net/api.php/provide/vod": {
-      "time": 1781162028823
+      "time": 1781766955362
     },
     "https://unknown.ip-xfer.net/inc/apijson.php": {
-      "time": 1781162028823
+      "time": 1781766955362
     },
     "https://ckzy.me/inc/apijson.php": {
       "time": 1781420755956
@@ -41,48 +41,6 @@
     },
     "https://bhziyuan.com/inc/apijson.php": {
       "time": 1781598389491
-    },
-    "https://aosikazy11.com/api.php/provide/vod": {
-      "time": 1781162028823
-    },
-    "https://aosikazy11.com/inc/apijson.php": {
-      "time": 1781162028823
-    },
-    "https://www.aosikazy11.com/api.php/provide/vod": {
-      "time": 1781162028823
-    },
-    "https://www.aosikazy11.com/inc/apijson.php": {
-      "time": 1781162028823
-    },
-    "https://aosikazy.cc/api.php/provide/vod": {
-      "time": 1781162028823
-    },
-    "https://aosikazy.cc/inc/apijson.php": {
-      "time": 1781162028823
-    },
-    "https://maccmsv10moban.com/api.php/provide/vod": {
-      "time": 1781162028823
-    },
-    "https://maccmsv10moban.com/inc/apijson.php": {
-      "time": 1781162028823
-    },
-    "https://asktuchuang.com/api.php/provide/vod": {
-      "time": 1781162028823
-    },
-    "https://asktuchuang.com/inc/apijson.php": {
-      "time": 1781162028823
-    },
-    "https://askzy.cc/api.php/provide/vod": {
-      "time": 1781162028823
-    },
-    "https://askzy.cc/inc/apijson.php": {
-      "time": 1781162028823
-    },
-    "https://macv10mb.com/api.php/provide/vod": {
-      "time": 1781162028823
-    },
-    "https://macv10mb.com/inc/apijson.php": {
-      "time": 1781162028823
     },
     "https://mta13.aeonmail.com/api.php/provide/vod": {
       "time": 1781247871280
@@ -184,5 +142,5 @@
       "time": 1781681580590
     }
   },
-  "lastRun": "2026-06-17T07:33:12.451Z"
+  "lastRun": "2026-06-18T07:16:15.801Z"
 }
