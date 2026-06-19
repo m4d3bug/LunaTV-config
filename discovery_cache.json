@@ -42,18 +42,6 @@
     "https://bhziyuan.com/inc/apijson.php": {
       "time": 1781598389491
     },
-    "https://mta13.aeonmail.com/api.php/provide/vod": {
-      "time": 1781247871280
-    },
-    "https://mta13.aeonmail.com/inc/apijson.php": {
-      "time": 1781247871280
-    },
-    "https://mujiziyuan.com/api.php/provide/vod": {
-      "time": 1781247871280
-    },
-    "https://mujiziyuan.com/inc/apijson.php": {
-      "time": 1781247871280
-    },
     "https://99.27.195.113.adsl-pool.jx.chinaunicom.com/api.php/provide/vod": {
       "time": 1781332638645
     },
@@ -142,5 +130,5 @@
       "time": 1781681580590
     }
   },
-  "lastRun": "2026-06-18T07:16:15.801Z"
+  "lastRun": "2026-06-19T07:38:45.261Z"
 }
