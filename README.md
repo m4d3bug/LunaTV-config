@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-29 08:15 CST）
+## API 状态（最近更新：2026-06-29 13:57 CST）
 
 - 总 API 数量：121
-- 成功 API 数量：103
-- 失败 API 数量：18
+- 成功 API 数量：101
+- 失败 API 数量：20
 - 平均可用率：90.6%
 - 完美可用率（100%）：73 个
 - 高可用率（80%-99%）：34 个
@@ -269,13 +269,13 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 73 | 27 | 73.0% | 1 |
-| ✅ | 🎬TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 69 | 31 | 69.0% | 0 |
-| ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 65 | 35 | 65.0% | 0 |
-| ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 59 | 41 | 59.0% | 0 |
-| 🚨 | 🔞AV-bhziyuan | https://bhziyuan.com/api.php/provide/vod | 51 | 49 | 51.0% | 49 |
-| 🚨 | 🎬TV-16_yun89 | https://16.yun89.top/api.php/provide/vod | 47 | 53 | 47.0% | 53 |
-| ✅ | 🎬TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 14 | 86 | 14.0% | 0 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 74 | 26 | 74.0% | 0 |
+| ❌ | 🎬TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 68 | 32 | 68.0% | 1 |
+| ❌ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 64 | 36 | 64.0% | 1 |
+| ❌ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 59 | 41 | 59.0% | 1 |
+| 🚨 | 🔞AV-bhziyuan | https://bhziyuan.com/api.php/provide/vod | 50 | 50 | 50.0% | 50 |
+| 🚨 | 🎬TV-16_yun89 | https://16.yun89.top/api.php/provide/vod | 46 | 54 | 46.0% | 54 |
+| ✅ | 🎬TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 15 | 85 | 15.0% | 0 |
 | 🚨 | 🎬TV-l_hhhj | https://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj_1 | http://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-卧龙资源 | https://collect.wolongzy.cc/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
