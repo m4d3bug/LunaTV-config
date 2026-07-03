@@ -75,14 +75,8 @@
     "https://example.com/api.php/provide/vod": {
       "time": 1782888649385
     },
-    "https://176.113.70.198.static.xtom.com/api.php/provide/vod": {
-      "time": 1782369088164
-    },
-    "https://176.113.70.198.static.xtom.com/inc/apijson.php": {
-      "time": 1782369088164
-    },
     "https://域名/api.php/provide/vod": {
-      "time": 1782369088164
+      "time": 1783058894627
     },
     "https://tv.hwedding.cn/api.php/provide/vod": {
       "time": 1782717129935
@@ -118,14 +112,20 @@
       "time": 1782888649385
     },
     "https://153.224.212.35.bc.googleusercontent.com/api.php/provide/vod": {
-      "time": 1782369088164
+      "time": 1783058894627
     },
     "https://153.224.212.35.bc.googleusercontent.com/inc/apijson.php": {
-      "time": 1782369088164
+      "time": 1783058894627
     },
     "https://yszyw1.top/api.php/provide/vod": {
       "time": 1782628975018
+    },
+    "https://216.112.22.175.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
+      "time": 1783058894627
+    },
+    "https://216.112.22.175.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
+      "time": 1783058894627
     }
   },
-  "lastRun": "2026-07-02T06:22:22.963Z"
+  "lastRun": "2026-07-03T06:08:27.377Z"
 }
