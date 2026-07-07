@@ -24,18 +24,6 @@
     "https://unknown.ip-xfer.net/inc/apijson.php": {
       "time": 1783144712784
     },
-    "https://ckzy.me/inc/apijson.php": {
-      "time": 1782717129935
-    },
-    "https://www.ckzy.me/inc/apijson.php": {
-      "time": 1782717129935
-    },
-    "https://ckzy1.com/inc/apijson.php": {
-      "time": 1782717129935
-    },
-    "https://www.ckzy1.com/inc/apijson.php": {
-      "time": 1782717129935
-    },
     "https://www.bhziyuan.com/api.php/provide/vod": {
       "time": 1782888649385
     },
@@ -73,22 +61,22 @@
       "time": 1783058894627
     },
     "https://tv.hwedding.cn/api.php/provide/vod": {
-      "time": 1782717129935
+      "time": 1783405725126
     },
     "https://tv.hwedding.cn/inc/apijson.php": {
-      "time": 1782717129935
+      "time": 1783405725126
     },
     "https://help.m766.com/api.php/provide/vod": {
-      "time": 1782717129935
+      "time": 1783405725126
     },
     "https://help.m766.com/inc/apijson.php": {
-      "time": 1782717129935
+      "time": 1783405725126
     },
     "https://www.57play.cn/api.php/provide/vod": {
-      "time": 1782717129935
+      "time": 1783405725126
     },
     "https://www.57play.cn/inc/apijson.php": {
-      "time": 1782717129935
+      "time": 1783405725126
     },
     "https://360fl.360cjfl.com/api.php/provide/vod": {
       "time": 1783320690028
@@ -121,5 +109,5 @@
       "time": 1783058894627
     }
   },
-  "lastRun": "2026-07-06T06:51:43.077Z"
+  "lastRun": "2026-07-07T06:28:59.606Z"
 }
