@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-08 23:27 CST）
+## API 状态（最近更新：2026-07-09 01:45 CST）
 
 - 总 API 数量：121
-- 成功 API 数量：104
-- 失败 API 数量：17
+- 成功 API 数量：103
+- 失败 API 数量：18
 - 平均可用率：90.9%
 - 完美可用率（100%）：71 个
 - 高可用率（80%-99%）：37 个
@@ -266,9 +266,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞AV-aosikazy | https://aosikazy.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🔞AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| ❌ | 🔞AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
+| ✅ | 🎬TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🔞AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ✅ | 🎬TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 74 | 26 | 74.0% | 0 |
 | ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 73 | 27 | 73.0% | 0 |
