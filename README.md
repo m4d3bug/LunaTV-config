@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-10 20:03 CST）
+## API 状态（最近更新：2026-07-10 23:36 CST）
 
 - 总 API 数量：121
-- 成功 API 数量：102
-- 失败 API 数量：19
+- 成功 API 数量：103
+- 失败 API 数量：18
 - 平均可用率：90.9%
 - 完美可用率（100%）：68 个
 - 高可用率（80%-99%）：43 个
@@ -267,8 +267,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ❌ | 🔞AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 92 | 8 | 92.0% | 1 |
-| 🚨 | 🎬TV-飘零资源 | https://p2100.net/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
+| ✅ | 🔞AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
+| 🚨 | 🎬TV-飘零资源 | https://p2100.net/api.php/provide/vod | 89 | 11 | 89.0% | 11 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
 | ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
