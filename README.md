@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-13 04:59 CST）
+## API 状态（最近更新：2026-07-13 06:02 CST）
 
 - 总 API 数量：121
-- 成功 API 数量：103
-- 失败 API 数量：18
+- 成功 API 数量：102
+- 失败 API 数量：19
 - 平均可用率：90.8%
 - 完美可用率（100%）：71 个
 - 高可用率（80%-99%）：39 个
@@ -271,8 +271,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 🎬TV-ffzy5 | https://ffzy5.tv/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
 | ✅ | 🎬TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
-| 🚨 | 🎬TV-飘零资源 | https://p2100.net/api.php/provide/vod | 68 | 32 | 68.0% | 16 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 1 |
+| 🚨 | 🎬TV-飘零资源 | https://p2100.net/api.php/provide/vod | 67 | 33 | 67.0% | 17 |
 | ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 53 | 47 | 53.0% | 0 |
 | 🚨 | 🎬TV-16_yun89 | https://16.yun89.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj | https://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
