@@ -60,23 +60,17 @@
     "https://域名/api.php/provide/vod": {
       "time": 1783664704647
     },
-    "https://tv.hwedding.cn/api.php/provide/vod": {
-      "time": 1783405725126
-    },
-    "https://tv.hwedding.cn/inc/apijson.php": {
-      "time": 1783405725126
-    },
     "https://help.m766.com/api.php/provide/vod": {
-      "time": 1783405725126
+      "time": 1784092451150
     },
     "https://help.m766.com/inc/apijson.php": {
-      "time": 1783405725126
+      "time": 1784092451150
     },
     "https://www.57play.cn/api.php/provide/vod": {
-      "time": 1783405725126
+      "time": 1784092451150
     },
     "https://www.57play.cn/inc/apijson.php": {
-      "time": 1783405725126
+      "time": 1784092451150
     },
     "https://28.220-145-38.rdns.scalabledns.com/api.php/provide/vod": {
       "time": 1784006002831
@@ -109,5 +103,5 @@
       "time": 1783747538670
     }
   },
-  "lastRun": "2026-07-14T05:13:37.034Z"
+  "lastRun": "2026-07-15T05:14:22.738Z"
 }
