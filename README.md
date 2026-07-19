@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-19 11:33 CST）
+## API 状态（最近更新：2026-07-19 14:36 CST）
 
 - 总 API 数量：121
 - 成功 API 数量：102
@@ -272,8 +272,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🎬TV-ffzy5 | https://ffzy5.tv/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
-| 🚨 | 🔞AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 35 | 65 | 35.0% | 60 |
-| 🚨 | 🎬TV-飘零资源 | https://p2100.net/api.php/provide/vod | 5 | 95 | 5.0% | 79 |
+| 🚨 | 🔞AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 34 | 66 | 34.0% | 61 |
+| 🚨 | 🎬TV-飘零资源 | https://p2100.net/api.php/provide/vod | 4 | 96 | 4.0% | 80 |
 | 🚨 | 🎬TV-16_yun89 | https://16.yun89.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj | https://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj_1 | http://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
