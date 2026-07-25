@@ -146,15 +146,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-26 03:18 CST）
+## API 状态（最近更新：2026-07-26 05:01 CST）
 
 - 总 API 数量：121
-- 成功 API 数量：99
-- 失败 API 数量：22
+- 成功 API 数量：98
+- 失败 API 数量：23
 - 平均可用率：89.7%
 - 完美可用率（100%）：73 个
-- 高可用率（80%-99%）：35 个
-- 中等可用率（50%-79%）：2 个
+- 高可用率（80%-99%）：34 个
+- 中等可用率（50%-79%）：3 个
 - 低可用率（<50%）：11 个
 
 <div style="font-size: 11px;">
@@ -267,11 +267,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🎬TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 5 |
+| 🚨 | 🎬TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
-| 🚨 | 🎬TV-45_150_227_216 | http://45.150.227.216:6543/api.php/provide/vod | 78 | 22 | 78.0% | 21 |
-| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 58 | 42 | 58.0% | 41 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 79 | 21 | 79.0% | 1 |
+| 🚨 | 🎬TV-45_150_227_216 | http://45.150.227.216:6543/api.php/provide/vod | 77 | 23 | 77.0% | 22 |
+| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 57 | 43 | 57.0% | 42 |
 | 🚨 | 🎬TV-16_yun89 | https://16.yun89.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj | https://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj_1 | http://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
