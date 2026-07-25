@@ -146,14 +146,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-26 05:01 CST）
+## API 状态（最近更新：2026-07-26 06:04 CST）
 
 - 总 API 数量：121
 - 成功 API 数量：98
 - 失败 API 数量：23
-- 平均可用率：89.7%
-- 完美可用率（100%）：73 个
-- 高可用率（80%-99%）：34 个
+- 平均可用率：89.6%
+- 完美可用率（100%）：74 个
+- 高可用率（80%-99%）：33 个
 - 中等可用率（50%-79%）：3 个
 - 低可用率（<50%）：11 个
 
@@ -188,6 +188,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-牛牛点播 | https://api.niuniuzy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-索尼资源 | https://suoniapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -241,11 +242,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-yzzy-api | https://api.yzzy-api.com/inc/apijson.php | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬金鹰资源采集网 | https://jyzyapi.com/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AV-aosikazy2 | https://aosikazy2.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -259,6 +258,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ❌ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 1 |
 | ✅ | 🎬非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AV-aosikazy1 | https://aosikazy1.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AV-souAV资源 | https://api.souavzyw.net/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
@@ -267,11 +267,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🎬TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |
+| 🚨 | 🎬TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 7 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 79 | 21 | 79.0% | 1 |
-| 🚨 | 🎬TV-45_150_227_216 | http://45.150.227.216:6543/api.php/provide/vod | 77 | 23 | 77.0% | 22 |
-| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 57 | 43 | 57.0% | 42 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
+| 🚨 | 🎬TV-45_150_227_216 | http://45.150.227.216:6543/api.php/provide/vod | 76 | 24 | 76.0% | 23 |
+| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 56 | 44 | 56.0% | 43 |
 | 🚨 | 🎬TV-16_yun89 | https://16.yun89.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj | https://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj_1 | http://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
