@@ -85,14 +85,17 @@
       "time": 1784957248134
     },
     "https://176.113.70.198.static.xtom.com/api.php/provide/vod": {
-      "time": 1784439363335
+      "time": 1785044691659
     },
     "https://176.113.70.198.static.xtom.com/inc/apijson.php": {
-      "time": 1784439363335
+      "time": 1785044691659
     },
     "https://43.167.245.26/api.php/provide/vod": {
       "time": 1784957248134
+    },
+    "https://api.wujinwszy.net/api.php/provide/vod": {
+      "time": 1785044691659
     }
   },
-  "lastRun": "2026-07-25T05:27:40.820Z"
+  "lastRun": "2026-07-26T05:45:02.618Z"
 }
