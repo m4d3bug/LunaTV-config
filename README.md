@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-27 23:48 CST）
+## API 状态（最近更新：2026-07-28 01:49 CST）
 
 - 总 API 数量：121
 - 成功 API 数量：100
@@ -267,11 +267,11 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
+| ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
 | ✅ | 🎬TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
-| 🚨 | 🎬TV-45_150_227_216 | http://45.150.227.216:6543/api.php/provide/vod | 61 | 39 | 61.0% | 38 |
-| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 42 | 58 | 42.0% | 58 |
+| 🚨 | 🎬TV-45_150_227_216 | http://45.150.227.216:6543/api.php/provide/vod | 60 | 40 | 60.0% | 39 |
+| 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 41 | 59 | 41.0% | 59 |
 | 🚨 | 🎬TV-16_yun89 | https://16.yun89.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj | https://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj_1 | http://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
