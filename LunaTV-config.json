@@ -755,6 +755,20 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
+    },
+    "xgzyapi": {
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
+      "name": "🎬TV-xgzyapi",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "bf_xoxowin86cisyap": {
+      "api": "https://bf.xoxowin86cisyap.com/api.php/provide/vod",
+      "name": "🎬TV-bf_xoxowin86cisyap",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
     }
   },
   "lives": {
