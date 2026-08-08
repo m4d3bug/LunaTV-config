@@ -146,14 +146,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-09 03:36 CST）
+## API 状态（最近更新：2026-08-09 04:38 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：102
 - 失败 API 数量：21
 - 平均可用率：88.8%
-- 完美可用率（100%）：87 个
-- 高可用率（80%-99%）：23 个
+- 完美可用率（100%）：88 个
+- 高可用率（80%-99%）：22 个
 - 中等可用率（50%-79%）：0 个
 - 低可用率（<50%）：13 个
 
@@ -166,7 +166,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-360zyzz | https://360zyzz.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-360资源 | https://360zy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-98zy | https://98zy.vip/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-bf_xoxowin86cisyap | https://bf.xoxowin86cisyap.com/api.php/provide/vod | 81 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-bf_xoxowin86cisyap | https://bf.xoxowin86cisyap.com/api.php/provide/vod | 82 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-cai_8810vip | https://cai.8810vip.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-cai_8810vip_1 | http://cai.8810vip.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -178,7 +178,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-semaozy_1 | https://caiji.semaozy.net/inc/apijson_vod.php | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-v_hwedding_cn | https://v.hwedding.cn/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-wwzy_1 | https://www.wwzy.tv/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-xgzyapi | https://caiji.xgzyapi.com/api.php/provide/vod | 81 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-xgzyapi | https://caiji.xgzyapi.com/api.php/provide/vod | 82 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-yzzy-api | https://api.yzzy-api.com/inc/apijson.php | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-丫丫点播 | https://cj.yayazy.net/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -232,6 +232,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AV-souAV资源 | https://api.souavzyw.net/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞AV-VN资源 | https://vnzyz.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞AV-杏吧资源 | https://xingba222.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ✅ | 🔞AV-森林资源 | https://slapibf.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞AV-玉兔资源 | https://apiyutu.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞AV-番号资源 | http://fhapi9.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞AV-白嫖资源 | https://www.kxgav.com/api/json.php | 100 | 0 | 100.0% | 0 |
@@ -255,7 +256,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞AV-aosikazy1 | https://aosikazy1.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AV-aosikazy2 | https://aosikazy2.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AV-aosikazyw1 | https://aosikazyw1.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🔞AV-森林资源 | https://slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AV-淫水机资源 | https://www.xrbsp.com/api/json.php | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 98 | 2 | 98.0% | 0 |
