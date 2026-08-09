@@ -37,7 +37,7 @@
       "time": 1786160998421
     },
     "https://域名/api.php/provide/vod": {
-      "time": 1785562803352
+      "time": 1786247860473
     },
     "https://www.57play.cn/api.php/provide/vod": {
       "time": 1785994338720
@@ -53,12 +53,6 @@
     },
     "https://yszyw1.top/api.php/provide/vod": {
       "time": 1785994338720
-    },
-    "https://216.112.22.175.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
-      "time": 1785562803352
-    },
-    "https://216.112.22.175.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
-      "time": 1785562803352
     },
     "https://176.113.70.198.static.xtom.com/api.php/provide/vod": {
       "time": 1785736581233
@@ -85,14 +79,20 @@
       "time": 1785994338720
     },
     "https://niuniuzy3.com/api.php/provide/vod": {
-      "time": 1785562803352
+      "time": 1786247860473
     },
     "https://47.17.195.113.adsl-pool.jx.chinaunicom.com/api.php/provide/vod": {
       "time": 1786160998421
     },
     "https://47.17.195.113.adsl-pool.jx.chinaunicom.com/inc/apijson.php": {
       "time": 1786160998421
+    },
+    "https://help.m766.com/api.php/provide/vod": {
+      "time": 1786247860473
+    },
+    "https://help.m766.com/inc/apijson.php": {
+      "time": 1786247860473
     }
   },
-  "lastRun": "2026-08-08T03:50:15.657Z"
+  "lastRun": "2026-08-09T03:57:49.977Z"
 }
