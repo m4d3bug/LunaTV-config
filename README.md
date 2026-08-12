@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-13 04:54 CST）
+## API 状态（最近更新：2026-08-13 05:54 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：103
@@ -265,14 +265,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞AV-aosikazy2 | https://aosikazy2.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ✅ | 🔞AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🔞AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 🎬TV-bf_xoxowin86cisyap | https://bf.xoxowin86cisyap.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 82 | 18 | 82.0% | 0 |
-| ✅ | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 34 | 66 | 34.0% | 0 |
+| ✅ | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 35 | 65 | 35.0% | 0 |
 | 🚨 | 🎬TV-16_yun89 | https://16.yun89.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-45_150_227_216 | http://45.150.227.216:6543/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj | https://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
