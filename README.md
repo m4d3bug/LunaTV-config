@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-14 12:56 CST）
+## API 状态（最近更新：2026-08-14 14:21 CST）
 
 - 总 API 数量：123
 - 成功 API 数量：95
@@ -260,19 +260,19 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬TV-CK资源 | https://ckzy.me/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🎬TV-bf_xoxowin86cisyap | https://bf.xoxowin86cisyap.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| 🚨 | 🎬TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 88 | 12 | 88.0% | 12 |
-| 🚨 | 🎬TV-ffzyapi_1 | http://api.ffzyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 12 |
-| 🚨 | 🎬TV-xgzyapi | https://caiji.xgzyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 12 |
-| 🚨 | 🎬TV-yzzy-api | https://api.yzzy-api.com/inc/apijson.php | 88 | 12 | 88.0% | 12 |
-| 🚨 | 🎬TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 12 |
-| 🚨 | 🎬TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 88 | 12 | 88.0% | 12 |
-| 🚨 | 🎬TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 12 |
-| 🔁 | 🎬如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 12 |
-| 🔁 | 🎬如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 12 |
-| 🚨 | 🎬非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 12 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 84 | 16 | 84.0% | 0 |
+| 🚨 | 🎬TV-1080资源 | https://api.1080zyku.com/inc/api_mac10.php | 87 | 13 | 87.0% | 13 |
+| 🚨 | 🎬TV-ffzyapi_1 | http://api.ffzyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 13 |
+| 🚨 | 🎬TV-xgzyapi | https://caiji.xgzyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 13 |
+| 🚨 | 🎬TV-yzzy-api | https://api.yzzy-api.com/inc/apijson.php | 87 | 13 | 87.0% | 13 |
+| 🚨 | 🎬TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 13 |
+| 🚨 | 🎬TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 87 | 13 | 87.0% | 13 |
+| 🚨 | 🎬TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 13 |
+| 🔁 | 🎬如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 13 |
+| 🔁 | 🎬如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 13 |
+| 🚨 | 🎬非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 87 | 13 | 87.0% | 13 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
-| ✅ | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 52 | 48 | 52.0% | 0 |
+| ✅ | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 53 | 47 | 53.0% | 0 |
 | 🚨 | 🎬TV-16_yun89 | https://16.yun89.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-45_150_227_216 | http://45.150.227.216:6543/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj | https://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
