@@ -37,7 +37,7 @@
       "time": 1786850779949
     },
     "https://域名/api.php/provide/vod": {
-      "time": 1786247860473
+      "time": 1786937226559
     },
     "https://www.57play.cn/api.php/provide/vod": {
       "time": 1786681320862
@@ -79,7 +79,7 @@
       "time": 1786681320862
     },
     "https://niuniuzy3.com/api.php/provide/vod": {
-      "time": 1786247860473
+      "time": 1786937226559
     },
     "https://47.17.195.113.adsl-pool.jx.chinaunicom.com/api.php/provide/vod": {
       "time": 1786850779949
@@ -88,10 +88,10 @@
       "time": 1786850779949
     },
     "https://help.m766.com/api.php/provide/vod": {
-      "time": 1786247860473
+      "time": 1786937226559
     },
     "https://help.m766.com/inc/apijson.php": {
-      "time": 1786247860473
+      "time": 1786937226559
     },
     "https://43.138.242.105:8282/api.php/provide/vod": {
       "time": 1786763508820
@@ -103,5 +103,5 @@
       "time": 1786763508820
     }
   },
-  "lastRun": "2026-08-16T03:26:38.214Z"
+  "lastRun": "2026-08-17T03:27:23.999Z"
 }
