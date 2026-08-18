@@ -23,8 +23,7 @@
       "api": "https://api.ukuapi.com/api.php/provide/vod",
       "name": "🎬TV-U酷资源",
       "detail": "https://api.ukuapi.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "ukuapi88": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -44,46 +43,11 @@
       "detail": "",
       "is_adult": false
     },
-    "yayazy": {
-      "api": "https://cj.yayazy.net/api.php/provide/vod",
-      "name": "🎬TV-丫丫点播",
-      "detail": "https://cj.yayazy.net",
-      "is_adult": false,
-      "_fails": 1
-    },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "🎬TV-光速资源",
       "detail": "https://api.guangsuapi.com",
       "is_adult": false
-    },
-    "wolongzyw": {
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "name": "🎬TV-卧龙点播",
-      "detail": "https://collect.wolongzyw.com",
-      "is_adult": false,
-      "_fails": 1
-    },
-    "wolongzy_cc": {
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
-      "name": "🎬TV-卧龙资源",
-      "detail": "",
-      "is_adult": false,
-      "_fails": 1
-    },
-    "wolongzyw_com": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "🎬TV-卧龙资源",
-      "detail": "https://wolongzyw.com",
-      "is_adult": false,
-      "_fails": 1
-    },
-    "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "🎬TV-天涯资源",
-      "detail": "https://tyyszy.com",
-      "is_adult": false,
-      "_fails": 1
     },
     "rycjapi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -115,20 +79,6 @@
       "detail": "",
       "is_adult": false
     },
-    "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "name": "🎬TV-旺旺短剧",
-      "detail": "https://wwzy.tv",
-      "is_adult": false,
-      "_fails": 1
-    },
-    "wwzy_api": {
-      "api": "https://api.wwzy.tv/api.php/provide/vod",
-      "name": "🎬TV-旺旺资源",
-      "detail": "https://api.wwzy.tv",
-      "is_adult": false,
-      "_fails": 1
-    },
     "bfzyapi": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "🎬TV-暴风资源",
@@ -147,27 +97,6 @@
       "detail": "https://api.zuidapi.com",
       "is_adult": false
     },
-    "apiyhzy": {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "name": "🎬TV-樱花资源",
-      "detail": "",
-      "is_adult": false,
-      "_fails": 1
-    },
-    "yparse": {
-      "api": "https://api.yparse.com/api/json",
-      "name": "🎬TV-步步高资源",
-      "detail": "",
-      "is_adult": false,
-      "_fails": 1
-    },
-    "niuniuzy": {
-      "api": "https://api.niuniuzy.me/api.php/provide/vod",
-      "name": "🎬TV-牛牛点播",
-      "detail": "https://api.niuniuzy.me",
-      "is_adult": false,
-      "_fails": 1
-    },
     "dyttzyapi": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "🎬TV-电影天堂资源",
@@ -178,7 +107,8 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "🎬TV-百度云资源",
       "detail": "https://api.apibdzy.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "1080zyku_json": {
       "api": "https://api.1080zyku.com/inc/apijson.php/",
@@ -186,38 +116,17 @@
       "detail": "https://api.1080zyku.com",
       "is_adult": false
     },
-    "suoniapi": {
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "name": "🎬TV-索尼资源",
-      "detail": "",
-      "is_adult": false,
-      "_fails": 1
-    },
     "hongniuzy2": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "name": "🎬TV-红牛资源",
       "detail": "https://www.hongniuzy2.com",
       "is_adult": false
     },
-    "maotaizy": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "🎬TV-茅台资源",
-      "detail": "https://caiji.maotaizy.cc",
-      "is_adult": false,
-      "_fails": 1
-    },
     "huyaapi": {
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "name": "🎬TV-虎牙资源",
       "detail": "https://www.huyaapi.com",
       "is_adult": false
-    },
-    "dbzy": {
-      "api": "https://dbzy.tv/api.php/provide/vod",
-      "name": "🎬TV-豆瓣资源",
-      "detail": "https://dbzy.tv",
-      "is_adult": false,
-      "_fails": 1
     },
     "hhzyapi": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
@@ -249,25 +158,11 @@
       "detail": "https://jyzyapi.com",
       "is_adult": false
     },
-    "sdzyapi": {
-      "api": "https://sdzyapi.com/api.php/provide/vod",
-      "name": "🎬TV-闪电资源",
-      "detail": "https://sdzyapi.com",
-      "is_adult": false,
-      "_fails": 1
-    },
     "ffzyapi": {
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "name": "🎬TV-非凡资源",
       "detail": "https://cj.ffzyapi.com",
       "is_adult": false
-    },
-    "p2100": {
-      "api": "https://p2100.net/api.php/provide/vod",
-      "name": "🎬TV-飘零资源",
-      "detail": "https://p2100.net",
-      "is_adult": false,
-      "_fails": 1
     },
     "mdzyapi": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
@@ -293,13 +188,6 @@
       "detail": "",
       "is_adult": false
     },
-    "xsd_sdzyapi": {
-      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
-      "name": "🎬索尼-闪电资源",
-      "detail": "",
-      "is_adult": false,
-      "_fails": 1
-    },
     "jyzyapi_provide": {
       "api": "https://jyzyapi.com/provide/vod",
       "name": "🎬金鹰资源采集网",
@@ -317,13 +205,6 @@
       "name": "🎬爱奇艺",
       "detail": "https://iqiyizyapi.com",
       "is_adult": false
-    },
-    "caijidb": {
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "name": "🎬豆瓣资源",
-      "detail": "dbzy.tv",
-      "is_adult": false,
-      "_fails": 1
     },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -355,35 +236,12 @@
       "detail": "https://api.ukuapi88.com",
       "is_adult": false
     },
-    "jinchancaiji": {
-      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
-      "name": "🎬TV-金蝉影视",
-      "detail": "https://zy.jinchancaiji.com",
-      "is_adult": false,
-      "_fails": 1
-    },
     "ffzyapi_1": {
       "api": "http://api.ffzyapi.com/api.php/provide/vod",
       "name": "🎬TV-ffzyapi_1",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
-    },
-    "l_hhhj": {
-      "api": "https://l.hhhj.top/api.php/provide/vod",
-      "name": "🎬TV-l_hhhj",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
-    },
-    "l_hhhj_1": {
-      "api": "http://l.hhhj.top/api.php/provide/vod",
-      "name": "🎬TV-l_hhhj_1",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
     },
     "cai_8810vip": {
       "api": "https://cai.8810vip.com/api.php/provide/vod",
@@ -399,14 +257,6 @@
       "is_adult": false,
       "auto_discovered": true
     },
-    "45_150_227_216": {
-      "api": "http://45.150.227.216:6543/api.php/provide/vod",
-      "name": "🎬TV-45_150_227_216",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
-    },
     "v_hwedding_cn": {
       "api": "https://v.hwedding.cn/api.php/provide/vod",
       "name": "🎬TV-v_hwedding_cn",
@@ -421,21 +271,12 @@
       "is_adult": false,
       "auto_discovered": true
     },
-    "16_yun89": {
-      "api": "https://16.yun89.top/api.php/provide/vod",
-      "name": "🎬TV-16_yun89",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
-    },
     "360zyzz": {
       "api": "https://360zyzz.com/api.php/provide/vod",
       "name": "🎬TV-360zyzz",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "moduapi": {
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
@@ -457,22 +298,6 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
-    },
-    "semaozy_1": {
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-      "name": "🎬TV-semaozy_1",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
-    },
-    "wwzy_1": {
-      "api": "https://www.wwzy.tv/api.php/provide/vod",
-      "name": "🎬TV-wwzy_1",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
     },
     "heiapi": {
       "api": "https://api.heiapi.cc/api.php/provide/vod",
