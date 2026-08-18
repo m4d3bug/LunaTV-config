@@ -17,6 +17,7 @@ async function postJson(base, path, body, cookie) {
   const res = await fetch(base + path, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', ...(cookie ? { Cookie: cookie } : {}) },
+    body: JSON.stringify(body),
     redirect: 'manual',
   });
   const setCookie = res.headers.get('set-cookie');
