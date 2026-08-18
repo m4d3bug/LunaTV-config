@@ -109,13 +109,6 @@
       "detail": "http://caiji.dyttzyapi.com",
       "is_adult": false
     },
-    "apibdzy": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "🎬TV-百度云资源",
-      "detail": "https://api.apibdzy.com",
-      "is_adult": false,
-      "_fails": 1
-    },
     "1080zyku_json": {
       "api": "https://api.1080zyku.com/inc/apijson.php/",
       "name": "🎬TV-神马云",
