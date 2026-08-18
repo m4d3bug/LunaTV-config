@@ -1,0 +1,54 @@
+name: Daily Pipeline (Discover, Validate, Publish)
+
+on:
+  schedule:
+    - cron: "23 17 * * *"  # 每天北京时间 01:23 (UTC 17:23)
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 安装依赖
+        run: npm install
+
+      - name: 运行流水线（测活剔除 + 全网发现 + 派生发布 + 健康报告）
+        run: node pipeline.js
+        env:
+          SHODAN_API_KEY: ${{ secrets.SHODAN_API_KEY }}
+          FOFA_EMAIL: ${{ secrets.FOFA_EMAIL }}
+          FOFA_KEY: ${{ secrets.FOFA_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Base58 编码订阅文件
+        run: node encode.js
+
+      - name: 更新 README 状态表
+        run: node update_readme.js
+
+      - name: 提交并推送
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
+          git add LunaTV-config.json jingjian.json jin18.json LunaTV-config.txt jingjian.txt jin18.txt report.md README.md discovery_cache.json
+          git commit -m "🤖 每日流水线：测活剔除+发现新源 ($(date -d '+8 hour' +'%Y-%m-%d %H:%M CST'))" || echo "没有变化"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
+      - name: 清理站点残留 custom 源（未配置 LUNATV_SITES 则自动跳过）
+        run: node cleanup_sites.js
+        env:
+          LUNATV_SITES: ${{ secrets.LUNATV_SITES }}
+          LUNATV_ADMIN_USER: ${{ secrets.LUNATV_ADMIN_USER }}
+          LUNATV_ADMIN_PASSWORD: ${{ secrets.LUNATV_ADMIN_PASSWORD }}
+          LUNATV_KEEP_CUSTOM: ${{ secrets.LUNATV_KEEP_CUSTOM }}

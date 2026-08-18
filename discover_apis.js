@@ -449,9 +449,72 @@ async function discoverFromPublicLists() {
   return [...urls].filter(Boolean);
 }
 
+// 从 GitHub 代码搜索发现（TVBox/影视配置仓库里沉淀着大量采集 API）
+async function discoverFromGithub() {
+  const urls = new Set();
+  const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
+  const MAX_GH_URLS = 50;
+
+  if (!token) {
+    console.log('📡 GitHub: 未配置 GITHUB_TOKEN，跳过');
+    return [];
+  }
+
+  console.log('📡 正在从 GitHub 代码搜索发现新源...');
+
+  const queries = [
+    '"api.php/provide/vod"',
+    '"inc/apijson.php" vod',
+  ];
+
+  for (const query of queries) {
+    if (urls.size >= MAX_GH_URLS) break;
+    try {
+      const apiUrl = `https://api.github.com/search/code?q=${encodeURIComponent(query)}&per_page=30`;
+      const controller = new AbortController();
+      const t = setTimeout(() => controller.abort(), 20000);
+      const res = await fetch(apiUrl, {
+        signal: controller.signal,
+        headers: {
+          'Authorization': `Bearer ${token}`,
+          'Accept': 'application/vnd.github.text-match+json',
+          'User-Agent': 'lunatv-config-pipeline',
+        },
+      });
+      clearTimeout(t);
+
+      if (!res.ok) {
+        const errText = await res.text().catch(() => '');
+        console.warn(`  ⚠️ GitHub 搜索失败 (${res.status}): ${errText.slice(0, 120)}`);
+        continue;
+      }
+
+      const data = await res.json();
+      const items = data.items || [];
+      console.log(`  📊 GitHub 查询 ${query} 返回 ${items.length} 个文件`);
+
+      for (const item of items) {
+        if (urls.size >= MAX_GH_URLS) break;
+        // text_matches 的 fragment 里含有命中上下文，直接从中提取 API URL
+        for (const m of item.text_matches || []) {
+          const found = extractApiUrls(m.fragment || '');
+          found.forEach(u => urls.add(u));
+        }
+      }
+
+      await sleep(7000); // GitHub 代码搜索限流：10 请求/分钟
+    } catch (e) {
+      console.warn(`  ⚠️ GitHub 查询异常:`, e.message);
+    }
+  }
+
+  console.log(`  ✅ GitHub 发现 ${urls.size} 个候选 URL`);
+  return [...urls].filter(Boolean);
+}
+
 // ============ 主流程 ============
 
-(async () => {
+async function main() {
   console.log('🚀 开始自动发现新的影视采集站 API...\n');
 
   // 1. 加载现有配置
@@ -475,16 +538,17 @@ async function discoverFromPublicLists() {
   // 3. 从多个来源发现候选 URL
   const allCandidates = new Set();
 
-  const [yszzqUrls, waifuUrls, helpUrls, publicUrls, shodanUrls, fofaUrls] = await Promise.all([
+  const [yszzqUrls, waifuUrls, helpUrls, publicUrls, shodanUrls, fofaUrls, githubUrls] = await Promise.all([
     discoverFromYszzq(),
     discoverFromWaifuProject(),
     discoverFromHelpPages(),
     discoverFromPublicLists(),
     discoverFromShodan(),
     discoverFromFofa(),
+    discoverFromGithub(),
   ]);
 
-  [...yszzqUrls, ...waifuUrls, ...helpUrls, ...publicUrls, ...shodanUrls, ...fofaUrls].forEach(u => {
+  [...yszzqUrls, ...waifuUrls, ...helpUrls, ...publicUrls, ...shodanUrls, ...fofaUrls, ...githubUrls].forEach(u => {
     if (u) allCandidates.add(u);
   });
 
@@ -574,4 +638,27 @@ async function discoverFromPublicLists() {
   fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 2), 'utf-8');
 
   console.log('\n🏁 发现流程完成');
-})();
+}
+
+// 作为脚本直接运行时执行主流程；被 pipeline.js require 时只导出函数
+if (require.main === module) {
+  main().catch(e => {
+    console.error('发现流程异常:', e);
+    process.exit(1);
+  });
+}
+
+module.exports = {
+  validateApi,
+  extractApiUrls,
+  normalizeUrl,
+  generateKey,
+  isAdultByDomain,
+  discoverFromYszzq,
+  discoverFromWaifuProject,
+  discoverFromHelpPages,
+  discoverFromPublicLists,
+  discoverFromShodan,
+  discoverFromFofa,
+  discoverFromGithub,
+};
