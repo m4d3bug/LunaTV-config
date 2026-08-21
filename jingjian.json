@@ -167,7 +167,8 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "🎬TV-魔都资源",
       "detail": "https://www.mdzyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "91md": {
       "api": "https://91md.me/api.php/provide/vod",
@@ -359,7 +360,8 @@
       "api": "https://hsckzy.xyz/api.php/provide/vod",
       "name": "🔞黄色仓库",
       "detail": "hsckzy.xyz",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
@@ -472,7 +474,8 @@
       "name": "🎬TV-moduapi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "ffzy5": {
       "api": "https://ffzy5.tv/api.php/provide/vod",

@@ -161,7 +161,8 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "🎬TV-魔都资源",
       "detail": "https://www.mdzyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "ffzynew": {
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -276,7 +277,8 @@
       "name": "🎬TV-moduapi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "ffzy5": {
       "api": "https://ffzy5.tv/api.php/provide/vod",
