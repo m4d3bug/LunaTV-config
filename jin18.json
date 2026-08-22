@@ -157,13 +157,6 @@
       "detail": "https://cj.ffzyapi.com",
       "is_adult": false
     },
-    "mdzyapi": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "🎬TV-魔都资源",
-      "detail": "https://www.mdzyapi.com",
-      "is_adult": false,
-      "_fails": 1
-    },
     "ffzynew": {
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "name": "🎬非凡影视new",
@@ -198,7 +191,8 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "🎬爱奇艺",
       "detail": "https://iqiyizyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -263,7 +257,8 @@
       "name": "🎬TV-98zy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "360zyzz": {
       "api": "https://360zyzz.com/api.php/provide/vod",
@@ -271,14 +266,6 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
-    },
-    "moduapi": {
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-      "name": "🎬TV-moduapi",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
     },
     "ffzy5": {
       "api": "https://ffzy5.tv/api.php/provide/vod",
