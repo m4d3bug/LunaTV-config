@@ -163,6 +163,12 @@
       "detail": "https://cj.ffzyapi.com",
       "is_adult": false
     },
+    "mdzyapi": {
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "name": "🎬TV-魔都资源",
+      "detail": "https://www.mdzyapi.com",
+      "is_adult": false
+    },
     "91md": {
       "api": "https://91md.me/api.php/provide/vod",
       "name": "🔞AV-91麻豆",
@@ -313,13 +319,6 @@
       "detail": "",
       "is_adult": true
     },
-    "aqyzy": {
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "name": "🎬爱奇艺",
-      "detail": "https://iqiyizyapi.com",
-      "is_adult": false,
-      "_fails": 1
-    },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "name": "🎬猫眼资源",
@@ -426,22 +425,6 @@
       "is_adult": false,
       "auto_discovered": true
     },
-    "bwzy": {
-      "api": "https://www.bwzy.tv/api.php/provide/vod",
-      "name": "🔞AV-bwzy",
-      "detail": "",
-      "is_adult": true,
-      "auto_discovered": true,
-      "_fails": 1
-    },
-    "bwzy_1": {
-      "api": "https://bwzy.tv/api.php/provide/vod",
-      "name": "🔞AV-bwzy_1",
-      "detail": "",
-      "is_adult": true,
-      "auto_discovered": true,
-      "_fails": 1
-    },
     "ckzy_1": {
       "api": "https://www.ckzy.me/api.php/provide/vod",
       "name": "🔞AV-ckzy_1",
@@ -455,14 +438,6 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true
-    },
-    "98zy": {
-      "api": "https://98zy.vip/api.php/provide/vod",
-      "name": "🎬TV-98zy",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
     },
     "360zyzz": {
       "api": "https://360zyzz.com/api.php/provide/vod",
