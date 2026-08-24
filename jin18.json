@@ -35,7 +35,8 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "🎬TV-ikun资源",
       "detail": "https://ikunzyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "wujinapi_cc": {
       "api": "https://api.wujinapi.cc/api.php/provide/vod",

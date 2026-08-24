@@ -41,7 +41,8 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "🎬TV-ikun资源",
       "detail": "https://ikunzyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "wujinapi_cc": {
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
@@ -185,7 +186,8 @@
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "name": "🔞AV-JKUN资源",
       "detail": "https://jkunzyapi.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "lbapi9": {
       "api": "https://lbapi9.com/api.php/provide/vod",
