@@ -41,8 +41,7 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "🎬TV-ikun资源",
       "detail": "https://ikunzyapi.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "wujinapi_cc": {
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
@@ -168,7 +167,8 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "🎬TV-魔都资源",
       "detail": "https://www.mdzyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "91md": {
       "api": "https://91md.me/api.php/provide/vod",
@@ -186,8 +186,7 @@
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "name": "🔞AV-JKUN资源",
       "detail": "https://jkunzyapi.com",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "lbapi9": {
       "api": "https://lbapi9.com/api.php/provide/vod",
@@ -320,6 +319,12 @@
       "name": "🔞细胞采集黄色",
       "detail": "",
       "is_adult": true
+    },
+    "aqyzy": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "🎬爱奇艺",
+      "detail": "https://iqiyizyapi.com",
+      "is_adult": false
     },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -509,6 +514,13 @@
       "name": "🔞AV-naixxzy_1",
       "detail": "",
       "is_adult": true,
+      "auto_discovered": true
+    },
+    "ffzy": {
+      "api": "https://ffzy.tv/api.php/provide/vod",
+      "name": "🎬TV-ffzy",
+      "detail": "",
+      "is_adult": false,
       "auto_discovered": true
     }
   }
