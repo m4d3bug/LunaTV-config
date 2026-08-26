@@ -157,13 +157,6 @@
       "detail": "https://cj.ffzyapi.com",
       "is_adult": false
     },
-    "mdzyapi": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "🎬TV-魔都资源",
-      "detail": "https://www.mdzyapi.com",
-      "is_adult": false,
-      "_fails": 1
-    },
     "ffzynew": {
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "name": "🎬非凡影视new",
@@ -174,7 +167,8 @@
       "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "🎬极速资源",
       "detail": "https://jszyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "hongniuzy3": {
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
@@ -303,6 +297,13 @@
     "ffzy": {
       "api": "https://ffzy.tv/api.php/provide/vod",
       "name": "🎬TV-ffzy",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "gz_ifree_fun": {
+      "api": "https://gz.ifree.fun/api.php/provide/vod",
+      "name": "🎬TV-gz_ifree_fun",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true

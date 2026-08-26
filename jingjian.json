@@ -163,13 +163,6 @@
       "detail": "https://cj.ffzyapi.com",
       "is_adult": false
     },
-    "mdzyapi": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "🎬TV-魔都资源",
-      "detail": "https://www.mdzyapi.com",
-      "is_adult": false,
-      "_fails": 1
-    },
     "91md": {
       "api": "https://91md.me/api.php/provide/vod",
       "name": "🔞AV-91麻豆",
@@ -282,7 +275,8 @@
       "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "🎬极速资源",
       "detail": "https://jszyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "hongniuzy3": {
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
@@ -318,7 +312,8 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "🔞细胞采集黄色",
       "detail": "",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "aqyzy": {
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -402,7 +397,8 @@
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
       "name": "🔞AV-香蕉资源",
       "detail": "https://www.xiangjiaozyw.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "ffzyapi_1": {
       "api": "http://api.ffzyapi.com/api.php/provide/vod",
@@ -519,6 +515,13 @@
     "ffzy": {
       "api": "https://ffzy.tv/api.php/provide/vod",
       "name": "🎬TV-ffzy",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "gz_ifree_fun": {
+      "api": "https://gz.ifree.fun/api.php/provide/vod",
+      "name": "🎬TV-gz_ifree_fun",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
