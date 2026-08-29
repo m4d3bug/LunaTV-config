@@ -41,8 +41,7 @@
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "name": "🎬TV-wujinapi无尽",
       "detail": "",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -66,22 +65,19 @@
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "wujinapi_me": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "wujinapi_net": {
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "bfzyapi": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -320,6 +316,20 @@
     "gz_ifree_fun": {
       "api": "https://gz.ifree.fun/api.php/provide/vod",
       "name": "🎬TV-gz_ifree_fun",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "zitv": {
+      "api": "https://www.zitv.cc/api.php/provide/vod",
+      "name": "🎬TV-zitv",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "zy_xiaomaomi": {
+      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod",
+      "name": "🎬TV-zy_xiaomaomi",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true

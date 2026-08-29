@@ -25,10 +25,10 @@
       "time": 1787506861187
     },
     "https://189-180-106-216.clients.gthost.com/api.php/provide/vod": {
-      "time": 1787334685960
+      "time": 1787965277639
     },
     "https://189-180-106-216.clients.gthost.com/inc/apijson.php": {
-      "time": 1787334685960
+      "time": 1787965277639
     },
     "https://176.113.70.199.static.xtom.com/api.php/provide/vod": {
       "time": 1787506861187
@@ -39,35 +39,17 @@
     "https://域名/api.php/provide/vod": {
       "time": 1787593952159
     },
-    "https://www.57play.cn/api.php/provide/vod": {
-      "time": 1787334685960
-    },
-    "https://www.57play.cn/inc/apijson.php": {
-      "time": 1787334685960
-    },
     "https://28.220-145-38.rdns.scalabledns.com/api.php/provide/vod": {
-      "time": 1787334685960
+      "time": 1787965277639
     },
     "https://28.220-145-38.rdns.scalabledns.com/inc/apijson.php": {
-      "time": 1787334685960
+      "time": 1787965277639
     },
     "https://yszyw1.top/api.php/provide/vod": {
-      "time": 1787334685960
+      "time": 1787965277639
     },
     "https://bhziyuan.com/inc/apijson.php": {
-      "time": 1787334685960
-    },
-    "https://153.224.212.35.bc.googleusercontent.com/api.php/provide/vod": {
-      "time": 1787334685960
-    },
-    "https://153.224.212.35.bc.googleusercontent.com/inc/apijson.php": {
-      "time": 1787334685960
-    },
-    "https://360fl.360cjfl.com/api.php/provide/vod": {
-      "time": 1787334685960
-    },
-    "https://360fl.360cjfl.com/inc/apijson.php": {
-      "time": 1787334685960
+      "time": 1787965277639
     },
     "https://47.17.195.113.adsl-pool.jx.chinaunicom.com/api.php/provide/vod": {
       "time": 1787506861187
@@ -299,7 +281,61 @@
     },
     "https://gy.qilinzyz.com/inc/apijson.php": {
       "time": 1787880762078
+    },
+    "https://网站域名/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://${domain}/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://api.nguonphim.tv/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://www.aitee.cc/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://124.222.83.15:88/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://www.77diany.com/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://woog.nxog.eu.org/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://www.bajiezy.xyz/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://360.tgzy.cc/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://www.kuaibozy.com/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://106.13.199.87:4433/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://video.yingworld.vip/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://www.6uzy.cc/inc/apijson_vod.php": {
+      "time": 1787965277639
+    },
+    "https://107.150.5.146:39000/maccms10-main/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://api.fqzy.cc/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://api.tiankongapi.com/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://www.siguyy.net/api.php/provide/vod": {
+      "time": 1787965277639
+    },
+    "https://www.wolongzyw.com/api.php/provide/vod": {
+      "time": 1787965277639
     }
   },
-  "lastRun": "2026-08-28T01:32:56.342Z"
+  "lastRun": "2026-08-29T01:02:14.722Z"
 }
