@@ -64,13 +64,7 @@
       "time": 1787593952159
     },
     "https://43.138.242.105:8282/api.php/provide/vod": {
-      "time": 1787420491353
-    },
-    "https://tv.hwedding.cn/api.php/provide/vod": {
-      "time": 1787420491353
-    },
-    "https://tv.hwedding.cn/inc/apijson.php": {
-      "time": 1787420491353
+      "time": 1788032977575
     },
     "https://www.xxx.com/api.php/provide/vod": {
       "time": 1787680253786
@@ -335,7 +329,10 @@
     },
     "https://www.wolongzyw.com/api.php/provide/vod": {
       "time": 1787965277639
+    },
+    "https://x.com/api.php/provide/vod": {
+      "time": 1788032977575
     }
   },
-  "lastRun": "2026-08-29T01:02:14.722Z"
+  "lastRun": "2026-08-29T19:49:47.175Z"
 }

@@ -332,7 +332,8 @@
       "name": "🎬TV-zy_xiaomaomi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     }
   }
 }

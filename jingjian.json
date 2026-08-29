@@ -359,8 +359,7 @@
       "api": "https://hsckzy.xyz/api.php/provide/vod",
       "name": "🔞黄色仓库",
       "detail": "hsckzy.xyz",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
@@ -543,7 +542,8 @@
       "name": "🎬TV-zy_xiaomaomi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "madouse_la": {
       "api": "https://madouse.la/api.php/provide/vod",
