@@ -326,14 +326,6 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
-    },
-    "zy_xiaomaomi": {
-      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod",
-      "name": "🎬TV-zy_xiaomaomi",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
     }
   }
 }
