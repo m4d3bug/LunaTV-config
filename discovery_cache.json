@@ -332,7 +332,19 @@
     },
     "https://176.113.70.198.static.xtom.com/inc/apijson.php": {
       "time": 1788292759342
+    },
+    "https://adult.example.com/api.php/provide/vod": {
+      "time": 1788465461934
+    },
+    "https://www.inmi.app/api.php/provide/vod": {
+      "time": 1788465461934
+    },
+    "https://www.blssv.com/api.php/provide/vod": {
+      "time": 1788465461934
+    },
+    "https://tujutv.top/api.php/provide/vod": {
+      "time": 1788465461934
     }
   },
-  "lastRun": "2026-09-02T19:54:06.314Z"
+  "lastRun": "2026-09-03T19:57:54.800Z"
 }
