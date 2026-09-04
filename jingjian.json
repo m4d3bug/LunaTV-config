@@ -277,6 +277,12 @@
       "detail": "https://jszyapi.com",
       "is_adult": false
     },
+    "xingba111": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "🔞性吧资源",
+      "detail": "",
+      "is_adult": true
+    },
     "hongniuzy3": {
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
       "name": "🎬红牛资源",
@@ -311,7 +317,8 @@
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "🔞细胞采集黄色",
       "detail": "",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "aqyzy": {
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -395,6 +402,13 @@
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
       "name": "🔞AV-香蕉资源",
       "detail": "https://www.xiangjiaozyw.com",
+      "is_adult": true,
+      "_fails": 1
+    },
+    "xingba222": {
+      "api": "https://xingba222.com/api.php/provide/vod",
+      "name": "🔞AV-杏吧资源",
+      "detail": "https://xingba222.com",
       "is_adult": true
     },
     "ffzyapi_1": {
