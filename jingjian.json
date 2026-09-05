@@ -313,13 +313,6 @@
       "detail": "",
       "is_adult": false
     },
-    "xxibaozyw": {
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "name": "🔞细胞采集黄色",
-      "detail": "",
-      "is_adult": true,
-      "_fails": 1
-    },
     "aqyzy": {
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "🎬爱奇艺",
@@ -366,7 +359,8 @@
       "api": "https://hsckzy.xyz/api.php/provide/vod",
       "name": "🔞黄色仓库",
       "detail": "hsckzy.xyz",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
@@ -397,13 +391,6 @@
       "name": "🔞AV-souAV资源",
       "detail": "https://api.souavzyw.net",
       "is_adult": true
-    },
-    "xiangjiaozyw": {
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-      "name": "🔞AV-香蕉资源",
-      "detail": "https://www.xiangjiaozyw.com",
-      "is_adult": true,
-      "_fails": 1
     },
     "xingba222": {
       "api": "https://xingba222.com/api.php/provide/vod",
@@ -535,14 +522,16 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "gz_ifree_fun": {
       "api": "https://gz.ifree.fun/api.php/provide/vod",
       "name": "🎬TV-gz_ifree_fun",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "zitv": {
       "api": "https://www.zitv.cc/api.php/provide/vod",

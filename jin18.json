@@ -311,14 +311,16 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "gz_ifree_fun": {
       "api": "https://gz.ifree.fun/api.php/provide/vod",
       "name": "🎬TV-gz_ifree_fun",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "zitv": {
       "api": "https://www.zitv.cc/api.php/provide/vod",
