@@ -43,7 +43,7 @@
       "time": 1788635312772
     },
     "https://43.138.242.105:8282/api.php/provide/vod": {
-      "time": 1788032977575
+      "time": 1788722334881
     },
     "https://www.xxx.com/api.php/provide/vod": {
       "time": 1788292759342
@@ -250,7 +250,7 @@
       "time": 1788550932043
     },
     "https://x.com/api.php/provide/vod": {
-      "time": 1788032977575
+      "time": 1788722334881
     },
     "https://103.45.162.207:20720/api.php/provide/vod": {
       "time": 1788119594327
@@ -290,7 +290,10 @@
     },
     "https://tujutv.top/api.php/provide/vod": {
       "time": 1788465461934
+    },
+    "https://video.yingworld.vip/api.php/provide/vod": {
+      "time": 1788722334881
     }
   },
-  "lastRun": "2026-09-05T19:08:43.063Z"
+  "lastRun": "2026-09-06T19:19:05.485Z"
 }
