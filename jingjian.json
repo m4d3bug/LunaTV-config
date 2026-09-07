@@ -528,7 +528,8 @@
       "name": "🎬TV-gz_ifree_fun",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "zitv": {
       "api": "https://www.zitv.cc/api.php/provide/vod",

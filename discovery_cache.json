@@ -252,12 +252,6 @@
     "https://x.com/api.php/provide/vod": {
       "time": 1788722334881
     },
-    "https://103.45.162.207:20720/api.php/provide/vod": {
-      "time": 1788119594327
-    },
-    "https://xsayang.fun:12512/api.php/provide/vod": {
-      "time": 1788119594327
-    },
     "https://www.bhziyuan.com/api.php/provide/vod": {
       "time": 1788213403096
     },
@@ -295,5 +289,5 @@
       "time": 1788722334881
     }
   },
-  "lastRun": "2026-09-06T19:19:05.485Z"
+  "lastRun": "2026-09-07T20:40:05.241Z"
 }
