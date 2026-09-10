@@ -257,8 +257,7 @@
       "api": "https://shayuapi.com/api.php/provide/vod",
       "name": "🔞AV-鲨鱼资源",
       "detail": "https://shayuapi.com",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "pgxdy": {
       "api": "https://www.pgxdy.com/api/json.php",
@@ -543,7 +542,8 @@
       "name": "🎬TV-moduzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "xgzy": {
       "api": "https://xgzy.tv/api.php/provide/vod",

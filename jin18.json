@@ -325,7 +325,8 @@
       "name": "🎬TV-moduzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "xgzy": {
       "api": "https://xgzy.tv/api.php/provide/vod",
