@@ -41,7 +41,8 @@
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "name": "🎬TV-wujinapi无尽",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -71,13 +72,15 @@
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "wujinapi_net": {
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "bfzyapi": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -125,7 +128,8 @@
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "🎬TV-豪华资源",
       "detail": "https://hhzyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "subocaiji": {
       "api": "https://subocaiji.com/api.php/provide/vod",
@@ -325,8 +329,7 @@
       "name": "🎬TV-moduzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "xgzy": {
       "api": "https://xgzy.tv/api.php/provide/vod",
