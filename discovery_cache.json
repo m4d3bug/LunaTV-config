@@ -263,7 +263,13 @@
     },
     "https://caiji.naichaapi.com/inc/apijson_vod.php": {
       "time": 1789328000257
+    },
+    "https://28.220-145-38.rdns.scalabledns.com/api.php/provide/vod": {
+      "time": 1789419562942
+    },
+    "https://28.220-145-38.rdns.scalabledns.com/inc/apijson.php": {
+      "time": 1789419562942
     }
   },
-  "lastRun": "2026-09-13T19:34:12.851Z"
+  "lastRun": "2026-09-14T20:59:32.778Z"
 }
