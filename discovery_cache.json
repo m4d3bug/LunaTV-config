@@ -124,7 +124,7 @@
       "time": 1789328000257
     },
     "https://www.bhziyuan.com/api.php/provide/vod": {
-      "time": 1788897501125
+      "time": 1789503506306
     },
     "https://www.inmi.app/api.php/provide/vod": {
       "time": 1789156328502
@@ -269,7 +269,31 @@
     },
     "https://28.220-145-38.rdns.scalabledns.com/inc/apijson.php": {
       "time": 1789419562942
+    },
+    "https://help.m766.com/api.php/provide/vod": {
+      "time": 1789503506306
+    },
+    "https://help.m766.com/inc/apijson.php": {
+      "time": 1789503506306
+    },
+    "https://heihei.help/api.php/provide/vod": {
+      "time": 1789503506306
+    },
+    "https://heihei.help/inc/apijson.php": {
+      "time": 1789503506306
+    },
+    "https://189-180-106-216.clients.gthost.com/api.php/provide/vod": {
+      "time": 1789503506306
+    },
+    "https://189-180-106-216.clients.gthost.com/inc/apijson.php": {
+      "time": 1789503506306
+    },
+    "https://www.heihei.help/api.php/provide/vod": {
+      "time": 1789503506306
+    },
+    "https://www.heihei.help/inc/apijson.php": {
+      "time": 1789503506306
     }
   },
-  "lastRun": "2026-09-14T20:59:32.778Z"
+  "lastRun": "2026-09-15T20:18:42.429Z"
 }

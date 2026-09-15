@@ -179,7 +179,8 @@
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "name": "🔞AV-JKUN资源",
       "detail": "https://jkunzyapi.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "lbapi9": {
       "api": "https://lbapi9.com/api.php/provide/vod",
@@ -527,7 +528,8 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "zitv": {
       "api": "https://www.zitv.cc/api.php/provide/vod",
