@@ -311,8 +311,7 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "zitv": {
       "api": "https://www.zitv.cc/api.php/provide/vod",
@@ -331,6 +330,13 @@
     "xgzy": {
       "api": "https://xgzy.tv/api.php/provide/vod",
       "name": "🎬TV-xgzy",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "cdn_dzzyapi": {
+      "api": "https://cdn.dzzyapi.com/api.php/provide/vod",
+      "name": "🎬TV-cdn_dzzyapi",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
