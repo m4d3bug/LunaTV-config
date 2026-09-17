@@ -1,25 +1,25 @@
 {
   "failed": {
     "https://tyyszyapi.com/api.php/provide/vod": {
-      "time": 1789069857614
+      "time": 1789676628318
     },
     "https://api.wuxianzy.net/api.php/provide/vod": {
-      "time": 1789069857614
+      "time": 1789676628318
     },
     "https://api.fczy888.me/api.php/provide/vod": {
-      "time": 1789069857614
+      "time": 1789676628318
     },
     "https://api.1080zyku.com/inc/api.php/provide/vod": {
-      "time": 1789069857614
+      "time": 1789676628318
     },
     "https://lovedan.net/api.php/provide/vod": {
-      "time": 1789069857614
+      "time": 1789676628318
     },
     "https://unknown.ip-xfer.net/api.php/provide/vod": {
-      "time": 1789069857614
+      "time": 1789676628318
     },
     "https://unknown.ip-xfer.net/inc/apijson.php": {
-      "time": 1789069857614
+      "time": 1789676628318
     },
     "https://bhziyuan.com/inc/apijson.php": {
       "time": 1789241324448
@@ -115,10 +115,10 @@
       "time": 1789589729871
     },
     "https://api1.example.com/api.php/provide/vod": {
-      "time": 1789069857614
+      "time": 1789676628318
     },
     "https://api2.example.com/api.php/provide/vod": {
-      "time": 1789069857614
+      "time": 1789676628318
     },
     "https://x.com/api.php/provide/vod": {
       "time": 1789328000257
@@ -163,7 +163,7 @@
       "time": 1789589729871
     },
     "https://zzdj.cc/api.php/provide/vod": {
-      "time": 1789069857614
+      "time": 1789676628318
     },
     "https://api.wujinwszy.net/api.php/provide/vod": {
       "time": 1789156328502
@@ -296,7 +296,10 @@
     },
     "https://173.19.195.113.adsl-pool.jx.chinaunicom.com/inc/apijson.php": {
       "time": 1789589729871
+    },
+    "https://yszyw1.top/api.php/provide/vod": {
+      "time": 1789676628318
     }
   },
-  "lastRun": "2026-09-16T20:16:30.529Z"
+  "lastRun": "2026-09-17T20:24:04.653Z"
 }

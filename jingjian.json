@@ -163,6 +163,12 @@
       "detail": "https://cj.ffzyapi.com",
       "is_adult": false
     },
+    "p2100": {
+      "api": "https://p2100.net/api.php/provide/vod",
+      "name": "🎬TV-飘零资源",
+      "detail": "https://p2100.net",
+      "is_adult": false
+    },
     "mdzyapi": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "🎬TV-魔都资源",
@@ -257,7 +263,8 @@
       "api": "https://shayuapi.com/api.php/provide/vod",
       "name": "🔞AV-鲨鱼资源",
       "detail": "https://shayuapi.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "pgxdy": {
       "api": "https://www.pgxdy.com/api/json.php",
