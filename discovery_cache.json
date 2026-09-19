@@ -126,15 +126,6 @@
     "https://www.bhziyuan.com/api.php/provide/vod": {
       "time": 1789503506306
     },
-    "https://www.inmi.app/api.php/provide/vod": {
-      "time": 1789156328502
-    },
-    "https://www.blssv.com/api.php/provide/vod": {
-      "time": 1789156328502
-    },
-    "https://tujutv.top/api.php/provide/vod": {
-      "time": 1789156328502
-    },
     "https://api.foxzyapi.com/api.php/provide/vod": {
       "time": 1789589729871
     },
@@ -166,13 +157,13 @@
       "time": 1789676628318
     },
     "https://api.wujinwszy.net/api.php/provide/vod": {
-      "time": 1789156328502
+      "time": 1789845855794
     },
     "https://44.215.212.35.bc.googleusercontent.com/api.php/provide/vod": {
-      "time": 1789156328502
+      "time": 1789845855794
     },
     "https://44.215.212.35.bc.googleusercontent.com/inc/apijson.php": {
-      "time": 1789156328502
+      "time": 1789845855794
     },
     "https://api.okzyw.net/api.php/provide/vod": {
       "time": 1789241324448
@@ -305,7 +296,13 @@
     },
     "https://176.113.70.198.static.xtom.com/inc/apijson.php": {
       "time": 1789760706429
+    },
+    "https://192-210-193-151-host.colocrossing.com/api.php/provide/vod": {
+      "time": 1789845855794
+    },
+    "https://192-210-193-151-host.colocrossing.com/inc/apijson.php": {
+      "time": 1789845855794
     }
   },
-  "lastRun": "2026-09-18T19:45:16.309Z"
+  "lastRun": "2026-09-19T19:24:27.293Z"
 }

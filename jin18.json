@@ -161,7 +161,8 @@
       "api": "https://p2100.net/api.php/provide/vod",
       "name": "🎬TV-飘零资源",
       "detail": "https://p2100.net",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "mdzyapi": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
@@ -317,8 +318,7 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "zitv": {
       "api": "https://www.zitv.cc/api.php/provide/vod",
