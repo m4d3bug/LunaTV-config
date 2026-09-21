@@ -395,7 +395,8 @@
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
       "name": "🔞AV-香蕉资源",
       "detail": "https://www.xiangjiaozyw.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "xingba222": {
       "api": "https://xingba222.com/api.php/provide/vod",
@@ -527,8 +528,7 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "zitv": {
       "api": "https://www.zitv.cc/api.php/provide/vod",

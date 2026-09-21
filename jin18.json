@@ -311,8 +311,7 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "zitv": {
       "api": "https://www.zitv.cc/api.php/provide/vod",
