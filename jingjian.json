@@ -53,7 +53,8 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "🎬TV-光速资源",
       "detail": "https://api.guangsuapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "rycjapi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -390,13 +391,6 @@
       "name": "🔞AV-souAV资源",
       "detail": "https://api.souavzyw.net",
       "is_adult": true
-    },
-    "xiangjiaozyw": {
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-      "name": "🔞AV-香蕉资源",
-      "detail": "https://www.xiangjiaozyw.com",
-      "is_adult": true,
-      "_fails": 1
     },
     "xingba222": {
       "api": "https://xingba222.com/api.php/provide/vod",
