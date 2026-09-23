@@ -41,14 +41,14 @@
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "name": "🎬TV-wujinapi无尽",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "🎬TV-光速资源",
       "detail": "https://api.guangsuapi.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "rycjapi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -66,19 +66,22 @@
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "wujinapi_me": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "wujinapi_net": {
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "bfzyapi": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -319,7 +322,8 @@
       "name": "🎬TV-zitv",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "moduzy": {
       "api": "https://www.moduzy.com/api.php/provide/vod",
