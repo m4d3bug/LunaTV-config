@@ -66,15 +66,6 @@
     "https://zzdj.cc/api.php/provide/vod": {
       "time": 1790282047633
     },
-    "https://api.wujinwszy.net/api.php/provide/vod": {
-      "time": 1789845855794
-    },
-    "https://44.215.212.35.bc.googleusercontent.com/api.php/provide/vod": {
-      "time": 1789845855794
-    },
-    "https://44.215.212.35.bc.googleusercontent.com/inc/apijson.php": {
-      "time": 1789845855794
-    },
     "https://176.113.70.199.static.xtom.com/api.php/provide/vod": {
       "time": 1789932811788
     },
@@ -199,10 +190,10 @@
       "time": 1790282047633
     },
     "https://192-210-193-151-host.colocrossing.com/api.php/provide/vod": {
-      "time": 1789845855794
+      "time": 1790452677001
     },
     "https://192-210-193-151-host.colocrossing.com/inc/apijson.php": {
-      "time": 1789845855794
+      "time": 1790452677001
     },
     "https://你的CMS/api.php/provide/vod": {
       "time": 1790282047633
@@ -323,7 +314,19 @@
     },
     "https://api.iku.cool/api.php/provide/vod": {
       "time": 1790368458516
+    },
+    "https://360fl.360cjfl.com/api.php/provide/vod": {
+      "time": 1790452677001
+    },
+    "https://360fl.360cjfl.com/inc/apijson.php": {
+      "time": 1790452677001
+    },
+    "https://176.113.70.198.static.xtom.com/api.php/provide/vod": {
+      "time": 1790452677001
+    },
+    "https://176.113.70.198.static.xtom.com/inc/apijson.php": {
+      "time": 1790452677001
     }
   },
-  "lastRun": "2026-09-25T20:35:31.475Z"
+  "lastRun": "2026-09-26T19:58:05.563Z"
 }
