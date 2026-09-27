@@ -389,7 +389,8 @@
       "api": "https://api.souavzyw.net/api.php/provide/vod",
       "name": "🔞AV-souAV资源",
       "detail": "https://api.souavzyw.net",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "xingba222": {
       "api": "https://xingba222.com/api.php/provide/vod",
