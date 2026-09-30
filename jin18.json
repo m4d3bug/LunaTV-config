@@ -311,8 +311,7 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "moduzy": {
       "api": "https://www.moduzy.com/api.php/provide/vod",

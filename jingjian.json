@@ -239,8 +239,7 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "🔞AV-老色逼资源",
       "detail": "https://apilsbzy1.com",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "apilj": {
       "api": "https://apilj.com/api.php/provide/vod",
@@ -258,8 +257,7 @@
       "api": "https://shayuapi.com/api.php/provide/vod",
       "name": "🔞AV-鲨鱼资源",
       "detail": "https://shayuapi.com",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "pgxdy": {
       "api": "https://www.pgxdy.com/api/json.php",
@@ -361,8 +359,7 @@
       "api": "https://hsckzy.xyz/api.php/provide/vod",
       "name": "🔞黄色仓库",
       "detail": "hsckzy.xyz",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
@@ -524,8 +521,7 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "madouse_la": {
       "api": "https://madouse.la/api.php/provide/vod",
