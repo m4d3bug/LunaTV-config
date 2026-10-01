@@ -528,7 +528,8 @@
       "name": "🔞AV-madouse_la",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "moduzy": {
       "api": "https://www.moduzy.com/api.php/provide/vod",
