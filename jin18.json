@@ -131,7 +131,8 @@
       "api": "https://subocaiji.com/api.php/provide/vod",
       "name": "🎬TV-速博资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "lziapi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",

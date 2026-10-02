@@ -137,7 +137,8 @@
       "api": "https://subocaiji.com/api.php/provide/vod",
       "name": "🎬TV-速博资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "lziapi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -522,14 +523,6 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
-    },
-    "madouse_la": {
-      "api": "https://madouse.la/api.php/provide/vod",
-      "name": "🔞AV-madouse_la",
-      "detail": "",
-      "is_adult": true,
-      "auto_discovered": true,
-      "_fails": 1
     },
     "moduzy": {
       "api": "https://www.moduzy.com/api.php/provide/vod",
