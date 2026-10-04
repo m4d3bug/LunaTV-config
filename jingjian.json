@@ -317,8 +317,7 @@
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "name": "🎬猫眼资源",
       "detail": "https://www.maoyanzy.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "lzcaiji": {
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
