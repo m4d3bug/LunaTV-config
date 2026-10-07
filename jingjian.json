@@ -317,7 +317,8 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "🎬爱奇艺",
       "detail": "https://iqiyizyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -354,13 +355,6 @@
       "name": "🔞桃花资源",
       "detail": "https://thzy8.me",
       "is_adult": true
-    },
-    "hsckzy": {
-      "api": "https://hsckzy.xyz/api.php/provide/vod",
-      "name": "🔞黄色仓库",
-      "detail": "hsckzy.xyz",
-      "is_adult": true,
-      "_fails": 1
     },
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
@@ -523,14 +517,6 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
-    },
-    "madouse_la": {
-      "api": "https://madouse.la/api.php/provide/vod",
-      "name": "🔞AV-madouse_la",
-      "detail": "",
-      "is_adult": true,
-      "auto_discovered": true,
-      "_fails": 1
     },
     "moduzy": {
       "api": "https://www.moduzy.com/api.php/provide/vod",

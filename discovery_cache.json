@@ -25,10 +25,10 @@
       "time": 1791144931165
     },
     "https://haiwaikan.com/api.php/provide/vod": {
-      "time": 1790803713236
+      "time": 1791410745819
     },
     "https://www.bhziyuan.com/api.php/provide/vod": {
-      "time": 1790803713236
+      "time": 1791410745819
     },
     "https://zzdj.cc/api.php/provide/vod": {
       "time": 1790891562489
@@ -55,34 +55,10 @@
       "time": 1791242019150
     },
     "https://help.m766.com/api.php/provide/vod": {
-      "time": 1790803713236
+      "time": 1791410745819
     },
     "https://help.m766.com/inc/apijson.php": {
-      "time": 1790803713236
-    },
-    "https://heihei.help/api.php/provide/vod": {
-      "time": 1790803713236
-    },
-    "https://heihei.help/inc/apijson.php": {
-      "time": 1790803713236
-    },
-    "https://189-180-106-216.clients.gthost.com/api.php/provide/vod": {
-      "time": 1790803713236
-    },
-    "https://189-180-106-216.clients.gthost.com/inc/apijson.php": {
-      "time": 1790803713236
-    },
-    "https://www.heihei.help/api.php/provide/vod": {
-      "time": 1790803713236
-    },
-    "https://www.heihei.help/inc/apijson.php": {
-      "time": 1790803713236
-    },
-    "https://173.19.195.113.adsl-pool.jx.chinaunicom.com/api.php/provide/vod": {
-      "time": 1790803713236
-    },
-    "https://173.19.195.113.adsl-pool.jx.chinaunicom.com/inc/apijson.php": {
-      "time": 1790803713236
+      "time": 1791410745819
     },
     "https://192-210-193-151-host.colocrossing.com/api.php/provide/vod": {
       "time": 1791057641943
@@ -304,5 +280,5 @@
       "time": 1791323089172
     }
   },
-  "lastRun": "2026-10-06T21:44:56.886Z"
+  "lastRun": "2026-10-07T22:05:56.096Z"
 }
