@@ -1,25 +1,19 @@
 {
   "failed": {
     "https://tyyszyapi.com/api.php/provide/vod": {
-      "time": 1790891562489
+      "time": 1791497585476
     },
     "https://api.wuxianzy.net/api.php/provide/vod": {
-      "time": 1790891562489
+      "time": 1791497585476
     },
     "https://api.fczy888.me/api.php/provide/vod": {
-      "time": 1790891562489
+      "time": 1791497585476
     },
     "https://api.1080zyku.com/inc/api.php/provide/vod": {
-      "time": 1790891562489
+      "time": 1791497585476
     },
     "https://lovedan.net/api.php/provide/vod": {
-      "time": 1790891562489
-    },
-    "https://unknown.ip-xfer.net/api.php/provide/vod": {
-      "time": 1790891562489
-    },
-    "https://unknown.ip-xfer.net/inc/apijson.php": {
-      "time": 1790891562489
+      "time": 1791497585476
     },
     "https://bhziyuan.com/inc/apijson.php": {
       "time": 1791144931165
@@ -29,9 +23,6 @@
     },
     "https://www.bhziyuan.com/api.php/provide/vod": {
       "time": 1791410745819
-    },
-    "https://zzdj.cc/api.php/provide/vod": {
-      "time": 1790891562489
     },
     "https://176.113.70.199.static.xtom.com/api.php/provide/vod": {
       "time": 1791144931165
@@ -65,33 +56,6 @@
     },
     "https://192-210-193-151-host.colocrossing.com/inc/apijson.php": {
       "time": 1791057641943
-    },
-    "https://你的CMS/api.php/provide/vod": {
-      "time": 1790891562489
-    },
-    "https://www.qilinzyz.com/api.php/provide/vod": {
-      "time": 1790891562489
-    },
-    "https://www.qilinzyz.com/inc/apijson.php": {
-      "time": 1790891562489
-    },
-    "https://qilinzyz.com/api.php/provide/vod": {
-      "time": 1790891562489
-    },
-    "https://qilinzyz.com/inc/apijson.php": {
-      "time": 1790891562489
-    },
-    "https://auth.qilinzyz.com/api.php/provide/vod": {
-      "time": 1790891562489
-    },
-    "https://auth.qilinzyz.com/inc/apijson.php": {
-      "time": 1790891562489
-    },
-    "https://gy.qilinzyz.com/api.php/provide/vod": {
-      "time": 1790891562489
-    },
-    "https://gy.qilinzyz.com/inc/apijson.php": {
-      "time": 1790891562489
     },
     "https://caiji.nxflv.com/api.php/provide/vod": {
       "time": 1790976148904
@@ -278,7 +242,16 @@
     },
     "https://yszyw1.top/api.php/provide/vod": {
       "time": 1791323089172
+    },
+    "https://app.bfzyapi.com/api.php/provide/vod": {
+      "time": 1791497585476
+    },
+    "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/api.php/provide/vod": {
+      "time": 1791497585476
+    },
+    "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/inc/apijson.php": {
+      "time": 1791497585476
     }
   },
-  "lastRun": "2026-10-07T22:05:56.096Z"
+  "lastRun": "2026-10-08T22:13:54.755Z"
 }

@@ -197,8 +197,7 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "🎬爱奇艺",
       "detail": "https://iqiyizyapi.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -331,6 +330,20 @@
     "cdn_dzzyapi": {
       "api": "https://cdn.dzzyapi.com/api.php/provide/vod",
       "name": "🎬TV-cdn_dzzyapi",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "ffzy1": {
+      "api": "https://ffzy1.tv/api.php/provide/vod",
+      "name": "🎬TV-ffzy1",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "yutuzy10": {
+      "api": "https://yutuzy10.com/api.php/provide/vod",
+      "name": "🎬TV-yutuzy10",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
