@@ -317,8 +317,7 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "🎬爱奇艺",
       "detail": "https://iqiyizyapi.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
