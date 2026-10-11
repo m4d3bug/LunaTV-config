@@ -209,7 +209,8 @@
       "api": "https://apiyutu.com/api.php/provide/vod",
       "name": "🔞AV-玉兔资源",
       "detail": "https://apiyutu.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "fhapi9": {
       "api": "http://fhapi9.com/api.php/provide/vod",
@@ -239,7 +240,8 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "🔞AV-老色逼资源",
       "detail": "https://apilsbzy1.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "apilj": {
       "api": "https://apilj.com/api.php/provide/vod",
@@ -359,7 +361,8 @@
       "api": "https://hsckzy.xyz/api.php/provide/vod",
       "name": "🔞黄色仓库",
       "detail": "hsckzy.xyz",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
@@ -563,7 +566,8 @@
       "name": "🎬TV-yutuzy10",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     }
   }
 }
