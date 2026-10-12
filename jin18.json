@@ -203,7 +203,8 @@
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "name": "🎬猫眼资源",
       "detail": "https://www.maoyanzy.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "lzcaiji": {
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
@@ -346,8 +347,7 @@
       "name": "🎬TV-yutuzy10",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     }
   }
 }

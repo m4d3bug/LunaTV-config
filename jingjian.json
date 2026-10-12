@@ -209,8 +209,7 @@
       "api": "https://apiyutu.com/api.php/provide/vod",
       "name": "🔞AV-玉兔资源",
       "detail": "https://apiyutu.com",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "fhapi9": {
       "api": "http://fhapi9.com/api.php/provide/vod",
@@ -240,8 +239,7 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "🔞AV-老色逼资源",
       "detail": "https://apilsbzy1.com",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "apilj": {
       "api": "https://apilj.com/api.php/provide/vod",
@@ -259,7 +257,8 @@
       "api": "https://shayuapi.com/api.php/provide/vod",
       "name": "🔞AV-鲨鱼资源",
       "detail": "https://shayuapi.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "pgxdy": {
       "api": "https://www.pgxdy.com/api/json.php",
@@ -325,7 +324,8 @@
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "name": "🎬猫眼资源",
       "detail": "https://www.maoyanzy.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "lzcaiji": {
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
@@ -361,8 +361,7 @@
       "api": "https://hsckzy.xyz/api.php/provide/vod",
       "name": "🔞黄色仓库",
       "detail": "hsckzy.xyz",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
@@ -426,6 +425,13 @@
       "name": "🎬TV-v_hwedding_cn",
       "detail": "",
       "is_adult": false,
+      "auto_discovered": true
+    },
+    "bhziyuan": {
+      "api": "https://bhziyuan.com/api.php/provide/vod",
+      "name": "🔞AV-bhziyuan",
+      "detail": "",
+      "is_adult": true,
       "auto_discovered": true
     },
     "ckzy_1": {
@@ -526,6 +532,13 @@
       "is_adult": false,
       "auto_discovered": true
     },
+    "madouse_la": {
+      "api": "https://madouse.la/api.php/provide/vod",
+      "name": "🔞AV-madouse_la",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
     "moduzy": {
       "api": "https://www.moduzy.com/api.php/provide/vod",
       "name": "🎬TV-moduzy",
@@ -566,8 +579,7 @@
       "name": "🎬TV-yutuzy10",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     }
   }
 }

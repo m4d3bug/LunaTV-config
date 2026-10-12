@@ -21,12 +21,6 @@
     "https://www.bhziyuan.com/api.php/provide/vod": {
       "time": 1791410745819
     },
-    "https://28.220-145-38.rdns.scalabledns.com/api.php/provide/vod": {
-      "time": 1791242019150
-    },
-    "https://28.220-145-38.rdns.scalabledns.com/inc/apijson.php": {
-      "time": 1791242019150
-    },
     "https://help.m766.com/api.php/provide/vod": {
       "time": 1791410745819
     },
@@ -218,7 +212,19 @@
     },
     "https://api.iku.cool/api.php/provide/vod": {
       "time": 1791752407027
+    },
+    "https://176.113.70.199.static.xtom.com/api.php/provide/vod": {
+      "time": 1791848414138
+    },
+    "https://176.113.70.199.static.xtom.com/inc/apijson.php": {
+      "time": 1791848414138
+    },
+    "https://bhziyuan.com/inc/apijson.php": {
+      "time": 1791848414138
+    },
+    "https://caiji.naichaapi.com/inc/apijson_vod.php": {
+      "time": 1791848414138
     }
   },
-  "lastRun": "2026-10-11T21:01:16.713Z"
+  "lastRun": "2026-10-12T23:40:25.507Z"
 }
