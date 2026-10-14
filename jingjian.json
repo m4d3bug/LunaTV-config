@@ -173,8 +173,7 @@
       "api": "https://91md.me/api.php/provide/vod",
       "name": "🔞AV-91麻豆",
       "detail": "https://91md.me",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "jkunzyapi": {
       "api": "https://jkunzyapi.com/api.php/provide/vod",
@@ -576,6 +575,34 @@
     "yutuzy10": {
       "api": "https://yutuzy10.com/api.php/provide/vod",
       "name": "🎬TV-yutuzy10",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "bycj_rytvapi": {
+      "api": "https://bycj.rytvapi.com/api.php/provide/vod",
+      "name": "🎬TV-bycj_rytvapi",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "subocj": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "🎬TV-subocj",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "yyzy-tv": {
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "name": "🎬TV-yyzy-tv",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "juliang": {
+      "api": "https://api.juliang.live/api/provide/vod",
+      "name": "🎬TV-juliang",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true

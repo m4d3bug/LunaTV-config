@@ -347,6 +347,34 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
+    },
+    "bycj_rytvapi": {
+      "api": "https://bycj.rytvapi.com/api.php/provide/vod",
+      "name": "🎬TV-bycj_rytvapi",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "subocj": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "🎬TV-subocj",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "yyzy-tv": {
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "name": "🎬TV-yyzy-tv",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "juliang": {
+      "api": "https://api.juliang.live/api/provide/vod",
+      "name": "🎬TV-juliang",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
     }
   }
 }
