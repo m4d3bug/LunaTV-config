@@ -16,16 +16,10 @@
       "time": 1791497585476
     },
     "https://haiwaikan.com/api.php/provide/vod": {
-      "time": 1791410745819
+      "time": 1792095902826
     },
     "https://www.bhziyuan.com/api.php/provide/vod": {
-      "time": 1791410745819
-    },
-    "https://help.m766.com/api.php/provide/vod": {
-      "time": 1791410745819
-    },
-    "https://help.m766.com/inc/apijson.php": {
-      "time": 1791410745819
+      "time": 1792095902826
     },
     "https://www.ddzyz1.com/api.php/provide/vod": {
       "time": 1791752407027
@@ -283,5 +277,5 @@
       "time": 1792010870631
     }
   },
-  "lastRun": "2026-10-14T20:48:33.871Z"
+  "lastRun": "2026-10-15T20:25:12.793Z"
 }
