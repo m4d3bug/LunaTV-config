@@ -1,19 +1,19 @@
 {
   "failed": {
     "https://tyyszyapi.com/api.php/provide/vod": {
-      "time": 1791497585476
+      "time": 1792180774563
     },
     "https://api.wuxianzy.net/api.php/provide/vod": {
-      "time": 1791497585476
+      "time": 1792180774563
     },
     "https://api.fczy888.me/api.php/provide/vod": {
-      "time": 1791497585476
+      "time": 1792180774563
     },
     "https://api.1080zyku.com/inc/api.php/provide/vod": {
-      "time": 1791497585476
+      "time": 1792180774563
     },
     "https://lovedan.net/api.php/provide/vod": {
-      "time": 1791497585476
+      "time": 1792180774563
     },
     "https://haiwaikan.com/api.php/provide/vod": {
       "time": 1792095902826
@@ -83,15 +83,6 @@
     },
     "https://yszyw1.top/api.php/provide/vod": {
       "time": 1791928448728
-    },
-    "https://app.bfzyapi.com/api.php/provide/vod": {
-      "time": 1791497585476
-    },
-    "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/api.php/provide/vod": {
-      "time": 1791497585476
-    },
-    "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/inc/apijson.php": {
-      "time": 1791497585476
     },
     "https://heihei.help/api.php/provide/vod": {
       "time": 1791582429508
@@ -275,7 +266,10 @@
     },
     "https://video.yingworld.vip/api.php/provide/vod": {
       "time": 1792010870631
+    },
+    "https://你的CMS/api.php/provide/vod": {
+      "time": 1792180774563
     }
   },
-  "lastRun": "2026-10-15T20:25:12.793Z"
+  "lastRun": "2026-10-16T19:59:46.799Z"
 }
