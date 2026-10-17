@@ -84,30 +84,6 @@
     "https://yszyw1.top/api.php/provide/vod": {
       "time": 1791928448728
     },
-    "https://heihei.help/api.php/provide/vod": {
-      "time": 1791582429508
-    },
-    "https://heihei.help/inc/apijson.php": {
-      "time": 1791582429508
-    },
-    "https://189-180-106-216.clients.gthost.com/api.php/provide/vod": {
-      "time": 1791582429508
-    },
-    "https://189-180-106-216.clients.gthost.com/inc/apijson.php": {
-      "time": 1791582429508
-    },
-    "https://www.heihei.help/api.php/provide/vod": {
-      "time": 1791582429508
-    },
-    "https://www.heihei.help/inc/apijson.php": {
-      "time": 1791582429508
-    },
-    "https://unknown.ip-xfer.net/api.php/provide/vod": {
-      "time": 1791582429508
-    },
-    "https://unknown.ip-xfer.net/inc/apijson.php": {
-      "time": 1791582429508
-    },
     "https://www.zy018.com/api.php/provide/vod": {
       "time": 1791752407027
     },
@@ -269,7 +245,16 @@
     },
     "https://你的CMS/api.php/provide/vod": {
       "time": 1792180774563
+    },
+    "https://app.bfzyapi.com/api.php/provide/vod": {
+      "time": 1792265504979
+    },
+    "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/api.php/provide/vod": {
+      "time": 1792265504979
+    },
+    "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/inc/apijson.php": {
+      "time": 1792265504979
     }
   },
-  "lastRun": "2026-10-16T19:59:46.799Z"
+  "lastRun": "2026-10-17T19:31:55.053Z"
 }

@@ -197,8 +197,7 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "🎬爱奇艺",
       "detail": "https://iqiyizyapi.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -354,8 +353,7 @@
       "name": "🎬TV-bycj_rytvapi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "subocj": {
       "api": "https://subocj.com/api.php/provide/vod",
