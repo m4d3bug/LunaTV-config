@@ -606,6 +606,13 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
+    },
+    "qxzy": {
+      "api": "https://qxzy.tv/api.php/provide/vod",
+      "name": "🎬TV-qxzy",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
     }
   }
 }
