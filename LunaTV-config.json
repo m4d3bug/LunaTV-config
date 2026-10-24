@@ -54,21 +54,22 @@
       "name": "🎬TV-丫丫点播",
       "detail": "https://cj.yayazy.net",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "🎬TV-光速资源",
       "detail": "https://api.guangsuapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "wolongzyw": {
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "name": "🎬TV-卧龙点播",
       "detail": "https://collect.wolongzyw.com",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "wolongzy_cc": {
@@ -76,7 +77,7 @@
       "name": "🎬TV-卧龙资源",
       "detail": "",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "wolongzyw_com": {
@@ -84,7 +85,7 @@
       "name": "🎬TV-卧龙资源",
       "detail": "https://wolongzyw.com",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "tyyszy": {
@@ -92,7 +93,7 @@
       "name": "🎬TV-天涯资源",
       "detail": "https://tyyszy.com",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "rycjapi": {
@@ -105,7 +106,8 @@
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "name": "🎬TV-新浪点播",
       "detail": "https://api.xinlangapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "wujinapi_com": {
       "api": "https://api.wujinapi.com/api.php/provide/vod",
@@ -130,7 +132,7 @@
       "name": "🎬TV-旺旺短剧",
       "detail": "https://wwzy.tv",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "wwzy_api": {
@@ -138,7 +140,7 @@
       "name": "🎬TV-旺旺资源",
       "detail": "https://api.wwzy.tv",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "bfzyapi": {
@@ -164,7 +166,7 @@
       "name": "🎬TV-樱花资源",
       "detail": "",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "yparse": {
@@ -172,7 +174,7 @@
       "name": "🎬TV-步步高资源",
       "detail": "",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "niuniuzy": {
@@ -180,7 +182,7 @@
       "name": "🎬TV-牛牛点播",
       "detail": "https://api.niuniuzy.me",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "dyttzyapi": {
@@ -194,7 +196,7 @@
       "name": "🔞AV-百万资源",
       "detail": "https://api.bwzyz.com",
       "is_adult": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "apibdzy": {
@@ -202,7 +204,7 @@
       "name": "🎬TV-百度云资源",
       "detail": "https://api.apibdzy.com",
       "is_adult": false,
-      "_fails": 68,
+      "_fails": 69,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "1080zyku_json": {
@@ -216,21 +218,22 @@
       "name": "🎬TV-索尼资源",
       "detail": "",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "hongniuzy2": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "name": "🎬TV-红牛资源",
       "detail": "https://www.hongniuzy2.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "🎬TV-茅台资源",
       "detail": "https://caiji.maotaizy.cc",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "huyaapi": {
@@ -244,7 +247,7 @@
       "name": "🎬TV-豆瓣资源",
       "detail": "https://dbzy.tv",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "hhzyapi": {
@@ -269,20 +272,22 @@
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "name": "🎬TV-金鹰点播",
       "detail": "https://jinyingzy.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "jyzyapi": {
       "api": "https://jyzyapi.com/api.php/provide/vod",
       "name": "🎬TV-金鹰资源",
       "detail": "https://jyzyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "sdzyapi": {
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "name": "🎬TV-闪电资源",
       "detail": "https://sdzyapi.com",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "ffzyapi": {
@@ -296,7 +301,7 @@
       "name": "🎬TV-飘零资源",
       "detail": "https://p2100.net",
       "is_adult": false,
-      "_fails": 35,
+      "_fails": 36,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "mdzyapi": {
@@ -316,7 +321,7 @@
       "name": "🔞AV-AIvin",
       "detail": "",
       "is_adult": true,
-      "_fails": 58,
+      "_fails": 59,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "jkunzyapi": {
@@ -431,21 +436,23 @@
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
       "name": "🎬红牛资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "xsd_sdzyapi": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "🎬索尼-闪电资源",
       "detail": "",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "jyzyapi_provide": {
       "api": "https://jyzyapi.com/provide/vod",
       "name": "🎬金鹰资源采集网",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "hsckzy888": {
       "api": "https://hsckzy888.com/api.php/provide/vod",
@@ -463,28 +470,30 @@
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "name": "🎬新浪资源阿",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "xxibaozyw": {
       "api": "https://www.xxibaozyw.com/api.php/provide/vod",
       "name": "🔞细胞采集黄色",
       "detail": "",
       "is_adult": true,
-      "_fails": 50,
+      "_fails": 51,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "aqyzy": {
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "🎬爱奇艺",
       "detail": "https://iqiyizyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "caijidb": {
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "name": "🎬豆瓣资源",
       "detail": "dbzy.tv",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "myzy": {
@@ -552,7 +561,7 @@
       "name": "🎬TV-金蝉影视",
       "detail": "https://zy.jinchancaiji.com",
       "is_adult": false,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "heiliaozyapi": {
@@ -566,7 +575,7 @@
       "name": "🔞AV-色猫资源",
       "detail": "https://caiji.semaozy.net",
       "is_adult": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "siwazyw": {
@@ -574,7 +583,7 @@
       "name": "🔞AV-丝袜资源",
       "detail": "https://siwazyw.tv",
       "is_adult": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "souavzyw": {
@@ -588,7 +597,7 @@
       "name": "🔞AV-VN资源",
       "detail": "https://vnzyz.com",
       "is_adult": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "xiangjiaozyw": {
@@ -596,7 +605,7 @@
       "name": "🔞AV-香蕉资源",
       "detail": "https://www.xiangjiaozyw.com",
       "is_adult": true,
-      "_fails": 33,
+      "_fails": 34,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "xingba222": {
@@ -618,7 +627,7 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "l_hhhj": {
@@ -627,7 +636,7 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "l_hhhj_1": {
@@ -636,7 +645,7 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "cai_8810vip": {
@@ -659,7 +668,7 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "v_hwedding_cn": {
@@ -675,7 +684,7 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "bwzy": {
@@ -684,7 +693,7 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true,
-      "_fails": 63,
+      "_fails": 64,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "bwzy_1": {
@@ -693,7 +702,7 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true,
-      "_fails": 63,
+      "_fails": 64,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "bhziyuan": {
@@ -709,7 +718,7 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "ckzy_1": {
@@ -725,7 +734,7 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "m766": {
@@ -741,7 +750,7 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true,
-      "_fails": 63,
+      "_fails": 64,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "16_yun89": {
@@ -750,7 +759,7 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "aosikazy1": {
@@ -759,7 +768,7 @@
       "detail": "",
       "is_adult": true,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "360zyzz": {
@@ -803,7 +812,7 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "wwzy_1": {
@@ -812,7 +821,7 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true,
-      "_fails": 69,
+      "_fails": 70,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "ckzy1": {
@@ -862,7 +871,8 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "gz_ifree_fun": {
       "api": "https://gz.ifree.fun/api.php/provide/vod",
@@ -870,7 +880,7 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true,
-      "_fails": 47,
+      "_fails": 48,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "zitv": {
@@ -879,7 +889,7 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true,
-      "_fails": 31,
+      "_fails": 32,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "zy_xiaomaomi": {
@@ -888,7 +898,7 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true,
-      "_fails": 56,
+      "_fails": 57,
       "_comment": "自动剔除：连续2次测活失败"
     },
     "madouse_la": {
@@ -924,7 +934,8 @@
       "name": "🎬TV-ffzy1",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "hsckzy_1": {
       "api": "https://hsckzy.vip/api.php/provide/vod",

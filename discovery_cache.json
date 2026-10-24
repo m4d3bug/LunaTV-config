@@ -57,15 +57,6 @@
     "https://你的CMS/api.php/provide/vod": {
       "time": 1792787505579
     },
-    "https://app.bfzyapi.com/api.php/provide/vod": {
-      "time": 1792265504979
-    },
-    "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/api.php/provide/vod": {
-      "time": 1792265504979
-    },
-    "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/inc/apijson.php": {
-      "time": 1792265504979
-    },
     "https://89012.cc/api.php/provide/vod": {
       "time": 1792351769238
     },
@@ -224,7 +215,37 @@
     },
     "https://50.114.236.162/api.php/provide/vod": {
       "time": 1792787505579
+    },
+    "https://www.bhziyuan.com/api.php/provide/vod": {
+      "time": 1792870487968
+    },
+    "https://176.113.70.199.static.xtom.com/api.php/provide/vod": {
+      "time": 1792870487968
+    },
+    "https://176.113.70.199.static.xtom.com/inc/apijson.php": {
+      "time": 1792870487968
+    },
+    "https://bhziyuan.com/inc/apijson.php": {
+      "time": 1792870487968
+    },
+    "https://176.113.70.198.static.xtom.com/api.php/provide/vod": {
+      "time": 1792870487968
+    },
+    "https://176.113.70.198.static.xtom.com/inc/apijson.php": {
+      "time": 1792870487968
+    },
+    "https://caiji.diyizy.net/api.php/provide/vod": {
+      "time": 1792870487968
+    },
+    "https://we.love.servers.at.ioflood.net/api.php/provide/vod": {
+      "time": 1792870487968
+    },
+    "https://we.love.servers.at.ioflood.net/inc/apijson.php": {
+      "time": 1792870487968
+    },
+    "https://155.117.224.240:8090/api.php/provide/vod": {
+      "time": 1792870487968
     }
   },
-  "lastRun": "2026-10-23T20:32:46.001Z"
+  "lastRun": "2026-10-24T19:35:20.294Z"
 }
