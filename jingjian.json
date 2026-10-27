@@ -301,6 +301,12 @@
       "detail": "",
       "is_adult": true
     },
+    "aqyzy": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "🎬爱奇艺",
+      "detail": "https://iqiyizyapi.com",
+      "is_adult": false
+    },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "name": "🎬猫眼资源",
