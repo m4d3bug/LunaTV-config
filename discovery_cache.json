@@ -15,41 +15,11 @@
     "https://lovedan.net/api.php/provide/vod": {
       "time": 1792787505579
     },
-    "https://haiwaikan.com/api.php/provide/vod": {
-      "time": 1792701447637
-    },
-    "https://api.wujinwszy.net/api.php/provide/vod": {
-      "time": 1792701447637
-    },
-    "https://44.215.212.35.bc.googleusercontent.com/api.php/provide/vod": {
-      "time": 1792701447637
-    },
-    "https://44.215.212.35.bc.googleusercontent.com/inc/apijson.php": {
-      "time": 1792701447637
-    },
-    "https://lzizy1.com/api.php/provide/vod": {
-      "time": 1792701447637
-    },
     "https://caiji.kuaichezy.org/api.php/provide/vod": {
-      "time": 1792701447637
+      "time": 1793310777179
     },
     "https://api.wsyzy.net/api.php/provide/vod": {
-      "time": 1792701447637
-    },
-    "https://www.xxx.com/api.php/provide/vod": {
-      "time": 1792701447637
-    },
-    "https://www.inmi.app/api.php/provide/vod": {
-      "time": 1792701447637
-    },
-    "https://www.blssv.com/api.php/provide/vod": {
-      "time": 1792701447637
-    },
-    "https://tujutv.top/api.php/provide/vod": {
-      "time": 1792701447637
-    },
-    "https://video.yingworld.vip/api.php/provide/vod": {
-      "time": 1792701447637
+      "time": 1793310777179
     },
     "https://你的CMS/api.php/provide/vod": {
       "time": 1792787505579
@@ -134,12 +104,6 @@
     },
     "https://api.apilyzy.com/api.php/provide/vod": {
       "time": 1793136233596
-    },
-    "https://unknown.ip-xfer.net/api.php/provide/vod": {
-      "time": 1792701447637
-    },
-    "https://unknown.ip-xfer.net/inc/apijson.php": {
-      "time": 1792701447637
     },
     "https://xcyszy.com/api.php/provide/vod": {
       "time": 1792787505579
@@ -437,7 +401,22 @@
     },
     "https://kuyingju.cc/inc/apijson.php": {
       "time": 1793223935121
+    },
+    "https://150.109.94.44:1112/api.php/provide/vod": {
+      "time": 1793310777179
+    },
+    "https://api.huosuapi.cc/api.php/provide/vod": {
+      "time": 1793310777179
+    },
+    "https://api.11bat.com/api.php/provide/vod": {
+      "time": 1793310777179
+    },
+    "https://www.lovedan.net/api.php/provide/vod": {
+      "time": 1793310777179
+    },
+    "https://xxavs.com/api.php/provide/vod": {
+      "time": 1793310777179
     }
   },
-  "lastRun": "2026-10-28T21:45:50.158Z"
+  "lastRun": "2026-10-29T21:54:01.801Z"
 }

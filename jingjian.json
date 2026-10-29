@@ -317,8 +317,7 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "🎬爱奇艺",
       "detail": "https://iqiyizyapi.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -536,7 +535,8 @@
       "name": "🔞AV-madouse_la",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "moduzy": {
       "api": "https://www.moduzy.com/api.php/provide/vod",
@@ -613,7 +613,8 @@
       "name": "🎬TV-qxzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "suboziyuan": {
       "api": "https://www.suboziyuan.net/api.php/provide/vod",
@@ -660,6 +661,146 @@
     "zy_jinchanjiexi": {
       "api": "https://zy.jinchanjiexi.net/api.php/provide/vod",
       "name": "🎬TV-zy_jinchanjiexi",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "lzizy1": {
+      "api": "https://lzizy1.com/api.php/provide/vod",
+      "name": "🎬TV-lzizy1",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "ffzyapi_2": {
+      "api": "https://cj.ffzyapi.com//api.php/provide/vod",
+      "name": "🎬TV-ffzyapi_2",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "yonghu_ffzyapi8": {
+      "api": "https://yonghu.ffzyapi8.com/api.php/provide/vod",
+      "name": "🎬TV-yonghu_ffzyapi8",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "cmov_cn": {
+      "api": "https://www.cmov.cn/api.php/provide/vod",
+      "name": "🎬TV-cmov_cn",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "19q": {
+      "api": "https://19q.cc/api.php/provide/vod",
+      "name": "🔞AV-19q",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "mujiziyuan00": {
+      "api": "https://mujiziyuan00.com/api.php/provide/vod",
+      "name": "🎬TV-mujiziyuan00",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "jipinvip1": {
+      "api": "https://jipinvip1.com/api.php/provide/vod",
+      "name": "🎬TV-jipinvip1",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "ysxq": {
+      "api": "https://www.ysxq.cc/api.php/provide/vod",
+      "name": "🎬TV-ysxq",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "yuanlib": {
+      "api": "https://yuanlib.com/api.php/provide/vod",
+      "name": "🎬TV-yuanlib",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "xingba222_1": {
+      "api": "https://json.xingba222.com/api.php/provide/vod",
+      "name": "🔞AV-xingba222_1",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "jipinvip": {
+      "api": "https://jipinvip.com/api.php/provide/vod",
+      "name": "🎬TV-jipinvip",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "shayuzy1": {
+      "api": "https://shayuzy1.com/api.php/provide/vod",
+      "name": "🔞AV-shayuzy1",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "jp98": {
+      "api": "https://jp98.vip/api.php/provide/vod",
+      "name": "🎬TV-jp98",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "maoyanzy": {
+      "api": "https://maoyanzy.com/api.php/provide/vod",
+      "name": "🎬TV-maoyanzy",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "heiliaozyapi_1": {
+      "api": "https://heiliaozyapi.com/api.php/provide/vod",
+      "name": "🔞AV-heiliaozyapi_1",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "fqzy": {
+      "api": "https://fqzy.me//api.php/provide/vod",
+      "name": "🎬TV-fqzy",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "shayuzy5": {
+      "api": "https://shayuzy5.com/api.php/provide/vod",
+      "name": "🔞AV-shayuzy5",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "souavzy": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "🔞AV-souavzy",
+      "detail": "",
+      "is_adult": true,
+      "auto_discovered": true
+    },
+    "ys_cxkjg_cn": {
+      "api": "https://ys.cxkjg.cn/api/provide/vod",
+      "name": "🎬TV-ys_cxkjg_cn",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "xjzyapi": {
+      "api": "https://api.xjzyapi.com/provide/vod",
+      "name": "🎬TV-xjzyapi",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
