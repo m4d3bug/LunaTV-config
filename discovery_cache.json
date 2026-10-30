@@ -1,28 +1,25 @@
 {
   "failed": {
     "https://tyyszyapi.com/api.php/provide/vod": {
-      "time": 1792787505579
+      "time": 1793396255575
     },
     "https://api.wuxianzy.net/api.php/provide/vod": {
-      "time": 1792787505579
+      "time": 1793396255575
     },
     "https://api.fczy888.me/api.php/provide/vod": {
-      "time": 1792787505579
+      "time": 1793396255575
     },
     "https://api.1080zyku.com/inc/api.php/provide/vod": {
-      "time": 1792787505579
+      "time": 1793396255575
     },
     "https://lovedan.net/api.php/provide/vod": {
-      "time": 1792787505579
+      "time": 1793396255575
     },
     "https://caiji.kuaichezy.org/api.php/provide/vod": {
       "time": 1793310777179
     },
     "https://api.wsyzy.net/api.php/provide/vod": {
       "time": 1793310777179
-    },
-    "https://你的CMS/api.php/provide/vod": {
-      "time": 1792787505579
     },
     "https://example.com/api.php/provide/vod": {
       "time": 1793136233596
@@ -104,15 +101,6 @@
     },
     "https://api.apilyzy.com/api.php/provide/vod": {
       "time": 1793136233596
-    },
-    "https://xcyszy.com/api.php/provide/vod": {
-      "time": 1792787505579
-    },
-    "https://qxzy.tv/inc/apijson.php": {
-      "time": 1792787505579
-    },
-    "https://50.114.236.162/api.php/provide/vod": {
-      "time": 1792787505579
     },
     "https://www.bhziyuan.com/api.php/provide/vod": {
       "time": 1792870487968
@@ -416,7 +404,25 @@
     },
     "https://xxavs.com/api.php/provide/vod": {
       "time": 1793310777179
+    },
+    "https://www.xxx.com/api.php/provide/vod": {
+      "time": 1793396255575
+    },
+    "https://www.inmi.app/api.php/provide/vod": {
+      "time": 1793396255575
+    },
+    "https://www.blssv.com/api.php/provide/vod": {
+      "time": 1793396255575
+    },
+    "https://tujutv.top/api.php/provide/vod": {
+      "time": 1793396255575
+    },
+    "https://video.yingworld.vip/api.php/provide/vod": {
+      "time": 1793396255575
+    },
+    "https://haiwaikan.com/api.php/provide/vod": {
+      "time": 1793396255575
     }
   },
-  "lastRun": "2026-10-29T21:54:01.801Z"
+  "lastRun": "2026-10-30T21:37:53.987Z"
 }
