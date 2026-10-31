@@ -1,6 +1,6 @@
 # API 健康检查报告
 
-最近更新：2026-10-31 05:37 CST
+最近更新：2026-11-01 04:31 CST
 
 **总 API 数量:** 167  |  **重复 API 数量:** 4
 
@@ -16,45 +16,45 @@
 | 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-ikun资源 | https://ikunzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-wujinapi无尽 | https://api.wujinapi.cc/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| 🚨 | 🎬TV-丫丫点播 | https://cj.yayazy.net/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🎬TV-丫丫点播 | https://cj.yayazy.net/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | ✅ | 🎬TV-光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| 🚨 | 🎬TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🎬TV-卧龙点播 | https://collect.wolongzyw.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | 🚨 | 🎬TV-卧龙资源 | https://collect.wolongzy.cc/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
-| 🚨 | 🎬TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
-| 🚨 | 🎬TV-天涯资源 | https://tyyszy.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
-| 🔁 | 🎬如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| 🚨 | 🎬TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
+| 🚨 | 🎬TV-天涯资源 | https://tyyszy.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
+| 🔁 | 🎬如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | 🔁 | 🎬新浪资源阿 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.me/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬TV-无尽资源 | https://api.wujinapi.net/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| 🚨 | 🎬TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
-| 🚨 | 🎬TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🎬TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
+| 🚨 | 🎬TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | ✅ | 🎬TV-暴风资源 | https://bfzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-最大点播 | http://zuidazy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-最大资源 | https://api.zuidapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| 🚨 | 🎬TV-樱花资源 | https://m3u8.apiyhzy.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🎬TV-樱花资源 | https://m3u8.apiyhzy.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | 🚨 | 🎬TV-步步高资源 | https://api.yparse.com/api/json | 0 | 100 | 0.0% | 100 |
-| 🚨 | 🎬TV-牛牛点播 | https://api.niuniuzy.me/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🎬TV-牛牛点播 | https://api.niuniuzy.me/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | ✅ | 🎬TV-电影天堂资源 | http://caiji.dyttzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | 🚨 | 🔞AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
-| 🚨 | 🎬TV-百度云资源 | https://api.apibdzy.com/api.php/provide/vod | 1 | 99 | 1.0% | 75 |
+| 🚨 | 🎬TV-百度云资源 | https://api.apibdzy.com/api.php/provide/vod | 1 | 99 | 1.0% | 76 |
 | ✅ | 🎬TV-神马云 | https://api.1080zyku.com/inc/apijson.php/ | 100 | 0 | 100.0% | 0 |
-| 🚨 | 🎬TV-索尼资源 | https://suoniapi.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🎬TV-索尼资源 | https://suoniapi.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | ✅ | 🎬TV-红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| 🚨 | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🎬TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | ✅ | 🎬TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| 🚨 | 🎬TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
+| 🚨 | 🎬TV-豆瓣资源 | https://dbzy.tv/api.php/provide/vod | 22 | 78 | 22.0% | 78 |
 | ✅ | 🎬TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-速博资源 | https://subocaiji.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬TV-量子资源 | https://cj.lziapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-金鹰资源 | https://jyzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| 🚨 | 🎬TV-闪电资源 | https://sdzyapi.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
-| ✅ | 🎬TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| 🚨 | 🎬TV-飘零资源 | https://p2100.net/api.php/provide/vod | 2 | 98 | 2.0% | 42 |
+| 🚨 | 🎬TV-闪电资源 | https://sdzyapi.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
+| ✅ | 🎬TV-非凡资源 | https://cj.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| 🚨 | 🎬TV-飘零资源 | https://p2100.net/api.php/provide/vod | 2 | 98 | 2.0% | 43 |
 | ✅ | 🎬TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞AV-91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| 🚨 | 🔞AV-AIvin | http://lbapiby.com/api.php/provide/vod | 35 | 65 | 35.0% | 65 |
+| 🚨 | 🔞AV-AIvin | http://lbapiby.com/api.php/provide/vod | 34 | 66 | 34.0% | 66 |
 | ✅ | 🔞AV-JKUN资源 | https://jkunzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞AV-奶香香 | https://Naixxzy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -70,21 +70,21 @@
 | ✅ | 🔞AV-香奶儿资源 | https://www.gdlsp.com/api/json.php | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🔞AV-黄AV资源 | https://www.pgxdy.com/api/json.php | 100 | 0 | 100.0% | 0 |
-| ✅ | 🎬非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ✅ | 🎬非凡影视new | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞性吧资源 | https://xingba111.com/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
 | ✅ | 🎬红牛资源 | https://www.hongniuzy3.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| 🚨 | 🎬索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🎬索尼-闪电资源 | https://xsd.sdzyapi.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | ✅ | 🎬金鹰资源采集网 | https://jyzyapi.com/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞黄色资源啊啊 | https://hsckzy888.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 100 | 0 | 100.0% | 0 |
 | 🔁 | 🎬新浪资源阿 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🔞细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 42 | 58 | 42.0% | 57 |
+| 🚨 | 🔞细胞采集黄色 | https://www.xxibaozyw.com/api.php/provide/vod | 41 | 59 | 41.0% | 58 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
-| 🚨 | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
+| 🚨 | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 22 | 78 | 22.0% | 78 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬量子资源 | https://cj.lzcaiji.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| 🔁 | 🎬如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| 🔁 | 🎬如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | 🔁 | 🎬U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | 🔁 | 🎬U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -94,711 +94,91 @@
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | 🚨 | 🎬TV-金蝉影视 | https://zy.jinchancaiji.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | ✅ | 🔞AV-黑料资源 | https://www.heiliaozyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| 🚨 | 🔞AV-色猫资源 | https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🔞AV-色猫资源 | https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | 🚨 | 🔞AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | ✅ | 🔞AV-souAV资源 | https://api.souavzyw.net/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| 🚨 | 🔞AV-VN资源 | https://vnzyz.com/api.php/provide/vod | 21 | 79 | 21.0% | 77 |
-| 🚨 | 🔞AV-香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 49 | 51 | 49.0% | 40 |
+| 🚨 | 🔞AV-VN资源 | https://vnzyz.com/api.php/provide/vod | 20 | 80 | 20.0% | 78 |
+| 🚨 | 🔞AV-香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 48 | 52 | 48.0% | 41 |
 | ✅ | 🔞AV-杏吧资源 | https://xingba222.com/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
-| ✅ | 🎬TV-ffzyapi_1 | http://api.ffzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| 🚨 | 🔞AV-aosikazy | https://aosikazy.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| ✅ | 🎬TV-ffzyapi_1 | http://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| 🚨 | 🔞AV-aosikazy | https://aosikazy.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | 🚨 | 🎬TV-l_hhhj | https://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬TV-l_hhhj_1 | http://l.hhhj.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | ✅ | 🎬TV-cai_8810vip | https://cai.8810vip.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-cai_8810vip_1 | http://cai.8810vip.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | 🚨 | 🎬TV-45_150_227_216 | http://45.150.227.216:6543/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | ✅ | 🎬TV-v_hwedding_cn | https://v.hwedding.cn/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| 🚨 | 🔞AV-aosikazyw1 | https://aosikazyw1.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
-| 🚨 | 🔞AV-bwzy | https://www.bwzy.tv/api.php/provide/vod | 30 | 70 | 30.0% | 70 |
-| 🚨 | 🔞AV-bwzy_1 | https://bwzy.tv/api.php/provide/vod | 30 | 70 | 30.0% | 70 |
-| ✅ | 🔞AV-bhziyuan | https://bhziyuan.com/api.php/provide/vod | 19 | 81 | 19.0% | 0 |
-| 🚨 | 🔞AV-aosikazy6 | https://aosikazy6.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🔞AV-aosikazyw1 | https://aosikazyw1.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
+| 🚨 | 🔞AV-bwzy | https://www.bwzy.tv/api.php/provide/vod | 29 | 71 | 29.0% | 71 |
+| 🚨 | 🔞AV-bwzy_1 | https://bwzy.tv/api.php/provide/vod | 29 | 71 | 29.0% | 71 |
+| ✅ | 🔞AV-bhziyuan | https://bhziyuan.com/api.php/provide/vod | 20 | 80 | 20.0% | 0 |
+| 🚨 | 🔞AV-aosikazy6 | https://aosikazy6.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | ✅ | 🔞AV-ckzy_1 | https://www.ckzy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| 🚨 | 🔞AV-aosikazy2 | https://aosikazy2.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🔞AV-aosikazy2 | https://aosikazy2.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | ✅ | 🔞AV-m766 | https://m766.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| 🚨 | 🎬TV-98zy | https://98zy.vip/api.php/provide/vod | 30 | 70 | 30.0% | 70 |
+| 🚨 | 🎬TV-98zy | https://98zy.vip/api.php/provide/vod | 29 | 71 | 29.0% | 71 |
 | 🚨 | 🎬TV-16_yun89 | https://16.yun89.top/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
-| 🚨 | 🔞AV-aosikazy1 | https://aosikazy1.com/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🔞AV-aosikazy1 | https://aosikazy1.com/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | ✅ | 🎬TV-360zyzz | https://360zyzz.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬TV-moduapi | https://caiji.moduapi.cc/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬TV-ffzy5 | https://ffzy5.tv/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞AV-beiyong_slapibf | https://beiyong.slapibf.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬TV-yzzy-api | https://api.yzzy-api.com/inc/apijson.php | 100 | 0 | 100.0% | 0 |
-| 🚨 | 🎬TV-semaozy_1 | https://caiji.semaozy.net/inc/apijson_vod.php | 24 | 76 | 24.0% | 76 |
-| 🚨 | 🎬TV-wwzy_1 | https://www.wwzy.tv/api.php/provide/vod | 24 | 76 | 24.0% | 76 |
+| 🚨 | 🎬TV-semaozy_1 | https://caiji.semaozy.net/inc/apijson_vod.php | 23 | 77 | 23.0% | 77 |
+| 🚨 | 🎬TV-wwzy_1 | https://www.wwzy.tv/api.php/provide/vod | 23 | 77 | 23.0% | 77 |
 | ✅ | 🔞AV-ckzy1 | https://ckzy1.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞AV-ckzy1_1 | https://www.ckzy1.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-heiapi | https://api.heiapi.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-xgzyapi | https://caiji.xgzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬TV-bf_xoxowin86cisyap | https://bf.xoxowin86cisyap.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🔞AV-naixxzy_1 | https://naixxzy.com/api.php/provide/vod | 75 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-ffzy | https://ffzy.tv/api.php/provide/vod | 59 | 7 | 89.4% | 0 |
-| 🚨 | 🎬TV-gz_ifree_fun | https://gz.ifree.fun/api.php/provide/vod | 10 | 55 | 15.4% | 54 |
-| ✅ | 🎬TV-zitv | https://www.zitv.cc/api.php/provide/vod | 26 | 37 | 41.3% | 0 |
-| 🚨 | 🎬TV-zy_xiaomaomi | https://zy.xiaomaomi.cc/api.php/provide/vod | 0 | 63 | 0.0% | 63 |
-| ✅ | 🔞AV-madouse_la | https://madouse.la/api.php/provide/vod | 49 | 14 | 77.8% | 0 |
-| ✅ | 🎬TV-moduzy | https://www.moduzy.com/api.php/provide/vod | 50 | 1 | 98.0% | 0 |
-| ✅ | 🎬TV-xgzy | https://xgzy.tv/api.php/provide/vod | 51 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-cdn_dzzyapi | https://cdn.dzzyapi.com/api.php/provide/vod | 44 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-ffzy1 | https://ffzy1.tv/api.php/provide/vod | 20 | 2 | 90.9% | 0 |
-| ✅ | 🔞AV-hsckzy_1 | https://hsckzy.vip/api.php/provide/vod | 22 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-yutuzy10 | https://yutuzy10.com/api.php/provide/vod | 21 | 1 | 95.5% | 0 |
-| ✅ | 🎬TV-bycj_rytvapi | https://bycj.rytvapi.com/api.php/provide/vod | 15 | 1 | 93.8% | 0 |
-| ✅ | 🎬TV-subocj | https://subocj.com/api.php/provide/vod | 16 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-yyzy-tv | https://api.yyzy-tv.vip/inc/apijson.php | 16 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-juliang | https://api.juliang.live/api/provide/vod | 16 | 0 | 100.0% | 0 |
-| ❌ | 🎬TV-qxzy | https://qxzy.tv/api.php/provide/vod | 5 | 2 | 71.4% | 2 |
-| ✅ | 🎬TV-suboziyuan | https://www.suboziyuan.net/api.php/provide/vod | 5 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-jjzyapi | https://caiji.jjzyapi.com/api.php/provide/vod | 5 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-mgzyapi | https://caiji.mgzyapi.com/api.php/provide/vod | 5 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-tv_xmb_app | https://tv.xmb.app/api.php/provide/vod | 5 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-hong_hgyx | https://hong.hgyx.vip/api.php/provide/vod | 5 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-hongniuzy2_1 | https://hongniuzy2.com/api.php/provide/vod | 5 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-zy_jinchanjiexi | https://zy.jinchanjiexi.net/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-lzizy1 | https://lzizy1.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-ffzyapi_2 | https://cj.ffzyapi.com//api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-yonghu_ffzyapi8 | https://yonghu.ffzyapi8.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-cmov_cn | https://www.cmov.cn/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🔞AV-19q | https://19q.cc/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-mujiziyuan00 | https://mujiziyuan00.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-jipinvip1 | https://jipinvip1.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-ysxq | https://www.ysxq.cc/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-yuanlib | https://yuanlib.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🔞AV-xingba222_1 | https://json.xingba222.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-jipinvip | https://jipinvip.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🔞AV-shayuzy1 | https://shayuzy1.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-jp98 | https://jp98.vip/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-maoyanzy | https://maoyanzy.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🔞AV-heiliaozyapi_1 | https://heiliaozyapi.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-fqzy | https://fqzy.me//api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🔞AV-shayuzy5 | https://shayuzy5.com/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🔞AV-souavzy | https://api.souavzy.vip/api.php/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-ys_cxkjg_cn | https://ys.cxkjg.cn/api/provide/vod | 1 | 0 | 100.0% | 0 |
-| ✅ | 🎬TV-xjzyapi | https://api.xjzyapi.com/provide/vod | 1 | 0 | 100.0% | 0 |
+| ✅ | 🔞AV-naixxzy_1 | https://naixxzy.com/api.php/provide/vod | 76 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-ffzy | https://ffzy.tv/api.php/provide/vod | 60 | 7 | 89.6% | 0 |
+| 🚨 | 🎬TV-gz_ifree_fun | https://gz.ifree.fun/api.php/provide/vod | 10 | 56 | 15.2% | 55 |
+| ✅ | 🎬TV-zitv | https://www.zitv.cc/api.php/provide/vod | 27 | 37 | 42.2% | 0 |
+| 🚨 | 🎬TV-zy_xiaomaomi | https://zy.xiaomaomi.cc/api.php/provide/vod | 0 | 64 | 0.0% | 64 |
+| ✅ | 🔞AV-madouse_la | https://madouse.la/api.php/provide/vod | 50 | 14 | 78.1% | 0 |
+| ✅ | 🎬TV-moduzy | https://www.moduzy.com/api.php/provide/vod | 51 | 1 | 98.1% | 0 |
+| ✅ | 🎬TV-xgzy | https://xgzy.tv/api.php/provide/vod | 52 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-cdn_dzzyapi | https://cdn.dzzyapi.com/api.php/provide/vod | 45 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-ffzy1 | https://ffzy1.tv/api.php/provide/vod | 21 | 2 | 91.3% | 0 |
+| ✅ | 🔞AV-hsckzy_1 | https://hsckzy.vip/api.php/provide/vod | 23 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-yutuzy10 | https://yutuzy10.com/api.php/provide/vod | 22 | 1 | 95.7% | 0 |
+| ✅ | 🎬TV-bycj_rytvapi | https://bycj.rytvapi.com/api.php/provide/vod | 16 | 1 | 94.1% | 0 |
+| ✅ | 🎬TV-subocj | https://subocj.com/api.php/provide/vod | 17 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-yyzy-tv | https://api.yyzy-tv.vip/inc/apijson.php | 17 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-juliang | https://api.juliang.live/api/provide/vod | 17 | 0 | 100.0% | 0 |
+| 🚨 | 🎬TV-qxzy | https://qxzy.tv/api.php/provide/vod | 5 | 3 | 62.5% | 3 |
+| ✅ | 🎬TV-suboziyuan | https://www.suboziyuan.net/api.php/provide/vod | 6 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-jjzyapi | https://caiji.jjzyapi.com/api.php/provide/vod | 6 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-mgzyapi | https://caiji.mgzyapi.com/api.php/provide/vod | 6 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-tv_xmb_app | https://tv.xmb.app/api.php/provide/vod | 6 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-hong_hgyx | https://hong.hgyx.vip/api.php/provide/vod | 6 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-hongniuzy2_1 | https://hongniuzy2.com/api.php/provide/vod | 6 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-zy_jinchanjiexi | https://zy.jinchanjiexi.net/api.php/provide/vod | 3 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-lzizy1 | https://lzizy1.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-ffzyapi_2 | https://cj.ffzyapi.com//api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-yonghu_ffzyapi8 | https://yonghu.ffzyapi8.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-cmov_cn | https://www.cmov.cn/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🔞AV-19q | https://19q.cc/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-mujiziyuan00 | https://mujiziyuan00.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-jipinvip1 | https://jipinvip1.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-ysxq | https://www.ysxq.cc/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-yuanlib | https://yuanlib.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🔞AV-xingba222_1 | https://json.xingba222.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-jipinvip | https://jipinvip.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🔞AV-shayuzy1 | https://shayuzy1.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-jp98 | https://jp98.vip/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-maoyanzy | https://maoyanzy.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🔞AV-heiliaozyapi_1 | https://heiliaozyapi.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-fqzy | https://fqzy.me//api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🔞AV-shayuzy5 | https://shayuzy5.com/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🔞AV-souavzy | https://api.souavzy.vip/api.php/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-ys_cxkjg_cn | https://ys.cxkjg.cn/api/provide/vod | 2 | 0 | 100.0% | 0 |
+| ✅ | 🎬TV-xjzyapi | https://api.xjzyapi.com/provide/vod | 2 | 0 | 100.0% | 0 |
 
 ## 详细历史数据 (JSON)
 ```json
 [
-  {
-    "date": "2026-08-17",
-    "results": [
-      {
-        "name": "🎬TV-1080资源",
-        "api": "https://api.1080zyku.com/inc/api_mac10.php",
-        "success": true
-      },
-      {
-        "name": "🔞AV-155资源",
-        "api": "https://155api.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-360资源",
-        "api": "https://360zy.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-CK资源",
-        "api": "https://ckzy.me/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-U酷资源",
-        "api": "https://api.ukuapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-U酷资源88",
-        "api": "https://api.ukuapi88.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-ikun资源",
-        "api": "https://ikunzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-wujinapi无尽",
-        "api": "https://api.wujinapi.cc/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-丫丫点播",
-        "api": "https://cj.yayazy.net/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-光速资源",
-        "api": "https://api.guangsuapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-卧龙点播",
-        "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-卧龙资源",
-        "api": "https://collect.wolongzy.cc/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬TV-卧龙资源",
-        "api": "https://wolongzyw.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-天涯资源",
-        "api": "https://tyyszy.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-如意资源",
-        "api": "https://cj.rycjapi.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬TV-新浪点播",
-        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-无尽资源",
-        "api": "https://api.wujinapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-无尽资源",
-        "api": "https://api.wujinapi.me/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-无尽资源",
-        "api": "https://api.wujinapi.net/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-旺旺短剧",
-        "api": "https://wwzy.tv/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-旺旺资源",
-        "api": "https://api.wwzy.tv/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-暴风资源",
-        "api": "https://bfzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-最大点播",
-        "api": "http://zuidazy.me/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-最大资源",
-        "api": "https://api.zuidapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-樱花资源",
-        "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-步步高资源",
-        "api": "https://api.yparse.com/api/json",
-        "success": false
-      },
-      {
-        "name": "🎬TV-牛牛点播",
-        "api": "https://api.niuniuzy.me/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-电影天堂资源",
-        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-百万资源",
-        "api": "https://api.bwzyz.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬TV-百度云资源",
-        "api": "https://api.apibdzy.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬TV-神马云",
-        "api": "https://api.1080zyku.com/inc/apijson.php/",
-        "success": true
-      },
-      {
-        "name": "🎬TV-索尼资源",
-        "api": "https://suoniapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-红牛资源",
-        "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-茅台资源",
-        "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-虎牙资源",
-        "api": "https://www.huyaapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-豆瓣资源",
-        "api": "https://dbzy.tv/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-豪华资源",
-        "api": "https://hhzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-速博资源",
-        "api": "https://subocaiji.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-量子资源",
-        "api": "https://cj.lziapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-金鹰点播",
-        "api": "https://jinyingzy.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-金鹰资源",
-        "api": "https://jyzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-闪电资源",
-        "api": "https://sdzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-非凡资源",
-        "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬TV-飘零资源",
-        "api": "https://p2100.net/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬TV-魔都资源",
-        "api": "https://www.mdzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-91麻豆",
-        "api": "https://91md.me/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-AIvin",
-        "api": "http://lbapiby.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-JKUN资源",
-        "api": "https://jkunzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-乐播资源",
-        "api": "https://lbapi9.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-奶香香",
-        "api": "https://Naixxzy.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-森林资源",
-        "api": "https://slapibf.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-淫水机资源",
-        "api": "https://www.xrbsp.com/api/json.php",
-        "success": true
-      },
-      {
-        "name": "🔞AV-玉兔资源",
-        "api": "https://apiyutu.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-番号资源",
-        "api": "http://fhapi9.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-白嫖资源",
-        "api": "https://www.kxgav.com/api/json.php",
-        "success": true
-      },
-      {
-        "name": "🔞AV-精品资源",
-        "api": "https://www.jingpinx.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-美少女资源",
-        "api": "https://www.msnii.com/api/json.php",
-        "success": true
-      },
-      {
-        "name": "🔞AV-老色逼资源",
-        "api": "https://apilsbzy1.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-辣椒资源",
-        "api": "https://apilj.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-香奶儿资源",
-        "api": "https://www.gdlsp.com/api/json.php",
-        "success": true
-      },
-      {
-        "name": "🔞AV-鲨鱼资源",
-        "api": "https://shayuapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-黄AV资源",
-        "api": "https://www.pgxdy.com/api/json.php",
-        "success": true
-      },
-      {
-        "name": "🎬非凡影视new",
-        "api": "https://api.ffzyapi.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬极速资源",
-        "api": "https://jszyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞性吧资源",
-        "api": "https://xingba111.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬红牛资源",
-        "api": "https://www.hongniuzy3.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬索尼-闪电资源",
-        "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬金鹰资源采集网",
-        "api": "https://jyzyapi.com/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞黄色资源啊啊",
-        "api": "https://hsckzy888.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞小鸡资源",
-        "api": "https://api.xiaojizy.live/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬新浪资源阿",
-        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞细胞采集黄色",
-        "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬爱奇艺",
-        "api": "https://iqiyizyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬豆瓣资源",
-        "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬猫眼资源",
-        "api": "https://api.maoyanapi.top/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬量子资源",
-        "api": "https://cj.lzcaiji.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬如意资源",
-        "api": "https://cj.rycjapi.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬U酷资源",
-        "api": "https://api.ukuapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬U酷88",
-        "api": "https://api.ukuapi88.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞桃花资源",
-        "api": "https://thzy1.me/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞黄色仓库",
-        "api": "https://hsckzy.xyz/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞大奶子",
-        "api": "https://apidanaizi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞豆豆资源",
-        "api": "https://api.douapi.cc/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞滴滴资源",
-        "api": "https://api.ddapi.cc/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-金蝉影视",
-        "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🔞AV-黑料资源",
-        "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-色猫资源",
-        "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-丝袜资源",
-        "api": "https://siwazyw.tv/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🔞AV-souAV资源",
-        "api": "https://api.souavzyw.net/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-VN资源",
-        "api": "https://vnzyz.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-香蕉资源",
-        "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-杏吧资源",
-        "api": "https://xingba222.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-ffzyapi_1",
-        "api": "http://api.ffzyapi.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🔞AV-aosikazy",
-        "api": "https://aosikazy.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-l_hhhj",
-        "api": "https://l.hhhj.top/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬TV-l_hhhj_1",
-        "api": "http://l.hhhj.top/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬TV-cai_8810vip",
-        "api": "https://cai.8810vip.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-cai_8810vip_1",
-        "api": "http://cai.8810vip.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-45_150_227_216",
-        "api": "http://45.150.227.216:6543/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🎬TV-v_hwedding_cn",
-        "api": "https://v.hwedding.cn/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-aosikazyw1",
-        "api": "https://aosikazyw1.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-bwzy",
-        "api": "https://www.bwzy.tv/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-bwzy_1",
-        "api": "https://bwzy.tv/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-bhziyuan",
-        "api": "https://bhziyuan.com/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🔞AV-aosikazy6",
-        "api": "https://aosikazy6.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-ckzy_1",
-        "api": "https://www.ckzy.me/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-aosikazy2",
-        "api": "https://aosikazy2.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-m766",
-        "api": "https://m766.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-98zy",
-        "api": "https://98zy.vip/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-16_yun89",
-        "api": "https://16.yun89.top/api.php/provide/vod",
-        "success": false
-      },
-      {
-        "name": "🔞AV-aosikazy1",
-        "api": "https://aosikazy1.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-360zyzz",
-        "api": "https://360zyzz.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-moduapi",
-        "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-ffzy5",
-        "api": "https://ffzy5.tv/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-beiyong_slapibf",
-        "api": "https://beiyong.slapibf.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-yzzy-api",
-        "api": "https://api.yzzy-api.com/inc/apijson.php",
-        "success": true
-      },
-      {
-        "name": "🎬TV-semaozy_1",
-        "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-        "success": true
-      },
-      {
-        "name": "🎬TV-wwzy_1",
-        "api": "https://www.wwzy.tv/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-ckzy1",
-        "api": "https://ckzy1.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🔞AV-ckzy1_1",
-        "api": "https://www.ckzy1.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-heiapi",
-        "api": "https://api.heiapi.cc/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-xgzyapi",
-        "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
-        "success": true
-      },
-      {
-        "name": "🎬TV-bf_xoxowin86cisyap",
-        "api": "https://bf.xoxowin86cisyap.com/api.php/provide/vod",
-        "success": true
-      }
-    ]
-  },
   {
     "date": "2026-08-17",
     "results": [
@@ -64991,6 +64371,846 @@
   },
   {
     "date": "2026-10-30",
+    "results": [
+      {
+        "name": "🎬TV-1080资源",
+        "api": "https://api.1080zyku.com/inc/api_mac10.php",
+        "success": true
+      },
+      {
+        "name": "🔞AV-155资源",
+        "api": "https://155api.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-360资源",
+        "api": "https://360zy.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-CK资源",
+        "api": "https://ckzy.me/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-U酷资源",
+        "api": "https://api.ukuapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-U酷资源88",
+        "api": "https://api.ukuapi88.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-ikun资源",
+        "api": "https://ikunzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-wujinapi无尽",
+        "api": "https://api.wujinapi.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-丫丫点播",
+        "api": "https://cj.yayazy.net/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-光速资源",
+        "api": "https://api.guangsuapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-卧龙点播",
+        "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-卧龙资源",
+        "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-卧龙资源",
+        "api": "https://wolongzyw.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-天涯资源",
+        "api": "https://tyyszy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-如意资源",
+        "api": "https://cj.rycjapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-新浪点播",
+        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-无尽资源",
+        "api": "https://api.wujinapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-无尽资源",
+        "api": "https://api.wujinapi.me/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-无尽资源",
+        "api": "https://api.wujinapi.net/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-旺旺短剧",
+        "api": "https://wwzy.tv/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-旺旺资源",
+        "api": "https://api.wwzy.tv/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-暴风资源",
+        "api": "https://bfzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-最大点播",
+        "api": "http://zuidazy.me/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-最大资源",
+        "api": "https://api.zuidapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-樱花资源",
+        "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-步步高资源",
+        "api": "https://api.yparse.com/api/json",
+        "success": false
+      },
+      {
+        "name": "🎬TV-牛牛点播",
+        "api": "https://api.niuniuzy.me/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-电影天堂资源",
+        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-百万资源",
+        "api": "https://api.bwzyz.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-百度云资源",
+        "api": "https://api.apibdzy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-神马云",
+        "api": "https://api.1080zyku.com/inc/apijson.php/",
+        "success": true
+      },
+      {
+        "name": "🎬TV-索尼资源",
+        "api": "https://suoniapi.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-红牛资源",
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-茅台资源",
+        "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-虎牙资源",
+        "api": "https://www.huyaapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-豆瓣资源",
+        "api": "https://dbzy.tv/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-豪华资源",
+        "api": "https://hhzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-速博资源",
+        "api": "https://subocaiji.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-量子资源",
+        "api": "https://cj.lziapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-金鹰点播",
+        "api": "https://jinyingzy.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-金鹰资源",
+        "api": "https://jyzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-闪电资源",
+        "api": "https://sdzyapi.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-非凡资源",
+        "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-飘零资源",
+        "api": "https://p2100.net/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-魔都资源",
+        "api": "https://www.mdzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-91麻豆",
+        "api": "https://91md.me/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-AIvin",
+        "api": "http://lbapiby.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-JKUN资源",
+        "api": "https://jkunzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-乐播资源",
+        "api": "https://lbapi9.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-奶香香",
+        "api": "https://Naixxzy.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-森林资源",
+        "api": "https://slapibf.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-淫水机资源",
+        "api": "https://www.xrbsp.com/api/json.php",
+        "success": true
+      },
+      {
+        "name": "🔞AV-玉兔资源",
+        "api": "https://apiyutu.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-番号资源",
+        "api": "http://fhapi9.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-白嫖资源",
+        "api": "https://www.kxgav.com/api/json.php",
+        "success": true
+      },
+      {
+        "name": "🔞AV-精品资源",
+        "api": "https://www.jingpinx.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-美少女资源",
+        "api": "https://www.msnii.com/api/json.php",
+        "success": true
+      },
+      {
+        "name": "🔞AV-老色逼资源",
+        "api": "https://apilsbzy1.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-辣椒资源",
+        "api": "https://apilj.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-香奶儿资源",
+        "api": "https://www.gdlsp.com/api/json.php",
+        "success": true
+      },
+      {
+        "name": "🔞AV-鲨鱼资源",
+        "api": "https://shayuapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-黄AV资源",
+        "api": "https://www.pgxdy.com/api/json.php",
+        "success": true
+      },
+      {
+        "name": "🎬非凡影视new",
+        "api": "https://api.ffzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬极速资源",
+        "api": "https://jszyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞性吧资源",
+        "api": "https://xingba111.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬红牛资源",
+        "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬索尼-闪电资源",
+        "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬金鹰资源采集网",
+        "api": "https://jyzyapi.com/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞黄色资源啊啊",
+        "api": "https://hsckzy888.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞小鸡资源",
+        "api": "https://api.xiaojizy.live/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬新浪资源阿",
+        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞细胞采集黄色",
+        "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬爱奇艺",
+        "api": "https://iqiyizyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬豆瓣资源",
+        "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬猫眼资源",
+        "api": "https://api.maoyanapi.top/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬量子资源",
+        "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬如意资源",
+        "api": "https://cj.rycjapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬U酷资源",
+        "api": "https://api.ukuapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬U酷88",
+        "api": "https://api.ukuapi88.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞桃花资源",
+        "api": "https://thzy1.me/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞黄色仓库",
+        "api": "https://hsckzy.xyz/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞大奶子",
+        "api": "https://apidanaizi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞豆豆资源",
+        "api": "https://api.douapi.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞滴滴资源",
+        "api": "https://api.ddapi.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-金蝉影视",
+        "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-黑料资源",
+        "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-色猫资源",
+        "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-丝袜资源",
+        "api": "https://siwazyw.tv/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-souAV资源",
+        "api": "https://api.souavzyw.net/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-VN资源",
+        "api": "https://vnzyz.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-香蕉资源",
+        "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-杏吧资源",
+        "api": "https://xingba222.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-ffzyapi_1",
+        "api": "http://api.ffzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-aosikazy",
+        "api": "https://aosikazy.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-l_hhhj",
+        "api": "https://l.hhhj.top/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-l_hhhj_1",
+        "api": "http://l.hhhj.top/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-cai_8810vip",
+        "api": "https://cai.8810vip.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-cai_8810vip_1",
+        "api": "http://cai.8810vip.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-45_150_227_216",
+        "api": "http://45.150.227.216:6543/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-v_hwedding_cn",
+        "api": "https://v.hwedding.cn/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-aosikazyw1",
+        "api": "https://aosikazyw1.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-bwzy",
+        "api": "https://www.bwzy.tv/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-bwzy_1",
+        "api": "https://bwzy.tv/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-bhziyuan",
+        "api": "https://bhziyuan.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-aosikazy6",
+        "api": "https://aosikazy6.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-ckzy_1",
+        "api": "https://www.ckzy.me/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-aosikazy2",
+        "api": "https://aosikazy2.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-m766",
+        "api": "https://m766.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-98zy",
+        "api": "https://98zy.vip/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-16_yun89",
+        "api": "https://16.yun89.top/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-aosikazy1",
+        "api": "https://aosikazy1.com/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-360zyzz",
+        "api": "https://360zyzz.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-moduapi",
+        "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-ffzy5",
+        "api": "https://ffzy5.tv/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-beiyong_slapibf",
+        "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-yzzy-api",
+        "api": "https://api.yzzy-api.com/inc/apijson.php",
+        "success": true
+      },
+      {
+        "name": "🎬TV-semaozy_1",
+        "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+        "success": false
+      },
+      {
+        "name": "🎬TV-wwzy_1",
+        "api": "https://www.wwzy.tv/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-ckzy1",
+        "api": "https://ckzy1.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-ckzy1_1",
+        "api": "https://www.ckzy1.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-heiapi",
+        "api": "https://api.heiapi.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-xgzyapi",
+        "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-bf_xoxowin86cisyap",
+        "api": "https://bf.xoxowin86cisyap.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-naixxzy_1",
+        "api": "https://naixxzy.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-ffzy",
+        "api": "https://ffzy.tv/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-gz_ifree_fun",
+        "api": "https://gz.ifree.fun/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-zitv",
+        "api": "https://www.zitv.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-zy_xiaomaomi",
+        "api": "https://zy.xiaomaomi.cc/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🔞AV-madouse_la",
+        "api": "https://madouse.la/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-moduzy",
+        "api": "https://www.moduzy.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-xgzy",
+        "api": "https://xgzy.tv/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-cdn_dzzyapi",
+        "api": "https://cdn.dzzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-ffzy1",
+        "api": "https://ffzy1.tv/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-hsckzy_1",
+        "api": "https://hsckzy.vip/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-yutuzy10",
+        "api": "https://yutuzy10.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-bycj_rytvapi",
+        "api": "https://bycj.rytvapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-subocj",
+        "api": "https://subocj.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-yyzy-tv",
+        "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+        "success": true
+      },
+      {
+        "name": "🎬TV-juliang",
+        "api": "https://api.juliang.live/api/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-qxzy",
+        "api": "https://qxzy.tv/api.php/provide/vod",
+        "success": false
+      },
+      {
+        "name": "🎬TV-suboziyuan",
+        "api": "https://www.suboziyuan.net/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-jjzyapi",
+        "api": "https://caiji.jjzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-mgzyapi",
+        "api": "https://caiji.mgzyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-tv_xmb_app",
+        "api": "https://tv.xmb.app/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-hong_hgyx",
+        "api": "https://hong.hgyx.vip/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-hongniuzy2_1",
+        "api": "https://hongniuzy2.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-zy_jinchanjiexi",
+        "api": "https://zy.jinchanjiexi.net/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-lzizy1",
+        "api": "https://lzizy1.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-ffzyapi_2",
+        "api": "https://cj.ffzyapi.com//api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-yonghu_ffzyapi8",
+        "api": "https://yonghu.ffzyapi8.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-cmov_cn",
+        "api": "https://www.cmov.cn/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-19q",
+        "api": "https://19q.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-mujiziyuan00",
+        "api": "https://mujiziyuan00.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-jipinvip1",
+        "api": "https://jipinvip1.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-ysxq",
+        "api": "https://www.ysxq.cc/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-yuanlib",
+        "api": "https://yuanlib.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-xingba222_1",
+        "api": "https://json.xingba222.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-jipinvip",
+        "api": "https://jipinvip.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-shayuzy1",
+        "api": "https://shayuzy1.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-jp98",
+        "api": "https://jp98.vip/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-maoyanzy",
+        "api": "https://maoyanzy.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-heiliaozyapi_1",
+        "api": "https://heiliaozyapi.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-fqzy",
+        "api": "https://fqzy.me//api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-shayuzy5",
+        "api": "https://shayuzy5.com/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🔞AV-souavzy",
+        "api": "https://api.souavzy.vip/api.php/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-ys_cxkjg_cn",
+        "api": "https://ys.cxkjg.cn/api/provide/vod",
+        "success": true
+      },
+      {
+        "name": "🎬TV-xjzyapi",
+        "api": "https://api.xjzyapi.com/provide/vod",
+        "success": true
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
     "results": [
       {
         "name": "🎬TV-1080资源",
