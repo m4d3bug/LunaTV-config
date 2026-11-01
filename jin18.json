@@ -318,7 +318,8 @@
       "name": "🎬TV-zitv",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "moduzy": {
       "api": "https://www.moduzy.com/api.php/provide/vod",
@@ -430,7 +431,8 @@
       "name": "🎬TV-zy_jinchanjiexi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "lzizy1": {
       "api": "https://lzizy1.com/api.php/provide/vod",
