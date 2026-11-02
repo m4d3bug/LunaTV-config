@@ -47,7 +47,8 @@
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "name": "🎬TV-wujinapi无尽",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -77,13 +78,15 @@
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "wujinapi_net": {
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "bfzyapi": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -191,7 +194,8 @@
       "api": "https://Naixxzy.com/api.php/provide/vod",
       "name": "🔞AV-奶香香",
       "detail": "https://Naixxzy.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "slapibf": {
       "api": "https://slapibf.com/api.php/provide/vod",
@@ -521,7 +525,8 @@
       "name": "🔞AV-naixxzy_1",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "ffzy": {
       "api": "https://ffzy.tv/api.php/provide/vod",
@@ -529,14 +534,6 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
-    },
-    "zitv": {
-      "api": "https://www.zitv.cc/api.php/provide/vod",
-      "name": "🎬TV-zitv",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
     },
     "madouse_la": {
       "api": "https://madouse.la/api.php/provide/vod",
@@ -662,8 +659,7 @@
       "name": "🎬TV-zy_jinchanjiexi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "lzizy1": {
       "api": "https://lzizy1.com/api.php/provide/vod",
@@ -789,8 +785,7 @@
       "name": "🔞AV-souavzy",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "ys_cxkjg_cn": {
       "api": "https://ys.cxkjg.cn/api/provide/vod",
