@@ -395,8 +395,7 @@
       "name": "🎬TV-mgzyapi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "tv_xmb_app": {
       "api": "https://tv.xmb.app/api.php/provide/vod",
@@ -410,7 +409,8 @@
       "name": "🎬TV-hong_hgyx",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "hongniuzy2_1": {
       "api": "https://hongniuzy2.com/api.php/provide/vod",
@@ -461,14 +461,6 @@
       "is_adult": false,
       "auto_discovered": true
     },
-    "jipinvip1": {
-      "api": "https://jipinvip1.com/api.php/provide/vod",
-      "name": "🎬TV-jipinvip1",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
-    },
     "ysxq": {
       "api": "https://www.ysxq.cc/api.php/provide/vod",
       "name": "🎬TV-ysxq",
@@ -482,14 +474,6 @@
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
-    },
-    "jipinvip": {
-      "api": "https://jipinvip.com/api.php/provide/vod",
-      "name": "🎬TV-jipinvip",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
     },
     "jp98": {
       "api": "https://jp98.vip/api.php/provide/vod",
