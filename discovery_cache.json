@@ -15,12 +15,6 @@
     "https://lovedan.net/api.php/provide/vod": {
       "time": 1793396255575
     },
-    "https://caiji.kuaichezy.org/api.php/provide/vod": {
-      "time": 1793310777179
-    },
-    "https://api.wsyzy.net/api.php/provide/vod": {
-      "time": 1793310777179
-    },
     "https://example.com/api.php/provide/vod": {
       "time": 1793744627897
     },
@@ -195,21 +189,6 @@
     "https://kuyingju.cc/inc/apijson.php": {
       "time": 1793832135750
     },
-    "https://150.109.94.44:1112/api.php/provide/vod": {
-      "time": 1793310777179
-    },
-    "https://api.huosuapi.cc/api.php/provide/vod": {
-      "time": 1793310777179
-    },
-    "https://api.11bat.com/api.php/provide/vod": {
-      "time": 1793310777179
-    },
-    "https://www.lovedan.net/api.php/provide/vod": {
-      "time": 1793310777179
-    },
-    "https://xxavs.com/api.php/provide/vod": {
-      "time": 1793310777179
-    },
     "https://www.xxx.com/api.php/provide/vod": {
       "time": 1793396255575
     },
@@ -316,5 +295,5 @@
       "time": 1793663811149
     }
   },
-  "lastRun": "2026-11-04T22:42:25.623Z"
+  "lastRun": "2026-11-05T22:43:51.898Z"
 }

@@ -627,8 +627,7 @@
       "name": "🎬TV-hong_hgyx",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "hongniuzy2_1": {
       "api": "https://hongniuzy2.com/api.php/provide/vod",
