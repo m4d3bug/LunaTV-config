@@ -1,19 +1,19 @@
 {
   "failed": {
     "https://tyyszyapi.com/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://api.wuxianzy.net/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://api.fczy888.me/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://api.1080zyku.com/inc/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://lovedan.net/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://example.com/api.php/provide/vod": {
       "time": 1793744627897
@@ -190,22 +190,22 @@
       "time": 1793832135750
     },
     "https://www.xxx.com/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://www.inmi.app/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://www.blssv.com/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://tujutv.top/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://video.yingworld.vip/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://haiwaikan.com/api.php/provide/vod": {
-      "time": 1793396255575
+      "time": 1794003124158
     },
     "https://mzzy.me/api.php/provide/vod": {
       "time": 1793478636661
@@ -293,7 +293,13 @@
     },
     "https://caiji.nxflv.com/api.php/provide/vod": {
       "time": 1793663811149
+    },
+    "https://120.38.213.139.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
+      "time": 1794003124158
+    },
+    "https://120.38.213.139.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
+      "time": 1794003124158
     }
   },
-  "lastRun": "2026-11-05T22:43:51.898Z"
+  "lastRun": "2026-11-06T22:12:25.472Z"
 }
