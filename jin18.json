@@ -85,18 +85,6 @@
       "detail": "",
       "is_adult": false
     },
-    "zuidazy": {
-      "api": "http://zuidazy.me/api.php/provide/vod",
-      "name": "🎬TV-最大点播",
-      "detail": "http://zuidazy.me",
-      "is_adult": false
-    },
-    "zuidapi": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "🎬TV-最大资源",
-      "detail": "https://api.zuidapi.com",
-      "is_adult": false
-    },
     "dyttzyapi": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "🎬TV-电影天堂资源",
@@ -271,13 +259,6 @@
       "is_adult": false,
       "auto_discovered": true
     },
-    "heiapi": {
-      "api": "https://api.heiapi.cc/api.php/provide/vod",
-      "name": "🎬TV-heiapi",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true
-    },
     "xgzyapi": {
       "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
       "name": "🎬TV-xgzyapi",
@@ -327,13 +308,6 @@
       "is_adult": false,
       "auto_discovered": true
     },
-    "yutuzy10": {
-      "api": "https://yutuzy10.com/api.php/provide/vod",
-      "name": "🎬TV-yutuzy10",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true
-    },
     "bycj_rytvapi": {
       "api": "https://bycj.rytvapi.com/api.php/provide/vod",
       "name": "🎬TV-bycj_rytvapi",
@@ -355,13 +329,6 @@
       "is_adult": false,
       "auto_discovered": true
     },
-    "juliang": {
-      "api": "https://api.juliang.live/api/provide/vod",
-      "name": "🎬TV-juliang",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true
-    },
     "suboziyuan": {
       "api": "https://www.suboziyuan.net/api.php/provide/vod",
       "name": "🎬TV-suboziyuan",
@@ -372,13 +339,6 @@
     "jjzyapi": {
       "api": "https://caiji.jjzyapi.com/api.php/provide/vod",
       "name": "🎬TV-jjzyapi",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true
-    },
-    "mgzyapi": {
-      "api": "https://caiji.mgzyapi.com/api.php/provide/vod",
-      "name": "🎬TV-mgzyapi",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
@@ -453,13 +413,6 @@
       "is_adult": false,
       "auto_discovered": true
     },
-    "yuanlib": {
-      "api": "https://yuanlib.com/api.php/provide/vod",
-      "name": "🎬TV-yuanlib",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true
-    },
     "jp98": {
       "api": "https://jp98.vip/api.php/provide/vod",
       "name": "🎬TV-jp98",
@@ -474,23 +427,9 @@
       "is_adult": false,
       "auto_discovered": true
     },
-    "fqzy": {
-      "api": "https://fqzy.me//api.php/provide/vod",
-      "name": "🎬TV-fqzy",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true
-    },
     "ys_cxkjg_cn": {
       "api": "https://ys.cxkjg.cn/api/provide/vod",
       "name": "🎬TV-ys_cxkjg_cn",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true
-    },
-    "xjzyapi": {
-      "api": "https://api.xjzyapi.com/provide/vod",
-      "name": "🎬TV-xjzyapi",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true
