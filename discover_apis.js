@@ -10,7 +10,7 @@ const DELAY_MS = 500; // 请求间隔，避免被封
 // 成人内容关键词
 const ADULT_KEYWORDS = ['伦理', '福利', '写真', '三级', 'AV', '成人', '情色', '无码', '有码', '中文字幕', '麻豆', '蜜桃', '91', '色情', '黄色', '裸体'];
 // 成人域名特征
-const ADULT_DOMAIN_PATTERNS = ['av', 'sex', 'porn', 'adult', 'xxx', '91md', 'lbapi', 'fhapi', 'souav', 'jkun', 'bwzy', 'hsck', 'xingba', 'naixx', 'apilj', 'apiyutu', 'shayuapi', 'msnii', 'gdlsp', 'pgxdy', 'kxgav', 'xrbsp', 'jingpinx', 'apilsbzy', 'sexnguon', 'maozyapi', 'slapibf', 'aosika', 'thzy', 'douapi', 'ddapi', 'danaizi', 'xzybb', 'zuiseapi', 'xiaojizy', 'xxibaozyw', 'hsckzy', 'heiliaozy', 'xiangjiao', 'vnzyz', 'yyzywcj', '8810'];
+const ADULT_DOMAIN_PATTERNS = ['av', 'sex', 'porn', 'adult', 'xxx', '91md', 'lbapi', 'fhapi', 'souav', 'jkun', 'bwzy', 'hsck', 'xingba', 'naixx', 'apilj', 'apiyutu', 'shayuapi', 'msnii', 'gdlsp', 'pgxdy', 'kxgav', 'xrbsp', 'jingpinx', 'apilsbzy', 'sexnguon', 'maozyapi', 'slapibf', 'aosika', 'thzy', 'douapi', 'ddapi', 'danaizi', 'xzybb', 'zuiseapi', 'xiaojizy', 'xxibaozyw', 'hsckzy', 'heiliaozy', 'xiangjiao', 'vnzyz', 'yyzywcj', '8810', 'heiapi', 'mgzy', 'yuanli', 'juliang', 'zuida', 'fqzy', 'yutuzy', 'xjzy'];
 
 // ============ 工具函数 ============
 
