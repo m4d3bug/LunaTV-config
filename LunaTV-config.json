@@ -149,15 +149,15 @@
     },
     "zuidazy": {
       "api": "http://zuidazy.me/api.php/provide/vod",
-      "name": "🎬TV-最大点播",
+      "name": "🔞AV-zuidazy",
       "detail": "http://zuidazy.me",
-      "is_adult": false
+      "is_adult": true
     },
     "zuidapi": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "🎬TV-最大资源",
+      "name": "🔞AV-zuidapi",
       "detail": "https://api.zuidapi.com",
-      "is_adult": false
+      "is_adult": true
     },
     "apiyhzy": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
@@ -833,9 +833,9 @@
     },
     "heiapi": {
       "api": "https://api.heiapi.cc/api.php/provide/vod",
-      "name": "🎬TV-heiapi",
+      "name": "🔞AV-heiapi",
       "detail": "",
-      "is_adult": false,
+      "is_adult": true,
       "auto_discovered": true
     },
     "xgzyapi": {
@@ -939,9 +939,9 @@
     },
     "yutuzy10": {
       "api": "https://yutuzy10.com/api.php/provide/vod",
-      "name": "🎬TV-yutuzy10",
+      "name": "🔞AV-yutuzy10",
       "detail": "",
-      "is_adult": false,
+      "is_adult": true,
       "auto_discovered": true
     },
     "bycj_rytvapi": {
@@ -967,9 +967,9 @@
     },
     "juliang": {
       "api": "https://api.juliang.live/api/provide/vod",
-      "name": "🎬TV-juliang",
+      "name": "🔞AV-juliang",
       "detail": "",
-      "is_adult": false,
+      "is_adult": true,
       "auto_discovered": true
     },
     "qxzy": {
@@ -997,9 +997,9 @@
     },
     "mgzyapi": {
       "api": "https://caiji.mgzyapi.com/api.php/provide/vod",
-      "name": "🎬TV-mgzyapi",
+      "name": "🔞AV-mgzyapi",
       "detail": "",
-      "is_adult": false,
+      "is_adult": true,
       "auto_discovered": true
     },
     "tv_xmb_app": {
@@ -1090,9 +1090,9 @@
     },
     "yuanlib": {
       "api": "https://yuanlib.com/api.php/provide/vod",
-      "name": "🎬TV-yuanlib",
+      "name": "🔞AV-yuanlib",
       "detail": "",
-      "is_adult": false,
+      "is_adult": true,
       "auto_discovered": true
     },
     "xingba222_1": {
@@ -1141,9 +1141,9 @@
     },
     "fqzy": {
       "api": "https://fqzy.me//api.php/provide/vod",
-      "name": "🎬TV-fqzy",
+      "name": "🔞AV-fqzy",
       "detail": "",
-      "is_adult": false,
+      "is_adult": true,
       "auto_discovered": true
     },
     "shayuzy5": {
@@ -1169,9 +1169,9 @@
     },
     "xjzyapi": {
       "api": "https://api.xjzyapi.com/provide/vod",
-      "name": "🎬TV-xjzyapi",
+      "name": "🔞AV-xjzyapi",
       "detail": "",
-      "is_adult": false,
+      "is_adult": true,
       "auto_discovered": true
     }
   },
