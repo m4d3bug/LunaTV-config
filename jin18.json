@@ -236,20 +236,6 @@
       "is_adult": false,
       "auto_discovered": true
     },
-    "cai_8810vip": {
-      "api": "https://cai.8810vip.com/api.php/provide/vod",
-      "name": "🎬TV-cai_8810vip",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true
-    },
-    "cai_8810vip_1": {
-      "api": "http://cai.8810vip.com/api.php/provide/vod",
-      "name": "🎬TV-cai_8810vip_1",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true
-    },
     "v_hwedding_cn": {
       "api": "https://v.hwedding.cn/api.php/provide/vod",
       "name": "🎬TV-v_hwedding_cn",
