@@ -400,16 +400,16 @@
     },
     "cai_8810vip": {
       "api": "https://cai.8810vip.com/api.php/provide/vod",
-      "name": "🎬TV-cai_8810vip",
+      "name": "🔞AV-cai_8810vip",
       "detail": "",
-      "is_adult": false,
+      "is_adult": true,
       "auto_discovered": true
     },
     "cai_8810vip_1": {
       "api": "http://cai.8810vip.com/api.php/provide/vod",
-      "name": "🎬TV-cai_8810vip_1",
+      "name": "🔞AV-cai_8810vip_1",
       "detail": "",
-      "is_adult": false,
+      "is_adult": true,
       "auto_discovered": true
     },
     "v_hwedding_cn": {
