@@ -406,9 +406,23 @@
       "is_adult": false,
       "auto_discovered": true
     },
+    "jipinvip1": {
+      "api": "https://jipinvip1.com/api.php/provide/vod",
+      "name": "🎬TV-jipinvip1",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
     "ysxq": {
       "api": "https://www.ysxq.cc/api.php/provide/vod",
       "name": "🎬TV-ysxq",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
+    "jipinvip": {
+      "api": "https://jipinvip.com/api.php/provide/vod",
+      "name": "🎬TV-jipinvip",
       "detail": "",
       "is_adult": false,
       "auto_discovered": true

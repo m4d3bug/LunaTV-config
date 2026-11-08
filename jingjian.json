@@ -685,6 +685,13 @@
       "is_adult": false,
       "auto_discovered": true
     },
+    "jipinvip1": {
+      "api": "https://jipinvip1.com/api.php/provide/vod",
+      "name": "🎬TV-jipinvip1",
+      "detail": "",
+      "is_adult": false,
+      "auto_discovered": true
+    },
     "ysxq": {
       "api": "https://www.ysxq.cc/api.php/provide/vod",
       "name": "🎬TV-ysxq",
@@ -704,6 +711,13 @@
       "name": "🔞AV-xingba222_1",
       "detail": "",
       "is_adult": true,
+      "auto_discovered": true
+    },
+    "jipinvip": {
+      "api": "https://jipinvip.com/api.php/provide/vod",
+      "name": "🎬TV-jipinvip",
+      "detail": "",
+      "is_adult": false,
       "auto_discovered": true
     },
     "shayuzy1": {
@@ -753,7 +767,8 @@
       "name": "🔞AV-souavzy",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "ys_cxkjg_cn": {
       "api": "https://ys.cxkjg.cn/api/provide/vod",
