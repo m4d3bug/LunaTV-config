@@ -353,7 +353,8 @@
       "api": "https://hsckzy.xyz/api.php/provide/vod",
       "name": "🔞黄色仓库",
       "detail": "hsckzy.xyz",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
@@ -627,7 +628,8 @@
       "name": "🎬TV-hong_hgyx",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "hongniuzy2_1": {
       "api": "https://hongniuzy2.com/api.php/provide/vod",
@@ -767,8 +769,7 @@
       "name": "🔞AV-souavzy",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "ys_cxkjg_cn": {
       "api": "https://ys.cxkjg.cn/api/provide/vod",
