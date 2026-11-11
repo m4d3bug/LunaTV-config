@@ -149,7 +149,8 @@
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "🎬TV-魔都资源",
       "detail": "https://www.mdzyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "ffzynew": {
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -185,7 +186,8 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "🎬爱奇艺",
       "detail": "https://iqiyizyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -243,7 +245,8 @@
       "name": "🎬TV-moduapi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "ffzy5": {
       "api": "https://ffzy5.tv/api.php/provide/vod",
@@ -285,7 +288,8 @@
       "name": "🎬TV-moduzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "xgzy": {
       "api": "https://xgzy.tv/api.php/provide/vod",
