@@ -1,19 +1,19 @@
 {
   "failed": {
     "https://tyyszyapi.com/api.php/provide/vod": {
-      "time": 1794003124158
+      "time": 1794609794425
     },
     "https://api.wuxianzy.net/api.php/provide/vod": {
-      "time": 1794003124158
+      "time": 1794609794425
     },
     "https://api.fczy888.me/api.php/provide/vod": {
-      "time": 1794003124158
+      "time": 1794609794425
     },
     "https://api.1080zyku.com/inc/api.php/provide/vod": {
-      "time": 1794003124158
+      "time": 1794609794425
     },
     "https://lovedan.net/api.php/provide/vod": {
-      "time": 1794003124158
+      "time": 1794609794425
     },
     "https://we.love.servers.at.ioflood.net/api.php/provide/vod": {
       "time": 1794085171187
@@ -80,24 +80,6 @@
     },
     "https://help.m766.com/inc/apijson.php": {
       "time": 1794439911062
-    },
-    "https://www.xxx.com/api.php/provide/vod": {
-      "time": 1794003124158
-    },
-    "https://www.inmi.app/api.php/provide/vod": {
-      "time": 1794003124158
-    },
-    "https://www.blssv.com/api.php/provide/vod": {
-      "time": 1794003124158
-    },
-    "https://tujutv.top/api.php/provide/vod": {
-      "time": 1794003124158
-    },
-    "https://video.yingworld.vip/api.php/provide/vod": {
-      "time": 1794003124158
-    },
-    "https://haiwaikan.com/api.php/provide/vod": {
-      "time": 1794003124158
     },
     "https://176.113.70.198.static.xtom.com/api.php/provide/vod": {
       "time": 1794271499679
@@ -166,10 +148,10 @@
       "time": 1794271499679
     },
     "https://120.38.213.139.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
-      "time": 1794003124158
+      "time": 1794609794425
     },
     "https://120.38.213.139.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
-      "time": 1794003124158
+      "time": 1794609794425
     },
     "https://77.113.22.175.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
       "time": 1794085171187
@@ -278,7 +260,13 @@
     },
     "https://api.apilyzy.com/api.php/provide/vod": {
       "time": 1794439911062
+    },
+    "https://4k.utoclub.top/api.php/provide/vod": {
+      "time": 1794609794425
+    },
+    "https://4k.utoclub.top/inc/apijson.php": {
+      "time": 1794609794425
     }
   },
-  "lastRun": "2026-11-12T22:47:32.312Z"
+  "lastRun": "2026-11-13T22:43:28.027Z"
 }

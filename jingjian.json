@@ -95,13 +95,15 @@
       "api": "http://zuidazy.me/api.php/provide/vod",
       "name": "🔞AV-zuidazy",
       "detail": "http://zuidazy.me",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "zuidapi": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "name": "🔞AV-zuidapi",
       "detail": "https://api.zuidapi.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "dyttzyapi": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -424,8 +426,7 @@
       "name": "🔞AV-bhziyuan",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "ckzy_1": {
       "api": "https://www.ckzy.me/api.php/provide/vod",
@@ -768,7 +769,8 @@
       "name": "🔞AV-souavzy",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "ys_cxkjg_cn": {
       "api": "https://ys.cxkjg.cn/api/provide/vod",
