@@ -16,10 +16,10 @@
       "time": 1794609794425
     },
     "https://we.love.servers.at.ioflood.net/api.php/provide/vod": {
-      "time": 1794085171187
+      "time": 1794692170819
     },
     "https://we.love.servers.at.ioflood.net/inc/apijson.php": {
-      "time": 1794085171187
+      "time": 1794692170819
     },
     "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/api.php/provide/vod": {
       "time": 1794271499679
@@ -153,12 +153,6 @@
     "https://120.38.213.139.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
       "time": 1794609794425
     },
-    "https://77.113.22.175.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
-      "time": 1794085171187
-    },
-    "https://77.113.22.175.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
-      "time": 1794085171187
-    },
     "https://zy.jinchanjiexi.net/inc/apijson.php": {
       "time": 1794172535123
     },
@@ -268,5 +262,5 @@
       "time": 1794609794425
     }
   },
-  "lastRun": "2026-11-13T22:43:28.027Z"
+  "lastRun": "2026-11-14T21:36:33.474Z"
 }
