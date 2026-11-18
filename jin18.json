@@ -11,8 +11,7 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "🎬TV-360资源",
       "detail": "https://360zy.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "ckzy": {
       "api": "https://ckzy.me/api.php/provide/vod",
@@ -48,7 +47,8 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "name": "🎬TV-光速资源",
       "detail": "https://api.guangsuapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "rycjapi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -108,7 +108,8 @@
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "name": "🎬TV-虎牙资源",
       "detail": "https://www.huyaapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "hhzyapi": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
@@ -138,7 +139,8 @@
       "api": "https://jyzyapi.com/api.php/provide/vod",
       "name": "🎬TV-金鹰资源",
       "detail": "https://jyzyapi.com",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "ffzyapi": {
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
@@ -186,8 +188,7 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "🎬爱奇艺",
       "detail": "https://iqiyizyapi.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "myzy": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
@@ -287,8 +288,7 @@
       "name": "🎬TV-moduzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "xgzy": {
       "api": "https://xgzy.tv/api.php/provide/vod",
@@ -449,7 +449,8 @@
       "name": "🎬TV-ys_cxkjg_cn",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     }
   }
 }
