@@ -1,19 +1,19 @@
 {
   "failed": {
     "https://tyyszyapi.com/api.php/provide/vod": {
-      "time": 1794609794425
+      "time": 1795216341421
     },
     "https://api.wuxianzy.net/api.php/provide/vod": {
-      "time": 1794609794425
+      "time": 1795216341421
     },
     "https://api.fczy888.me/api.php/provide/vod": {
-      "time": 1794609794425
+      "time": 1795216341421
     },
     "https://api.1080zyku.com/inc/api.php/provide/vod": {
-      "time": 1794609794425
+      "time": 1795216341421
     },
     "https://lovedan.net/api.php/provide/vod": {
-      "time": 1794609794425
+      "time": 1795216341421
     },
     "https://we.love.servers.at.ioflood.net/api.php/provide/vod": {
       "time": 1794692170819
@@ -142,19 +142,19 @@
       "time": 1794876807780
     },
     "https://120.38.213.139.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
-      "time": 1794609794425
+      "time": 1795216341421
     },
     "https://120.38.213.139.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
-      "time": 1794609794425
+      "time": 1795216341421
     },
     "https://zy.jinchanjiexi.net/inc/apijson.php": {
       "time": 1794779674721
     },
     "https://4k.utoclub.top/api.php/provide/vod": {
-      "time": 1794609794425
+      "time": 1795216341421
     },
     "https://4k.utoclub.top/inc/apijson.php": {
-      "time": 1794609794425
+      "time": 1795216341421
     },
     "https://www.7-kk.com/api.php/provide/vod": {
       "time": 1795131557081
@@ -167,7 +167,13 @@
     },
     "https://7-kk.com/inc/apijson.php": {
       "time": 1795131557081
+    },
+    "https://239.215.137.122.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
+      "time": 1795216341421
+    },
+    "https://239.215.137.122.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
+      "time": 1795216341421
     }
   },
-  "lastRun": "2026-11-19T23:39:27.160Z"
+  "lastRun": "2026-11-20T23:12:36.983Z"
 }

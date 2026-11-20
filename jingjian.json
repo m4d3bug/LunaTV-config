@@ -49,6 +49,12 @@
       "detail": "",
       "is_adult": false
     },
+    "guangsuapi": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "🎬TV-光速资源",
+      "detail": "https://api.guangsuapi.com",
+      "is_adult": false
+    },
     "rycjapi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "🎬TV-如意资源",
@@ -115,6 +121,12 @@
       "detail": "https://www.hongniuzy2.com",
       "is_adult": false
     },
+    "huyaapi": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "🎬TV-虎牙资源",
+      "detail": "https://www.huyaapi.com",
+      "is_adult": false
+    },
     "hhzyapi": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "🎬TV-豪华资源",
@@ -137,8 +149,13 @@
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "name": "🎬TV-金鹰点播",
       "detail": "https://jinyingzy.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
+    },
+    "jyzyapi": {
+      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "name": "🎬TV-金鹰资源",
+      "detail": "https://jyzyapi.com",
+      "is_adult": false
     },
     "ffzyapi": {
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
@@ -252,8 +269,7 @@
       "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "🎬极速资源",
       "detail": "https://jszyapi.com",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "xingba111": {
       "api": "https://xingba111.com/api.php/provide/vod",
@@ -271,8 +287,7 @@
       "api": "https://jyzyapi.com/provide/vod",
       "name": "🎬金鹰资源采集网",
       "detail": "",
-      "is_adult": false,
-      "_fails": 1
+      "is_adult": false
     },
     "hsckzy888": {
       "api": "https://hsckzy888.com/api.php/provide/vod",
@@ -494,8 +509,7 @@
       "name": "🎬TV-ffzy",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "madouse_la": {
       "api": "https://madouse.la/api.php/provide/vod",
@@ -530,8 +544,7 @@
       "name": "🎬TV-ffzy1",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "hsckzy_1": {
       "api": "https://hsckzy.vip/api.php/provide/vod",
@@ -678,8 +691,7 @@
       "name": "🎬TV-ysxq",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "yuanlib": {
       "api": "https://yuanlib.com/api.php/provide/vod",
