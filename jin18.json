@@ -425,7 +425,8 @@
       "name": "🎬TV-jipinvip",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "jp98": {
       "api": "https://jp98.vip/api.php/provide/vod",

@@ -349,6 +349,12 @@
       "detail": "https://thzy8.me",
       "is_adult": true
     },
+    "hsckzy": {
+      "api": "https://hsckzy.xyz/api.php/provide/vod",
+      "name": "🔞黄色仓库",
+      "detail": "hsckzy.xyz",
+      "is_adult": true
+    },
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "name": "🔞大奶子",
@@ -712,7 +718,8 @@
       "name": "🎬TV-jipinvip",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "shayuzy1": {
       "api": "https://shayuzy1.com/api.php/provide/vod",
