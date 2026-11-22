@@ -713,14 +713,6 @@
       "is_adult": true,
       "auto_discovered": true
     },
-    "jipinvip": {
-      "api": "https://jipinvip.com/api.php/provide/vod",
-      "name": "🎬TV-jipinvip",
-      "detail": "",
-      "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
-    },
     "shayuzy1": {
       "api": "https://shayuzy1.com/api.php/provide/vod",
       "name": "🔞AV-shayuzy1",
