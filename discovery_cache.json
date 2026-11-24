@@ -22,10 +22,10 @@
       "time": 1795299298660
     },
     "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/api.php/provide/vod": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://ec2-18-188-133-49.us-east-2.compute.amazonaws.com/inc/apijson.php": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://144.34.155.60.16clouds.com/api.php/provide/vod": {
       "time": 1794959619422
@@ -82,64 +82,49 @@
       "time": 1795131557081
     },
     "https://176.113.70.198.static.xtom.com/api.php/provide/vod": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://176.113.70.198.static.xtom.com/inc/apijson.php": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://bhziyuan.com/inc/apijson.php": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://360fl.360cjfl.com/api.php/provide/vod": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://360fl.360cjfl.com/inc/apijson.php": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://28.220-145-38.rdns.scalabledns.com/api.php/provide/vod": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://28.220-145-38.rdns.scalabledns.com/inc/apijson.php": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://192-210-193-151-host.colocrossing.com/api.php/provide/vod": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://192-210-193-151-host.colocrossing.com/inc/apijson.php": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://tv.hwedding.cn/api.php/provide/vod": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://tv.hwedding.cn/inc/apijson.php": {
-      "time": 1794876807780
-    },
-    "https://89012.cc/api.php/provide/vod": {
-      "time": 1794876807780
-    },
-    "https://89012.cc/inc/apijson.php": {
-      "time": 1794876807780
-    },
-    "https://www.89012.cc/api.php/provide/vod": {
-      "time": 1794876807780
-    },
-    "https://www.89012.cc/inc/apijson.php": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://176.113.70.199.static.xtom.com/api.php/provide/vod": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://176.113.70.199.static.xtom.com/inc/apijson.php": {
-      "time": 1794876807780
-    },
-    "https://qxzy.tv/inc/apijson.php": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://44.215.212.35.bc.googleusercontent.com/api.php/provide/vod": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://44.215.212.35.bc.googleusercontent.com/inc/apijson.php": {
-      "time": 1794876807780
+      "time": 1795490577125
     },
     "https://120.38.213.139.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
       "time": 1795216341421
@@ -286,5 +271,5 @@
       "time": 1795299298660
     }
   },
-  "lastRun": "2026-11-22T22:35:39.102Z"
+  "lastRun": "2026-11-24T03:23:15.069Z"
 }

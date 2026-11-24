@@ -47,7 +47,8 @@
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "name": "🎬TV-wujinapi无尽",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -71,19 +72,22 @@
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "wujinapi_me": {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "wujinapi_net": {
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "name": "🎬TV-无尽资源",
       "detail": "",
-      "is_adult": false
+      "is_adult": false,
+      "_fails": 1
     },
     "bfzyapi": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -353,7 +357,8 @@
       "api": "https://hsckzy.xyz/api.php/provide/vod",
       "name": "🔞黄色仓库",
       "detail": "hsckzy.xyz",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "dnzzy": {
       "api": "https://apidanaizi.com/api.php/provide/vod",
