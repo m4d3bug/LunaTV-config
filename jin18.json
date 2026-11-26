@@ -397,7 +397,8 @@
       "name": "🎬TV-cmov_cn",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "mujiziyuan00": {
       "api": "https://mujiziyuan00.com/api.php/provide/vod",

@@ -179,8 +179,7 @@
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "name": "🔞AV-JKUN资源",
       "detail": "https://jkunzyapi.com",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "lbapi9": {
       "api": "https://lbapi9.com/api.php/provide/vod",
@@ -198,14 +197,14 @@
       "api": "https://www.xrbsp.com/api/json.php",
       "name": "🔞AV-淫水机资源",
       "detail": "https://www.xrbsp.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "apiyutu": {
       "api": "https://apiyutu.com/api.php/provide/vod",
       "name": "🔞AV-玉兔资源",
       "detail": "https://apiyutu.com",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "fhapi9": {
       "api": "http://fhapi9.com/api.php/provide/vod",
@@ -217,7 +216,8 @@
       "api": "https://www.kxgav.com/api/json.php",
       "name": "🔞AV-白嫖资源",
       "detail": "https://www.kxgav.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "jingpinx": {
       "api": "https://www.jingpinx.com/api.php/provide/vod",
@@ -229,14 +229,14 @@
       "api": "https://www.msnii.com/api/json.php",
       "name": "🔞AV-美少女资源",
       "detail": "https://www.msnii.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "apilsbzy1": {
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "🔞AV-老色逼资源",
       "detail": "https://apilsbzy1.com",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "apilj": {
       "api": "https://apilj.com/api.php/provide/vod",
@@ -248,7 +248,8 @@
       "api": "https://www.gdlsp.com/api/json.php",
       "name": "🔞AV-香奶儿资源",
       "detail": "https://www.gdlsp.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "shayuapi": {
       "api": "https://shayuapi.com/api.php/provide/vod",
@@ -260,7 +261,8 @@
       "api": "https://www.pgxdy.com/api/json.php",
       "name": "🔞AV-黄AV资源",
       "detail": "https://www.pgxdy.com",
-      "is_adult": true
+      "is_adult": true,
+      "_fails": 1
     },
     "ffzynew": {
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -296,8 +298,7 @@
       "api": "https://hsckzy888.com/api.php/provide/vod",
       "name": "🔞黄色资源啊啊",
       "detail": "",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "xiaojizy": {
       "api": "https://api.xiaojizy.live/provide/vod",
@@ -561,16 +562,14 @@
       "name": "🔞AV-hsckzy_1",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "yutuzy10": {
       "api": "https://yutuzy10.com/api.php/provide/vod",
       "name": "🔞AV-yutuzy10",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "bycj_rytvapi": {
       "api": "https://bycj.rytvapi.com/api.php/provide/vod",
@@ -675,7 +674,8 @@
       "name": "🎬TV-cmov_cn",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "19q": {
       "api": "https://19q.cc/api.php/provide/vod",
