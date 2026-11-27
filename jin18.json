@@ -369,7 +369,8 @@
       "name": "🎬TV-zy_jinchanjiexi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true
+      "auto_discovered": true,
+      "_fails": 1
     },
     "lzizy1": {
       "api": "https://lzizy1.com/api.php/provide/vod",
@@ -397,8 +398,7 @@
       "name": "🎬TV-cmov_cn",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "mujiziyuan00": {
       "api": "https://mujiziyuan00.com/api.php/provide/vod",

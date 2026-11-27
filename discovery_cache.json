@@ -76,10 +76,10 @@
       "time": 1795570153654
     },
     "https://help.m766.com/api.php/provide/vod": {
-      "time": 1795131557081
+      "time": 1795741463005
     },
     "https://help.m766.com/inc/apijson.php": {
-      "time": 1795131557081
+      "time": 1795741463005
     },
     "https://176.113.70.198.static.xtom.com/api.php/provide/vod": {
       "time": 1795490577125
@@ -142,16 +142,16 @@
       "time": 1795216341421
     },
     "https://www.7-kk.com/api.php/provide/vod": {
-      "time": 1795131557081
+      "time": 1795741463005
     },
     "https://www.7-kk.com/inc/apijson.php": {
-      "time": 1795131557081
+      "time": 1795741463005
     },
     "https://7-kk.com/api.php/provide/vod": {
-      "time": 1795131557081
+      "time": 1795741463005
     },
     "https://7-kk.com/inc/apijson.php": {
-      "time": 1795131557081
+      "time": 1795741463005
     },
     "https://239.215.137.122.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
       "time": 1795216341421
@@ -271,5 +271,5 @@
       "time": 1795299298660
     }
   },
-  "lastRun": "2026-11-26T01:02:34.909Z"
+  "lastRun": "2026-11-27T01:04:31.230Z"
 }
