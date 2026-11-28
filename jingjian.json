@@ -293,8 +293,7 @@
       "api": "https://hsckzy888.com/api.php/provide/vod",
       "name": "🔞黄色资源啊啊",
       "detail": "",
-      "is_adult": true,
-      "_fails": 1
+      "is_adult": true
     },
     "xiaojizy": {
       "api": "https://api.xiaojizy.live/provide/vod",
@@ -558,8 +557,7 @@
       "name": "🔞AV-hsckzy_1",
       "detail": "",
       "is_adult": true,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "yutuzy10": {
       "api": "https://yutuzy10.com/api.php/provide/vod",
@@ -643,8 +641,7 @@
       "name": "🎬TV-zy_jinchanjiexi",
       "detail": "",
       "is_adult": false,
-      "auto_discovered": true,
-      "_fails": 1
+      "auto_discovered": true
     },
     "lzizy1": {
       "api": "https://lzizy1.com/api.php/provide/vod",

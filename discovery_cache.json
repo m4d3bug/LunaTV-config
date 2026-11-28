@@ -1,19 +1,19 @@
 {
   "failed": {
     "https://tyyszyapi.com/api.php/provide/vod": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://api.wuxianzy.net/api.php/provide/vod": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://api.fczy888.me/api.php/provide/vod": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://api.1080zyku.com/inc/api.php/provide/vod": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://lovedan.net/api.php/provide/vod": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://we.love.servers.at.ioflood.net/api.php/provide/vod": {
       "time": 1795299298660
@@ -127,19 +127,19 @@
       "time": 1795490577125
     },
     "https://120.38.213.139.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://120.38.213.139.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://zy.jinchanjiexi.net/inc/apijson.php": {
       "time": 1795386932987
     },
     "https://4k.utoclub.top/api.php/provide/vod": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://4k.utoclub.top/inc/apijson.php": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://www.7-kk.com/api.php/provide/vod": {
       "time": 1795741463005
@@ -154,10 +154,10 @@
       "time": 1795741463005
     },
     "https://239.215.137.122.adsl-pool.jlccptt.net.cn/api.php/provide/vod": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://239.215.137.122.adsl-pool.jlccptt.net.cn/inc/apijson.php": {
-      "time": 1795216341421
+      "time": 1795826165763
     },
     "https://www.xxx.com/api.php/provide/vod": {
       "time": 1795299298660
@@ -271,5 +271,5 @@
       "time": 1795299298660
     }
   },
-  "lastRun": "2026-11-27T01:04:31.230Z"
+  "lastRun": "2026-11-28T00:36:23.568Z"
 }
